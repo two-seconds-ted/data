@@ -1,46 +1,52 @@
 {
+    "category": "Endurance",
+    "classes": [
+        "Hypercar",
+        "LMGT3"
+    ],
+    "color": "green",
     "events": [
         {
-            "id": 4928,
-            "name": "Official Prologue",
-            "full_name": "Official Prologue",
             "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
                 "name": "",
                 "search": [
                     ""
                 ],
-                "city": null,
-                "country": null,
                 "series": [
                     "gtwcam",
                     "wec",
                     "gtwcas",
                     "gt4_europe"
-                ],
-                "lat": 0,
-                "lon": 0
+                ]
             },
+            "full_name": "Official Prologue",
+            "id": 4928,
+            "name": "Official Prologue",
             "sessions": {
                 "p": [
                     {
+                        "end": "2025-02-22T12:00:00+00:00",
                         "name": "QATAR 2025 - Session 3",
-                        "start": "2025-02-22T09:00:00+00:00",
-                        "end": "2025-02-22T12:00:00+00:00"
+                        "start": "2025-02-22T09:00:00+00:00"
                     },
                     {
-                        "name": "QATAR 2025 - Session 4",
-                        "start": "2025-02-22T14:00:00+00:00",
-                        "end": "2025-02-22T18:00:00+00:00"
-                    },
-                    {
+                        "end": "2025-02-21T13:00:00+00:00",
                         "name": "QATAR 2025 - Session 1",
-                        "start": "2025-02-21T10:00:00+00:00",
-                        "end": "2025-02-21T13:00:00+00:00"
+                        "start": "2025-02-21T10:00:00+00:00"
                     },
                     {
+                        "end": "2025-02-22T18:00:00+00:00",
+                        "name": "QATAR 2025 - Session 4",
+                        "start": "2025-02-22T14:00:00+00:00"
+                    },
+                    {
+                        "end": "2025-02-21T19:00:00+00:00",
                         "name": "QATAR 2025 - Session 2",
-                        "start": "2025-02-21T15:00:00+00:00",
-                        "end": "2025-02-21T19:00:00+00:00"
+                        "start": "2025-02-21T15:00:00+00:00"
                     }
                 ],
                 "q": [],
@@ -48,10 +54,9 @@
             }
         },
         {
-            "id": 4929,
-            "name": "Qatar 1812km 2025",
-            "full_name": "Qatar 1812km 2025",
             "circuit": {
+                "city": "Lusail",
+                "country": null,
                 "name": "Lusail International Circuit",
                 "search": [
                     "doha",
@@ -62,8 +67,6 @@
                     "lusail international circuit",
                     "qatar"
                 ],
-                "city": "Lusail",
-                "country": null,
                 "series": [
                     "f1",
                     "f2",
@@ -72,62 +75,63 @@
                     "wec"
                 ]
             },
+            "full_name": "Qatar 1812km 2025",
+            "id": 4929,
+            "name": "Qatar 1812km 2025",
             "sessions": {
                 "p": [
                     {
-                        "name": "Free Practice 2",
-                        "start": "2025-02-26T13:50:00+00:00",
-                        "end": "2025-02-26T15:20:00+00:00"
-                    },
-                    {
-                        "name": "Free Practice 3",
-                        "start": "2025-02-27T09:00:00+00:00",
-                        "end": "2025-02-27T10:00:00+00:00"
-                    },
-                    {
+                        "end": "2025-02-26T10:00:00+00:00",
                         "name": "Free Practice 1",
-                        "start": "2025-02-26T08:30:00+00:00",
-                        "end": "2025-02-26T10:00:00+00:00"
+                        "start": "2025-02-26T08:30:00+00:00"
+                    },
+                    {
+                        "end": "2025-02-27T10:00:00+00:00",
+                        "name": "Free Practice 3",
+                        "start": "2025-02-27T09:00:00+00:00"
+                    },
+                    {
+                        "end": "2025-02-26T15:20:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "2025-02-26T13:50:00+00:00"
                     }
                 ],
                 "q": [
                     {
-                        "name": "Hyperpole - HYPERCAR",
-                        "start": "2025-02-27T15:00:00+00:00",
-                        "end": "2025-02-27T15:10:00+00:00"
-                    },
-                    {
-                        "name": "Qualifying - HYPERCAR",
-                        "start": "2025-02-27T14:40:00+00:00",
-                        "end": "2025-02-27T14:52:00+00:00"
-                    },
-                    {
+                        "end": "2025-02-27T14:30:00+00:00",
                         "name": "Hyperpole - LMGT3",
-                        "start": "2025-02-27T14:20:00+00:00",
-                        "end": "2025-02-27T14:30:00+00:00"
+                        "start": "2025-02-27T14:20:00+00:00"
                     },
                     {
+                        "end": "2025-02-27T14:52:00+00:00",
+                        "name": "Qualifying - HYPERCAR",
+                        "start": "2025-02-27T14:40:00+00:00"
+                    },
+                    {
+                        "end": "2025-02-27T15:10:00+00:00",
+                        "name": "Hyperpole - HYPERCAR",
+                        "start": "2025-02-27T15:00:00+00:00"
+                    },
+                    {
+                        "end": "2025-02-27T14:12:00+00:00",
                         "name": "Qualifying - LMGT3",
-                        "start": "2025-02-27T14:00:00+00:00",
-                        "end": "2025-02-27T14:12:00+00:00"
+                        "start": "2025-02-27T14:00:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-02-28T21:00:00+00:00",
                         "name": "Race",
-                        "start": "2025-02-28T11:00:00+00:00",
-                        "end": "2025-02-28T21:00:00+00:00"
+                        "start": "2025-02-28T11:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": 4930,
-            "name": "6 Hours of Imola 2025",
-            "full_name": "6 Hours of Imola 2025",
             "circuit": {
+                "city": "Imola",
+                "country": null,
                 "name": "Autodromo Enzo e Dino Ferrari",
-                "short_name": "imola",
                 "search": [
                     "imola",
                     "imola circuit",
@@ -135,8 +139,6 @@
                     "imola international circuit",
                     "autodromo enzo e dino ferrari"
                 ],
-                "city": "Imola",
-                "country": null,
                 "series": [
                     "f1",
                     "f2",
@@ -147,62 +149,65 @@
                     "elms",
                     "gtwce",
                     "wec"
-                ]
+                ],
+                "short_name": "imola"
             },
+            "full_name": "6 Hours of Imola 2025",
+            "id": 4930,
+            "name": "6 Hours of Imola 2025",
             "sessions": {
                 "p": [
                     {
+                        "end": "2025-04-19T09:40:00+00:00",
                         "name": "Free Practice 3",
-                        "start": "2025-04-19T08:40:00+00:00",
-                        "end": "2025-04-19T09:40:00+00:00"
+                        "start": "2025-04-19T08:40:00+00:00"
                     },
                     {
-                        "name": "Free Practice 2",
-                        "start": "2025-04-18T14:00:00+00:00",
-                        "end": "2025-04-18T15:30:00+00:00"
-                    },
-                    {
+                        "end": "2025-04-18T10:45:00+00:00",
                         "name": "Free Practice 1",
-                        "start": "2025-04-18T09:15:00+00:00",
-                        "end": "2025-04-18T10:45:00+00:00"
+                        "start": "2025-04-18T09:15:00+00:00"
+                    },
+                    {
+                        "end": "2025-04-18T15:30:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "2025-04-18T14:00:00+00:00"
                     }
                 ],
                 "q": [
                     {
-                        "name": "Hyperpole - HYPERCAR",
-                        "start": "2025-04-19T13:30:00+00:00",
-                        "end": "2025-04-19T13:40:00+00:00"
-                    },
-                    {
-                        "name": "Qualifying - HYPERCAR",
-                        "start": "2025-04-19T13:10:00+00:00",
-                        "end": "2025-04-19T13:22:00+00:00"
-                    },
-                    {
+                        "end": "2025-04-19T12:42:00+00:00",
                         "name": "Qualifying - LMGT3",
-                        "start": "2025-04-19T12:30:00+00:00",
-                        "end": "2025-04-19T12:42:00+00:00"
+                        "start": "2025-04-19T12:30:00+00:00"
                     },
                     {
+                        "end": "2025-04-19T13:22:00+00:00",
+                        "name": "Qualifying - HYPERCAR",
+                        "start": "2025-04-19T13:10:00+00:00"
+                    },
+                    {
+                        "end": "2025-04-19T13:40:00+00:00",
+                        "name": "Hyperpole - HYPERCAR",
+                        "start": "2025-04-19T13:30:00+00:00"
+                    },
+                    {
+                        "end": "2025-04-19T13:00:00+00:00",
                         "name": "Hyperpole - LMGT3",
-                        "start": "2025-04-19T12:50:00+00:00",
-                        "end": "2025-04-19T13:00:00+00:00"
+                        "start": "2025-04-19T12:50:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-04-20T17:00:00+00:00",
                         "name": "Race",
-                        "start": "2025-04-20T11:00:00+00:00",
-                        "end": "2025-04-20T17:00:00+00:00"
+                        "start": "2025-04-20T11:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": 4931,
-            "name": "TotalEnergies 6 Hours of Spa-Francorchamps 2025",
-            "full_name": "TotalEnergies 6 Hours of Spa-Francorchamps 2025",
             "circuit": {
+                "city": "Spa",
+                "country": null,
                 "name": "Circuit de Spa-Francorchamps",
                 "search": [
                     "spa-francorchamps",
@@ -213,8 +218,6 @@
                     "spa-francorchamps circuit",
                     "spa francorchamps circuit"
                 ],
-                "city": "Spa",
-                "country": null,
                 "series": [
                     "f1",
                     "f2",
@@ -229,86 +232,89 @@
                     "gt4_europe"
                 ]
             },
+            "full_name": "TotalEnergies 6 Hours of Spa-Francorchamps 2025",
+            "id": 4931,
+            "name": "TotalEnergies 6 Hours of Spa-Francorchamps 2025",
             "sessions": {
                 "p": [
                     {
-                        "name": "Free Practice 2",
-                        "start": "2025-05-08T14:30:00+00:00",
-                        "end": "2025-05-08T16:30:00+00:00"
-                    },
-                    {
+                        "end": "2025-05-09T10:00:00+00:00",
                         "name": "Free Practice 3",
-                        "start": "2025-05-09T09:00:00+00:00",
-                        "end": "2025-05-09T10:00:00+00:00"
+                        "start": "2025-05-09T09:00:00+00:00"
                     },
                     {
+                        "end": "2025-05-08T16:30:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "2025-05-08T14:30:00+00:00"
+                    },
+                    {
+                        "end": "2025-05-08T11:00:00+00:00",
                         "name": "Free Practice 1",
-                        "start": "2025-05-08T09:30:00+00:00",
-                        "end": "2025-05-08T11:00:00+00:00"
+                        "start": "2025-05-08T09:30:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2025-05-09T13:15:00+00:00",
                         "name": "Hyperpole - LMGT3",
-                        "start": "2025-05-09T13:03:00+00:00",
-                        "end": "2025-05-09T13:15:00+00:00"
+                        "start": "2025-05-09T13:03:00+00:00"
                     },
                     {
-                        "name": "Hyperpole - HYPERCAR",
-                        "start": "2025-05-09T13:48:00+00:00",
-                        "end": "2025-05-09T14:00:00+00:00"
-                    },
-                    {
+                        "end": "2025-05-09T13:40:00+00:00",
                         "name": "Qualifying - HYPERCAR",
-                        "start": "2025-05-09T13:25:00+00:00",
-                        "end": "2025-05-09T13:40:00+00:00"
+                        "start": "2025-05-09T13:25:00+00:00"
                     },
                     {
+                        "end": "2025-05-09T14:00:00+00:00",
+                        "name": "Hyperpole - HYPERCAR",
+                        "start": "2025-05-09T13:48:00+00:00"
+                    },
+                    {
+                        "end": "2025-05-09T12:55:00+00:00",
                         "name": "Qualifying - LMGT3",
-                        "start": "2025-05-09T12:40:00+00:00",
-                        "end": "2025-05-09T12:55:00+00:00"
+                        "start": "2025-05-09T12:40:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-05-10T18:00:00+00:00",
                         "name": "Race",
-                        "start": "2025-05-10T12:00:00+00:00",
-                        "end": "2025-05-10T18:00:00+00:00"
+                        "start": "2025-05-10T12:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": 4932,
-            "name": "Test Day 2025",
-            "full_name": "Test Day 2025",
             "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
                 "name": "",
                 "search": [
                     ""
                 ],
-                "city": null,
-                "country": null,
                 "series": [
                     "gtwcam",
                     "wec",
                     "gtwcas",
                     "gt4_europe"
-                ],
-                "lat": 0,
-                "lon": 0
+                ]
             },
+            "full_name": "Test Day 2025",
+            "id": 4932,
+            "name": "Test Day 2025",
             "sessions": {
                 "p": [
                     {
+                        "end": "2025-06-08T16:30:00+00:00",
                         "name": "Session 2",
-                        "start": "2025-06-08T13:30:00+00:00",
-                        "end": "2025-06-08T16:30:00+00:00"
+                        "start": "2025-06-08T13:30:00+00:00"
                     },
                     {
+                        "end": "2025-06-08T11:00:00+00:00",
                         "name": "Session 1",
-                        "start": "2025-06-08T08:00:00+00:00",
-                        "end": "2025-06-08T11:00:00+00:00"
+                        "start": "2025-06-08T08:00:00+00:00"
                     }
                 ],
                 "q": [],
@@ -316,10 +322,11 @@
             }
         },
         {
-            "id": 4933,
-            "name": "24 Hours of Le Mans 2025",
-            "full_name": "24 Hours of Le Mans 2025",
             "circuit": {
+                "city": "Le Mans",
+                "country": "France",
+                "lat": 0,
+                "lon": 0,
                 "name": "Circuit des 24 Heures du Mans",
                 "search": [
                     "circuit des 24 heures du mans",
@@ -327,88 +334,86 @@
                     "le mans",
                     "sarthe"
                 ],
-                "city": "Le Mans",
-                "country": "France",
                 "series": [
                     "wec"
-                ],
-                "lat": 0,
-                "lon": 0
+                ]
             },
+            "full_name": "24 Hours of Le Mans 2025",
+            "id": 4933,
+            "name": "24 Hours of Le Mans 2025",
             "sessions": {
                 "p": [
                     {
+                        "end": "2025-06-11T22:00:00+00:00",
                         "name": "Free Practice 2",
-                        "start": "2025-06-11T20:00:00+00:00",
-                        "end": "2025-06-11T22:00:00+00:00"
+                        "start": "2025-06-11T20:00:00+00:00"
                     },
                     {
-                        "name": "Warm-up",
-                        "start": "2025-06-14T10:00:00+00:00",
-                        "end": "2025-06-14T10:15:00+00:00"
-                    },
-                    {
-                        "name": "Free Practice 4",
-                        "start": "2025-06-12T21:00:00+00:00",
-                        "end": "2025-06-12T22:00:00+00:00"
-                    },
-                    {
+                        "end": "2025-06-11T15:00:00+00:00",
                         "name": "Free Practice 1",
-                        "start": "2025-06-11T12:00:00+00:00",
-                        "end": "2025-06-11T15:00:00+00:00"
+                        "start": "2025-06-11T12:00:00+00:00"
                     },
                     {
+                        "end": "2025-06-14T10:15:00+00:00",
+                        "name": "Warm-up",
+                        "start": "2025-06-14T10:00:00+00:00"
+                    },
+                    {
+                        "end": "2025-06-12T15:45:00+00:00",
                         "name": "Free Practice 3",
-                        "start": "2025-06-12T12:45:00+00:00",
-                        "end": "2025-06-12T15:45:00+00:00"
+                        "start": "2025-06-12T12:45:00+00:00"
+                    },
+                    {
+                        "end": "2025-06-12T22:00:00+00:00",
+                        "name": "Free Practice 4",
+                        "start": "2025-06-12T21:00:00+00:00"
                     }
                 ],
                 "q": [
                     {
-                        "name": "Qualifying - LMP2 & LMGT3",
-                        "start": "2025-06-11T16:45:00+00:00",
-                        "end": "2025-06-11T17:15:00+00:00"
-                    },
-                    {
-                        "name": "HYPERPOLE 2 - HYPERCAR",
-                        "start": "2025-06-12T19:40:00+00:00",
-                        "end": "2025-06-12T19:55:00+00:00"
-                    },
-                    {
-                        "name": "Qualifying - Hypercar",
-                        "start": "2025-06-11T17:30:00+00:00",
-                        "end": "2025-06-11T18:00:00+00:00"
-                    },
-                    {
-                        "name": "HYPERPOLE 1 - HYPERCAR",
-                        "start": "2025-06-12T19:05:00+00:00",
-                        "end": "2025-06-12T19:25:00+00:00"
-                    },
-                    {
+                        "end": "2025-06-12T18:50:00+00:00",
                         "name": "HYPERPOLE 2 - LMP2 & LMGT3",
-                        "start": "2025-06-12T18:35:00+00:00",
-                        "end": "2025-06-12T18:50:00+00:00"
+                        "start": "2025-06-12T18:35:00+00:00"
                     },
                     {
+                        "end": "2025-06-12T19:55:00+00:00",
+                        "name": "HYPERPOLE 2 - HYPERCAR",
+                        "start": "2025-06-12T19:40:00+00:00"
+                    },
+                    {
+                        "end": "2025-06-11T17:15:00+00:00",
+                        "name": "Qualifying - LMP2 & LMGT3",
+                        "start": "2025-06-11T16:45:00+00:00"
+                    },
+                    {
+                        "end": "2025-06-11T18:00:00+00:00",
+                        "name": "Qualifying - Hypercar",
+                        "start": "2025-06-11T17:30:00+00:00"
+                    },
+                    {
+                        "end": "2025-06-12T18:20:00+00:00",
                         "name": "HYPERPOLE 1 - LMP2 & LMGT3",
-                        "start": "2025-06-12T18:00:00+00:00",
-                        "end": "2025-06-12T18:20:00+00:00"
+                        "start": "2025-06-12T18:00:00+00:00"
+                    },
+                    {
+                        "end": "2025-06-12T19:25:00+00:00",
+                        "name": "HYPERPOLE 1 - HYPERCAR",
+                        "start": "2025-06-12T19:05:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-06-15T14:00:00+00:00",
                         "name": "Race",
-                        "start": "2025-06-14T14:00:00+00:00",
-                        "end": "2025-06-15T14:00:00+00:00"
+                        "start": "2025-06-14T14:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": 4934,
-            "name": "Rolex 6 Hours of São Paulo 2025",
-            "full_name": "Rolex 6 Hours of São Paulo 2025",
             "circuit": {
+                "city": "São Paulo",
+                "country": null,
                 "name": "Interlagos Circuit",
                 "search": [
                     "sao paulo",
@@ -416,8 +421,6 @@
                     "interlagos",
                     "são paulo"
                 ],
-                "city": "São Paulo",
-                "country": null,
                 "series": [
                     "f1",
                     "f2",
@@ -427,60 +430,64 @@
                     "wec"
                 ]
             },
+            "full_name": "Rolex 6 Hours of São Paulo 2025",
+            "id": 4934,
+            "name": "Rolex 6 Hours of São Paulo 2025",
             "sessions": {
                 "p": [
                     {
+                        "end": "2025-07-12T14:10:00+00:00",
                         "name": "Free Practice 3",
-                        "start": "2025-07-12T13:10:00+00:00",
-                        "end": "2025-07-12T14:10:00+00:00"
+                        "start": "2025-07-12T13:10:00+00:00"
                     },
                     {
+                        "end": "2025-07-11T15:30:00+00:00",
                         "name": "Free Practice 1",
-                        "start": "2025-07-11T14:00:00+00:00",
-                        "end": "2025-07-11T15:30:00+00:00"
+                        "start": "2025-07-11T14:00:00+00:00"
                     },
                     {
+                        "end": "2025-07-11T20:15:00+00:00",
                         "name": "Free Practice 2",
-                        "start": "2025-07-11T18:45:00+00:00",
-                        "end": "2025-07-11T20:15:00+00:00"
+                        "start": "2025-07-11T18:45:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2025-07-12T18:15:00+00:00",
                         "name": "Hyperpole - LMGT3",
-                        "start": "2025-07-12T18:05:00+00:00",
-                        "end": "2025-07-12T18:15:00+00:00"
+                        "start": "2025-07-12T18:05:00+00:00"
                     },
                     {
-                        "name": "Qualifying - LMGT3",
-                        "start": "2025-07-12T17:45:00+00:00",
-                        "end": "2025-07-12T17:57:00+00:00"
-                    },
-                    {
+                        "end": "2025-07-12T18:55:00+00:00",
                         "name": "Hyperpole - HYPERCAR",
-                        "start": "2025-07-12T18:45:00+00:00",
-                        "end": "2025-07-12T18:55:00+00:00"
+                        "start": "2025-07-12T18:45:00+00:00"
                     },
                     {
+                        "end": "2025-07-12T18:37:00+00:00",
                         "name": "Qualifying - HYPERCAR",
-                        "start": "2025-07-12T18:25:00+00:00",
-                        "end": "2025-07-12T18:37:00+00:00"
+                        "start": "2025-07-12T18:25:00+00:00"
+                    },
+                    {
+                        "end": "2025-07-12T17:57:00+00:00",
+                        "name": "Qualifying - LMGT3",
+                        "start": "2025-07-12T17:45:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-07-13T20:30:00+00:00",
                         "name": "Race",
-                        "start": "2025-07-13T14:30:00+00:00",
-                        "end": "2025-07-13T20:30:00+00:00"
+                        "start": "2025-07-13T14:30:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": 4935,
-            "name": "Lone Star Le Mans 2025",
-            "full_name": "Lone Star Le Mans 2025",
             "circuit": {
+                "city": "Le Mans",
+                "country": "France",
+                "lat": 0,
+                "lon": 0,
                 "name": "Circuit des 24 Heures du Mans",
                 "search": [
                     "circuit des 24 heures du mans",
@@ -488,136 +495,134 @@
                     "le mans",
                     "sarthe"
                 ],
-                "city": "Le Mans",
-                "country": "France",
                 "series": [
                     "wec"
-                ],
-                "lat": 0,
-                "lon": 0
+                ]
             },
+            "full_name": "Lone Star Le Mans 2025",
+            "id": 4935,
+            "name": "Lone Star Le Mans 2025",
             "sessions": {
                 "p": [
                     {
-                        "name": "Free Practice 3",
-                        "start": "2025-09-06T16:00:00+00:00",
-                        "end": "2025-09-06T17:00:00+00:00"
-                    },
-                    {
-                        "name": "Free Practice 2",
-                        "start": "2025-09-05T21:00:00+00:00",
-                        "end": "2025-09-05T22:30:00+00:00"
-                    },
-                    {
+                        "end": "2025-09-05T18:00:00+00:00",
                         "name": "Free Practice 1",
-                        "start": "2025-09-05T16:30:00+00:00",
-                        "end": "2025-09-05T18:00:00+00:00"
+                        "start": "2025-09-05T16:30:00+00:00"
+                    },
+                    {
+                        "end": "2025-09-06T17:00:00+00:00",
+                        "name": "Free Practice 3",
+                        "start": "2025-09-06T16:00:00+00:00"
+                    },
+                    {
+                        "end": "2025-09-05T22:30:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "2025-09-05T21:00:00+00:00"
                     }
                 ],
                 "q": [
                     {
-                        "name": "Hyperpole - HYPERCAR",
-                        "start": "2025-09-06T21:00:00+00:00",
-                        "end": "2025-09-06T21:10:00+00:00"
-                    },
-                    {
+                        "end": "2025-09-06T20:12:00+00:00",
                         "name": "Qualifying - LMGT3",
-                        "start": "2025-09-06T20:00:00+00:00",
-                        "end": "2025-09-06T20:12:00+00:00"
+                        "start": "2025-09-06T20:00:00+00:00"
                     },
                     {
-                        "name": "Qualifying - HYPERCAR",
-                        "start": "2025-09-06T20:40:00+00:00",
-                        "end": "2025-09-06T20:52:00+00:00"
-                    },
-                    {
+                        "end": "2025-09-06T20:30:00+00:00",
                         "name": "Hyperpole - LMGT3",
-                        "start": "2025-09-06T20:20:00+00:00",
-                        "end": "2025-09-06T20:30:00+00:00"
+                        "start": "2025-09-06T20:20:00+00:00"
+                    },
+                    {
+                        "end": "2025-09-06T20:52:00+00:00",
+                        "name": "Qualifying - HYPERCAR",
+                        "start": "2025-09-06T20:40:00+00:00"
+                    },
+                    {
+                        "end": "2025-09-06T21:10:00+00:00",
+                        "name": "Hyperpole - HYPERCAR",
+                        "start": "2025-09-06T21:00:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-09-08T00:00:00+00:00",
                         "name": "Race",
-                        "start": "2025-09-07T18:00:00+00:00",
-                        "end": "2025-09-08T00:00:00+00:00"
+                        "start": "2025-09-07T18:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": 4936,
-            "name": "6 Hours of Fuji 2025",
-            "full_name": "6 Hours of Fuji 2025",
             "circuit": {
+                "city": "Fuji",
+                "country": "Japan",
                 "name": "Fuji International Speedway",
                 "search": [
                     "fuji international speedway",
                     "fuji speedway",
                     "fuji"
                 ],
-                "city": "Fuji",
-                "country": "Japan",
                 "series": [
                     "japan_cup",
                     "gtwcas",
                     "wec"
                 ]
             },
+            "full_name": "6 Hours of Fuji 2025",
+            "id": 4936,
+            "name": "6 Hours of Fuji 2025",
             "sessions": {
                 "p": [
                     {
+                        "end": "2025-09-26T16:00:00+00:00",
                         "name": "Free Practice 3",
-                        "start": "2025-09-26T15:00:00+00:00",
-                        "end": "2025-09-26T16:00:00+00:00"
+                        "start": "2025-09-26T15:00:00+00:00"
                     },
                     {
-                        "name": "Free Practice 2",
-                        "start": "2025-09-25T15:00:00+00:00",
-                        "end": "2025-09-25T16:30:00+00:00"
-                    },
-                    {
+                        "end": "2025-09-25T16:30:00+00:00",
                         "name": "Free Practice 1",
-                        "start": "2025-09-25T15:00:00+00:00",
-                        "end": "2025-09-25T16:30:00+00:00"
+                        "start": "2025-09-25T15:00:00+00:00"
+                    },
+                    {
+                        "end": "2025-09-25T16:30:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "2025-09-25T15:00:00+00:00"
                     }
                 ],
                 "q": [
                     {
-                        "name": "Hyperpole - LMGT3",
-                        "start": "2025-09-26T15:00:00+00:00",
-                        "end": "2025-09-26T15:10:00+00:00"
-                    },
-                    {
+                        "end": "2025-09-26T15:12:00+00:00",
                         "name": "Qualifying - LMGT3",
-                        "start": "2025-09-26T15:00:00+00:00",
-                        "end": "2025-09-26T15:12:00+00:00"
+                        "start": "2025-09-26T15:00:00+00:00"
                     },
                     {
+                        "end": "2025-09-26T15:10:00+00:00",
                         "name": "Hyperpole - HYPERCAR",
-                        "start": "2025-09-26T15:00:00+00:00",
-                        "end": "2025-09-26T15:10:00+00:00"
+                        "start": "2025-09-26T15:00:00+00:00"
                     },
                     {
+                        "end": "2025-09-26T15:12:00+00:00",
                         "name": "Qualifying - HYPERCAR",
-                        "start": "2025-09-26T15:00:00+00:00",
-                        "end": "2025-09-26T15:12:00+00:00"
+                        "start": "2025-09-26T15:00:00+00:00"
+                    },
+                    {
+                        "end": "2025-09-26T15:10:00+00:00",
+                        "name": "Hyperpole - LMGT3",
+                        "start": "2025-09-26T15:00:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-09-28T08:00:00+00:00",
                         "name": "Race",
-                        "start": "2025-09-28T02:00:00+00:00",
-                        "end": "2025-09-28T08:00:00+00:00"
+                        "start": "2025-09-28T02:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": 4937,
-            "name": "Bapco Energies 8 Hours of Bahrain 2025",
-            "full_name": "Bapco Energies 8 Hours of Bahrain 2025",
             "circuit": {
+                "city": "Sakhir",
+                "country": null,
                 "name": "Sakhir International Circuit",
                 "search": [
                     "sakhir",
@@ -625,8 +630,6 @@
                     "sakhir circuit",
                     "bahrain"
                 ],
-                "city": "Sakhir",
-                "country": null,
                 "series": [
                     "f1",
                     "f2",
@@ -636,81 +639,84 @@
                     "gt4_europe"
                 ]
             },
+            "full_name": "Bapco Energies 8 Hours of Bahrain 2025",
+            "id": 4937,
+            "name": "Bapco Energies 8 Hours of Bahrain 2025",
             "sessions": {
                 "p": [
                     {
+                        "end": "2025-11-06T22:00:00+00:00",
                         "name": "Free Practice 3",
-                        "start": "2025-11-06T21:00:00+00:00",
-                        "end": "2025-11-06T22:00:00+00:00"
+                        "start": "2025-11-06T21:00:00+00:00"
                     },
                     {
-                        "name": "Free Practice 1",
-                        "start": "2025-11-05T21:00:00+00:00",
-                        "end": "2025-11-05T22:30:00+00:00"
-                    },
-                    {
+                        "end": "2025-11-05T22:30:00+00:00",
                         "name": "Free Practice 2",
-                        "start": "2025-11-05T21:00:00+00:00",
-                        "end": "2025-11-05T22:30:00+00:00"
+                        "start": "2025-11-05T21:00:00+00:00"
+                    },
+                    {
+                        "end": "2025-11-05T22:30:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2025-11-05T21:00:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2025-11-06T21:12:00+00:00",
                         "name": "Qualifying - HYPERCAR",
-                        "start": "2025-11-06T21:00:00+00:00",
-                        "end": "2025-11-06T21:12:00+00:00"
+                        "start": "2025-11-06T21:00:00+00:00"
                     },
                     {
-                        "name": "Qualifying - LMGT3",
-                        "start": "2025-11-06T21:00:00+00:00",
-                        "end": "2025-11-06T21:12:00+00:00"
-                    },
-                    {
+                        "end": "2025-11-06T21:10:00+00:00",
                         "name": "Hyperpole - HYPERCAR",
-                        "start": "2025-11-06T21:00:00+00:00",
-                        "end": "2025-11-06T21:10:00+00:00"
+                        "start": "2025-11-06T21:00:00+00:00"
                     },
                     {
+                        "end": "2025-11-06T21:10:00+00:00",
                         "name": "Hyperpole - LMGT3",
-                        "start": "2025-11-06T21:00:00+00:00",
-                        "end": "2025-11-06T21:10:00+00:00"
+                        "start": "2025-11-06T21:00:00+00:00"
+                    },
+                    {
+                        "end": "2025-11-06T21:12:00+00:00",
+                        "name": "Qualifying - LMGT3",
+                        "start": "2025-11-06T21:00:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-11-08T19:00:00+00:00",
                         "name": "Race",
-                        "start": "2025-11-08T11:00:00+00:00",
-                        "end": "2025-11-08T19:00:00+00:00"
+                        "start": "2025-11-08T11:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": 4938,
-            "name": "Rookie Test 2025",
-            "full_name": "Rookie Test 2025",
             "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
                 "name": "",
                 "search": [
                     ""
                 ],
-                "city": null,
-                "country": null,
                 "series": [
                     "gtwcam",
                     "wec",
                     "gtwcas",
                     "gt4_europe"
-                ],
-                "lat": 0,
-                "lon": 0
+                ]
             },
+            "full_name": "Rookie Test 2025",
+            "id": 4938,
+            "name": "Rookie Test 2025",
             "sessions": {
                 "p": [
                     {
+                        "end": "2025-11-09T13:00:00+00:00",
                         "name": "Session",
-                        "start": "2025-11-09T09:00:00+00:00",
-                        "end": "2025-11-09T13:00:00+00:00"
+                        "start": "2025-11-09T09:00:00+00:00"
                     }
                 ],
                 "q": [],
@@ -718,17 +724,11 @@
             }
         }
     ],
-    "color": "green",
-    "last_scraped": "2025-07-25T19:02:01.196254+00:00",
     "full_name": "FIA World Endurance Championship",
-    "name": "WEC",
-    "category": "Endurance",
-    "gov_body": "FIA",
-    "source": "https://www.fiawec.com/",
-    "version": "0.6.4",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
-    "classes": [
-        "Hypercar",
-        "LMGT3"
-    ]
+    "gov_body": "FIA",
+    "last_scraped": "2025-07-26T09:57:11.451166+00:00",
+    "name": "WEC",
+    "source": "https://www.fiawec.com/",
+    "version": "0.6.5"
 }

@@ -1,12 +1,15 @@
 {
+    "category": "Open-Wheel",
+    "classes": [
+        "IndyCar"
+    ],
+    "color": "orange",
     "events": [
         {
-            "id": "grand-prix-of-alabama",
-            "name": "Honda Indy Grand Prix of Alabama",
-            "full_name": "Honda Indy Grand Prix of Alabama",
             "circuit": {
+                "city": "Leeds",
+                "country": null,
                 "name": "Barber Motorsports Park",
-                "short_name": "barber",
                 "search": [
                     "barber motorsports park",
                     "barber motorsport park",
@@ -14,8 +17,6 @@
                     "barber",
                     "birmingham, alabama"
                 ],
-                "city": "Leeds",
-                "country": null,
                 "series": [
                     "mx5_cup",
                     "indycar",
@@ -24,47 +25,50 @@
                     "gr_cup",
                     "gtwcam",
                     "gt_america"
-                ]
+                ],
+                "short_name": "barber"
             },
+            "full_name": "Honda Indy Grand Prix of Alabama",
+            "id": "grand-prix-of-alabama",
+            "name": "Honda Indy Grand Prix of Alabama",
             "sessions": {
                 "p": [
                     {
+                        "end": "2021-04-17T15:45:00+00:00",
                         "name": "Practice 1",
-                        "start": "2021-04-17T15:00:00+00:00",
-                        "end": "2021-04-17T15:45:00+00:00"
+                        "start": "2021-04-17T15:00:00+00:00"
                     },
                     {
+                        "end": "2021-04-17T19:10:00+00:00",
                         "name": "Practice 2",
-                        "start": "2021-04-17T18:40:00+00:00",
-                        "end": "2021-04-17T19:10:00+00:00"
+                        "start": "2021-04-17T18:40:00+00:00"
                     },
                     {
+                        "end": "2021-04-18T16:00:00+00:00",
                         "name": "Warmup",
-                        "start": "2021-04-18T15:30:00+00:00",
-                        "end": "2021-04-18T16:00:00+00:00"
+                        "start": "2021-04-18T15:30:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2021-04-17T22:55:00+00:00",
                         "name": "Qualifying",
-                        "start": "2021-04-17T21:55:00+00:00",
-                        "end": "2021-04-17T22:55:00+00:00"
+                        "start": "2021-04-17T21:55:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2021-04-18T19:57:00+00:00",
                         "name": "Race",
-                        "start": "2021-04-18T19:00:00+00:00",
-                        "end": "2021-04-18T19:57:00+00:00"
+                        "start": "2021-04-18T19:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "grand-prix-of-st-petersburg",
-            "name": "Firestone Grand Prix of St. Petersburg",
-            "full_name": "Firestone Grand Prix of St. Petersburg",
             "circuit": {
+                "city": "St. Petersburg",
+                "country": null,
                 "name": "Streets of St. Petersburg",
                 "search": [
                     "streets of st. petersburg",
@@ -77,8 +81,6 @@
                     "saint petersburg",
                     "saint pete"
                 ],
-                "city": "St. Petersburg",
-                "country": null,
                 "series": [
                     "mx5_cup",
                     "indycar",
@@ -88,45 +90,92 @@
                     "gt_america"
                 ]
             },
+            "full_name": "Firestone Grand Prix of St. Petersburg",
+            "id": "grand-prix-of-st-petersburg",
+            "name": "Firestone Grand Prix of St. Petersburg",
             "sessions": {
                 "p": [
                     {
+                        "end": "2021-04-24T15:45:00+00:00",
                         "name": "Practice 1",
-                        "start": "2021-04-24T15:00:00+00:00",
-                        "end": "2021-04-24T15:45:00+00:00"
+                        "start": "2021-04-24T15:00:00+00:00"
                     },
                     {
+                        "end": "2021-04-24T15:30:00+00:00",
                         "name": "Practice 2",
-                        "start": "2021-04-24T15:00:00+00:00",
-                        "end": "2021-04-24T15:30:00+00:00"
+                        "start": "2021-04-24T15:00:00+00:00"
                     },
                     {
+                        "end": "2021-04-25T15:30:00+00:00",
                         "name": "Warmup",
-                        "start": "2021-04-25T15:00:00+00:00",
-                        "end": "2021-04-25T15:30:00+00:00"
+                        "start": "2021-04-25T15:00:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2021-04-24T16:00:00+00:00",
                         "name": "Qualifying",
-                        "start": "2021-04-24T15:00:00+00:00",
-                        "end": "2021-04-24T16:00:00+00:00"
+                        "start": "2021-04-24T15:00:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2021-04-25T16:57:00+00:00",
                         "name": "Race",
-                        "start": "2021-04-25T16:00:00+00:00",
-                        "end": "2021-04-25T16:57:00+00:00"
+                        "start": "2021-04-25T16:00:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": "Austin",
+                "country": null,
+                "name": "Circuit of the Americas",
+                "search": [
+                    "circuit of the americas",
+                    "cota",
+                    "austin",
+                    "texas"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "iwsc",
+                    "isc",
+                    "impc",
+                    "mx5_cup",
+                    "tc_america",
+                    "gt4_america",
+                    "gr_cup",
+                    "gt2_europe",
+                    "gtwcam",
+                    "elms",
+                    "gt_america",
+                    "indycar"
+                ]
+            },
+            "full_name": "Genesys 300",
             "id": "genesys-300",
             "name": "Genesys 300",
-            "full_name": "Genesys 300",
+            "sessions": {
+                "p": [],
+                "q": [],
+                "r": [
+                    {
+                        "end": "2021-05-01T16:57:00+00:00",
+                        "name": "Race",
+                        "start": "2021-05-01T16:00:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
             "circuit": {
+                "city": "Austin",
+                "country": null,
                 "name": "Circuit of the Americas",
                 "search": [
                     "circuit of the americas",
@@ -134,8 +183,6 @@
                     "austin",
                     "texas"
                 ],
-                "city": "Austin",
-                "country": null,
                 "series": [
                     "f1",
                     "f2",
@@ -155,68 +202,25 @@
                     "indycar"
                 ]
             },
-            "sessions": {
-                "p": [],
-                "q": [],
-                "r": [
-                    {
-                        "name": "Race",
-                        "start": "2021-05-01T16:00:00+00:00",
-                        "end": "2021-05-01T16:57:00+00:00"
-                    }
-                ]
-            }
-        },
-        {
+            "full_name": "XPEL 375",
             "id": "xpel-375",
             "name": "XPEL 375",
-            "full_name": "XPEL 375",
-            "circuit": {
-                "name": "Circuit of the Americas",
-                "search": [
-                    "circuit of the americas",
-                    "cota",
-                    "austin",
-                    "texas"
-                ],
-                "city": "Austin",
-                "country": null,
-                "series": [
-                    "f1",
-                    "f2",
-                    "f3",
-                    "f1-academy",
-                    "iwsc",
-                    "isc",
-                    "impc",
-                    "mx5_cup",
-                    "tc_america",
-                    "gt4_america",
-                    "gr_cup",
-                    "gt2_europe",
-                    "gtwcam",
-                    "elms",
-                    "gt_america",
-                    "indycar"
-                ]
-            },
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2021-05-02T21:57:00+00:00",
                         "name": "Race",
-                        "start": "2021-05-02T21:00:00+00:00",
-                        "end": "2021-05-02T21:57:00+00:00"
+                        "start": "2021-05-02T21:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "gmr-grand-prix",
-            "name": "GMR Grand Prix",
-            "full_name": "GMR Grand Prix",
             "circuit": {
+                "city": "Indianapolis",
+                "country": null,
                 "name": "Indianapolis Motor Speedway",
                 "search": [
                     "indianapolis motor speedway",
@@ -227,8 +231,6 @@
                     "the brickyard",
                     "speedway, indiana"
                 ],
-                "city": "Indianapolis",
-                "country": null,
                 "series": [
                     "iwsc",
                     "isc",
@@ -244,67 +246,103 @@
                     "igtc"
                 ]
             },
+            "full_name": "GMR Grand Prix",
+            "id": "gmr-grand-prix",
+            "name": "GMR Grand Prix",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2021-05-15T19:27:00+00:00",
                         "name": "Race",
-                        "start": "2021-05-15T18:30:00+00:00",
-                        "end": "2021-05-15T19:27:00+00:00"
+                        "start": "2021-05-15T18:30:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": "Indianapolis",
+                "country": null,
+                "name": "Indianapolis Motor Speedway",
+                "search": [
+                    "indianapolis motor speedway",
+                    "indy",
+                    "indianapolis",
+                    "bricks",
+                    "indianapolis motorspeedway",
+                    "the brickyard",
+                    "speedway, indiana"
+                ],
+                "series": [
+                    "iwsc",
+                    "isc",
+                    "impc",
+                    "mx5_cup",
+                    "indycar",
+                    "tc_america",
+                    "gt4_america",
+                    "gr_cup",
+                    "gtwcam",
+                    "gt2_europe",
+                    "gt_america",
+                    "igtc"
+                ]
+            },
+            "full_name": "105th Running of the Indianapolis 500",
             "id": "indy-500",
             "name": "105th Running of the Indianapolis 500",
-            "full_name": "105th Running of the Indianapolis 500",
-            "circuit": {
-                "name": "Indianapolis Motor Speedway",
-                "search": [
-                    "indianapolis motor speedway",
-                    "indy",
-                    "indianapolis",
-                    "bricks",
-                    "indianapolis motorspeedway",
-                    "the brickyard",
-                    "speedway, indiana"
-                ],
-                "city": "Indianapolis",
-                "country": null,
-                "series": [
-                    "iwsc",
-                    "isc",
-                    "impc",
-                    "mx5_cup",
-                    "indycar",
-                    "tc_america",
-                    "gt4_america",
-                    "gr_cup",
-                    "gtwcam",
-                    "gt2_europe",
-                    "gt_america",
-                    "igtc"
-                ]
-            },
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2021-05-30T15:57:00+00:00",
                         "name": "Race",
-                        "start": "2021-05-30T15:00:00+00:00",
-                        "end": "2021-05-30T15:57:00+00:00"
+                        "start": "2021-05-30T15:00:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": "Detroit",
+                "country": null,
+                "name": "Detroit Street Circuit",
+                "search": [
+                    "detroit street circuit",
+                    "detroit street course",
+                    "detroit street race",
+                    "detroit"
+                ],
+                "series": [
+                    "iwsc",
+                    "isc",
+                    "impc",
+                    "mx5_cup",
+                    "indycar"
+                ]
+            },
+            "full_name": "Chevrolet Detroit Grand Prix Race 1",
             "id": "chevrolet-detroit-grand-prix",
             "name": "Chevrolet Detroit Grand Prix Race 1",
-            "full_name": "Chevrolet Detroit Grand Prix Race 1",
+            "sessions": {
+                "p": [],
+                "q": [],
+                "r": [
+                    {
+                        "end": "2021-06-12T18:57:00+00:00",
+                        "name": "Race",
+                        "start": "2021-06-12T18:00:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
             "circuit": {
+                "city": "Detroit",
+                "country": null,
                 "name": "Detroit Street Circuit",
                 "search": [
                     "detroit street circuit",
@@ -312,8 +350,6 @@
                     "detroit street race",
                     "detroit"
                 ],
-                "city": "Detroit",
-                "country": null,
                 "series": [
                     "iwsc",
                     "isc",
@@ -322,23 +358,25 @@
                     "indycar"
                 ]
             },
-            "sessions": {
-                "p": [],
-                "q": [],
-                "r": [
-                    {
-                        "name": "Race",
-                        "start": "2021-06-12T18:00:00+00:00",
-                        "end": "2021-06-12T18:57:00+00:00"
-                    }
-                ]
-            }
-        },
-        {
+            "full_name": "Chevrolet Detroit Grand Prix Race 2",
             "id": "chevrolet-detroit-grand-prix-2",
             "name": "Chevrolet Detroit Grand Prix Race 2",
-            "full_name": "Chevrolet Detroit Grand Prix Race 2",
+            "sessions": {
+                "p": [],
+                "q": [],
+                "r": [
+                    {
+                        "end": "2021-06-13T18:57:00+00:00",
+                        "name": "Race",
+                        "start": "2021-06-13T18:00:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
             "circuit": {
+                "city": "Detroit",
+                "country": null,
                 "name": "Detroit Street Circuit",
                 "search": [
                     "detroit street circuit",
@@ -346,8 +384,6 @@
                     "detroit street race",
                     "detroit"
                 ],
-                "city": "Detroit",
-                "country": null,
                 "series": [
                     "iwsc",
                     "isc",
@@ -356,57 +392,25 @@
                     "indycar"
                 ]
             },
-            "sessions": {
-                "p": [],
-                "q": [],
-                "r": [
-                    {
-                        "name": "Race",
-                        "start": "2021-06-13T18:00:00+00:00",
-                        "end": "2021-06-13T18:57:00+00:00"
-                    }
-                ]
-            }
-        },
-        {
+            "full_name": "REV Group Grand Prix",
             "id": "rev-group-grand-prix",
             "name": "REV Group Grand Prix",
-            "full_name": "REV Group Grand Prix",
-            "circuit": {
-                "name": "Detroit Street Circuit",
-                "search": [
-                    "detroit street circuit",
-                    "detroit street course",
-                    "detroit street race",
-                    "detroit"
-                ],
-                "city": "Detroit",
-                "country": null,
-                "series": [
-                    "iwsc",
-                    "isc",
-                    "impc",
-                    "mx5_cup",
-                    "indycar"
-                ]
-            },
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2021-06-20T16:57:00+00:00",
                         "name": "Race",
-                        "start": "2021-06-20T16:00:00+00:00",
-                        "end": "2021-06-20T16:57:00+00:00"
+                        "start": "2021-06-20T16:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "honda-indy-200-mid-ohio",
-            "name": "Honda Indy 200 at Mid-Ohio",
-            "full_name": "Honda Indy 200 at Mid-Ohio",
             "circuit": {
+                "city": "Lexington",
+                "country": null,
                 "name": "Mid-Ohio Sports Car Course",
                 "search": [
                     "mid-ohio sports car course",
@@ -414,8 +418,6 @@
                     "mid ohio",
                     "mid ohio sports car course"
                 ],
-                "city": "Lexington",
-                "country": null,
                 "series": [
                     "iwsc",
                     "isc",
@@ -427,23 +429,25 @@
                     "tc_america"
                 ]
             },
+            "full_name": "Honda Indy 200 at Mid-Ohio",
+            "id": "honda-indy-200-mid-ohio",
+            "name": "Honda Indy 200 at Mid-Ohio",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2021-07-04T16:57:00+00:00",
                         "name": "Race",
-                        "start": "2021-07-04T16:00:00+00:00",
-                        "end": "2021-07-04T16:57:00+00:00"
+                        "start": "2021-07-04T16:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "honda-indy-toronto",
-            "name": "Honda Indy Toronto",
-            "full_name": "Honda Indy Toronto",
             "circuit": {
+                "city": "Toronto",
+                "country": null,
                 "name": "Toronto City Centre Circuit",
                 "search": [
                     "toronto",
@@ -451,60 +455,60 @@
                     "toronto city centre",
                     "exhibition place"
                 ],
-                "city": "Toronto",
-                "country": null,
                 "series": [
                     "indycar"
                 ]
             },
+            "full_name": "Honda Indy Toronto",
+            "id": "honda-indy-toronto",
+            "name": "Honda Indy Toronto",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2021-07-11T16:57:00+00:00",
                         "name": "Race",
-                        "start": "2021-07-11T16:00:00+00:00",
-                        "end": "2021-07-11T16:57:00+00:00"
+                        "start": "2021-07-11T16:00:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": "Nashville",
+                "country": null,
+                "name": "Nashville Superspeedway",
+                "search": [
+                    "nashville",
+                    "nashville superspeedway",
+                    "music city grand prix"
+                ],
+                "series": [
+                    "indycar",
+                    "gr_cup",
+                    "gt_america"
+                ]
+            },
+            "full_name": "Music City Grand Prix",
             "id": "music-city-grand-prix",
             "name": "Music City Grand Prix",
-            "full_name": "Music City Grand Prix",
-            "circuit": {
-                "name": "Nashville Superspeedway",
-                "search": [
-                    "nashville",
-                    "nashville superspeedway",
-                    "music city grand prix"
-                ],
-                "city": "Nashville",
-                "country": null,
-                "series": [
-                    "indycar",
-                    "gr_cup",
-                    "gt_america"
-                ]
-            },
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2021-08-08T22:27:00+00:00",
                         "name": "Race",
-                        "start": "2021-08-08T21:30:00+00:00",
-                        "end": "2021-08-08T22:27:00+00:00"
+                        "start": "2021-08-08T21:30:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "indianapolis-motor-speedway-road-course",
-            "name": "Indianapolis Motor Speedway Road Course",
-            "full_name": "Indianapolis Motor Speedway Road Course",
             "circuit": {
+                "city": "Indianapolis",
+                "country": null,
                 "name": "Indianapolis Motor Speedway",
                 "search": [
                     "indianapolis motor speedway",
@@ -515,8 +519,6 @@
                     "the brickyard",
                     "speedway, indiana"
                 ],
-                "city": "Indianapolis",
-                "country": null,
                 "series": [
                     "iwsc",
                     "isc",
@@ -532,83 +534,85 @@
                     "igtc"
                 ]
             },
+            "full_name": "Indianapolis Motor Speedway Road Course",
+            "id": "indianapolis-motor-speedway-road-course",
+            "name": "Indianapolis Motor Speedway Road Course",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2021-08-14T17:27:00+00:00",
                         "name": "Race",
-                        "start": "2021-08-14T16:30:00+00:00",
-                        "end": "2021-08-14T17:27:00+00:00"
+                        "start": "2021-08-14T16:30:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "bommarito-automotive-group-500",
-            "name": "Bommarito Automotive Group 500",
-            "full_name": "Bommarito Automotive Group 500",
             "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
                 "name": "Gateway Motorsports Park",
                 "search": [
                     "madison, illinois",
                     "gateway motorsports park",
                     "gateway"
                 ],
-                "city": null,
-                "country": null,
                 "series": [
                     "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
+                ]
             },
+            "full_name": "Bommarito Automotive Group 500",
+            "id": "bommarito-automotive-group-500",
+            "name": "Bommarito Automotive Group 500",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2021-08-21T00:57:00+00:00",
                         "name": "Race",
-                        "start": "2021-08-21T00:00:00+00:00",
-                        "end": "2021-08-21T00:57:00+00:00"
+                        "start": "2021-08-21T00:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "grand-prix-of-portland",
-            "name": "Grand Prix of Portland",
-            "full_name": "Grand Prix of Portland",
             "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
                 "name": "",
                 "search": [
                     ""
                 ],
-                "city": null,
-                "country": null,
                 "series": [
                     "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
+                ]
             },
+            "full_name": "Grand Prix of Portland",
+            "id": "grand-prix-of-portland",
+            "name": "Grand Prix of Portland",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2021-09-12T19:57:00+00:00",
                         "name": "Race",
-                        "start": "2021-09-12T19:00:00+00:00",
-                        "end": "2021-09-12T19:57:00+00:00"
+                        "start": "2021-09-12T19:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "firestone-grand-prix-of-monterey",
-            "name": "Firestone Grand Prix of Monterey",
-            "full_name": "Firestone Grand Prix of Monterey",
             "circuit": {
+                "city": "Monterey",
+                "country": null,
                 "name": "WeatherTech Raceway Laguna Seca",
                 "search": [
                     "weathertech raceway laguna seca",
@@ -620,8 +624,6 @@
                     "monterey",
                     "california"
                 ],
-                "city": "Monterey",
-                "country": null,
                 "series": [
                     "iwsc",
                     "isc",
@@ -634,23 +636,25 @@
                     "igtc"
                 ]
             },
+            "full_name": "Firestone Grand Prix of Monterey",
+            "id": "firestone-grand-prix-of-monterey",
+            "name": "Firestone Grand Prix of Monterey",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2021-09-19T19:57:00+00:00",
                         "name": "Race",
-                        "start": "2021-09-19T19:00:00+00:00",
-                        "end": "2021-09-19T19:57:00+00:00"
+                        "start": "2021-09-19T19:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "acura-grand-prix-of-long-beach",
-            "name": "Acura Grand Prix of Long Beach",
-            "full_name": "Acura Grand Prix of Long Beach",
             "circuit": {
+                "city": "Long Beach",
+                "country": null,
                 "name": "Long Beach Street Circuit",
                 "search": [
                     "long beach street circuit",
@@ -658,8 +662,6 @@
                     "long beach circuit",
                     "streets of long beach"
                 ],
-                "city": "Long Beach",
-                "country": null,
                 "series": [
                     "iwsc",
                     "isc",
@@ -671,23 +673,25 @@
                     "gt_america"
                 ]
             },
+            "full_name": "Acura Grand Prix of Long Beach",
+            "id": "acura-grand-prix-of-long-beach",
+            "name": "Acura Grand Prix of Long Beach",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2021-09-26T19:57:00+00:00",
                         "name": "Race",
-                        "start": "2021-09-26T19:00:00+00:00",
-                        "end": "2021-09-26T19:57:00+00:00"
+                        "start": "2021-09-26T19:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "grand-prix-of-st-petersburg",
-            "name": "Firestone Grand Prix of St. Petersburg",
-            "full_name": "Firestone Grand Prix of St. Petersburg",
             "circuit": {
+                "city": "St. Petersburg",
+                "country": null,
                 "name": "Streets of St. Petersburg",
                 "search": [
                     "streets of st. petersburg",
@@ -700,8 +704,6 @@
                     "saint petersburg",
                     "saint pete"
                 ],
-                "city": "St. Petersburg",
-                "country": null,
                 "series": [
                     "mx5_cup",
                     "indycar",
@@ -711,112 +713,114 @@
                     "gt_america"
                 ]
             },
+            "full_name": "Firestone Grand Prix of St. Petersburg",
+            "id": "grand-prix-of-st-petersburg",
+            "name": "Firestone Grand Prix of St. Petersburg",
             "sessions": {
                 "p": [
                     {
+                        "end": "2022-02-25T21:25:00+00:00",
                         "name": "Practice 1",
-                        "start": "2022-02-25T20:40:00+00:00",
-                        "end": "2022-02-25T21:25:00+00:00"
+                        "start": "2022-02-25T20:40:00+00:00"
                     },
                     {
+                        "end": "2022-02-26T14:30:00+00:00",
                         "name": "Practice 2",
-                        "start": "2022-02-26T14:00:00+00:00",
-                        "end": "2022-02-26T14:30:00+00:00"
+                        "start": "2022-02-26T14:00:00+00:00"
                     },
                     {
+                        "end": "2022-02-27T14:15:00+00:00",
                         "name": "Warmup",
-                        "start": "2022-02-27T13:45:00+00:00",
-                        "end": "2022-02-27T14:15:00+00:00"
+                        "start": "2022-02-27T13:45:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2022-02-26T18:30:00+00:00",
                         "name": "Qualifying",
-                        "start": "2022-02-26T17:30:00+00:00",
-                        "end": "2022-02-26T18:30:00+00:00"
+                        "start": "2022-02-26T17:30:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2022-02-27T17:57:00+00:00",
                         "name": "Race",
-                        "start": "2022-02-27T17:00:00+00:00",
-                        "end": "2022-02-27T17:57:00+00:00"
+                        "start": "2022-02-27T17:00:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": "Austin",
+                "country": null,
+                "name": "Circuit of the Americas",
+                "search": [
+                    "circuit of the americas",
+                    "cota",
+                    "austin",
+                    "texas"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "iwsc",
+                    "isc",
+                    "impc",
+                    "mx5_cup",
+                    "tc_america",
+                    "gt4_america",
+                    "gr_cup",
+                    "gt2_europe",
+                    "gtwcam",
+                    "elms",
+                    "gt_america",
+                    "indycar"
+                ]
+            },
+            "full_name": "XPEL 375",
             "id": "xpel-375",
             "name": "XPEL 375",
-            "full_name": "XPEL 375",
-            "circuit": {
-                "name": "Circuit of the Americas",
-                "search": [
-                    "circuit of the americas",
-                    "cota",
-                    "austin",
-                    "texas"
-                ],
-                "city": "Austin",
-                "country": null,
-                "series": [
-                    "f1",
-                    "f2",
-                    "f3",
-                    "f1-academy",
-                    "iwsc",
-                    "isc",
-                    "impc",
-                    "mx5_cup",
-                    "tc_america",
-                    "gt4_america",
-                    "gr_cup",
-                    "gt2_europe",
-                    "gtwcam",
-                    "elms",
-                    "gt_america",
-                    "indycar"
-                ]
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2022-03-19T16:30:00+00:00",
                         "name": "Practice 1",
-                        "start": "2022-03-19T15:45:00+00:00",
-                        "end": "2022-03-19T16:30:00+00:00"
+                        "start": "2022-03-19T15:45:00+00:00"
                     },
                     {
+                        "end": "2022-02-19T23:30:00+00:00",
                         "name": "Practice 2",
-                        "start": "2022-02-19T23:00:00+00:00",
-                        "end": "2022-02-19T23:30:00+00:00"
+                        "start": "2022-02-19T23:00:00+00:00"
                     },
                     {
+                        "end": "2022-03-20T14:15:00+00:00",
                         "name": "Warmup",
-                        "start": "2022-03-20T13:45:00+00:00",
-                        "end": "2022-03-20T14:15:00+00:00"
+                        "start": "2022-03-20T13:45:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2022-03-19T20:00:00+00:00",
                         "name": "Qualifying",
-                        "start": "2022-03-19T19:00:00+00:00",
-                        "end": "2022-03-19T20:00:00+00:00"
+                        "start": "2022-03-19T19:00:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2022-03-20T18:37:00+00:00",
                         "name": "Race",
-                        "start": "2022-03-20T17:40:00+00:00",
-                        "end": "2022-03-20T18:37:00+00:00"
+                        "start": "2022-03-20T17:40:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "acura-grand-prix-of-long-beach",
-            "name": "Acura Grand Prix of Long Beach",
-            "full_name": "Acura Grand Prix of Long Beach",
             "circuit": {
+                "city": "Long Beach",
+                "country": null,
                 "name": "Long Beach Street Circuit",
                 "search": [
                     "long beach street circuit",
@@ -824,8 +828,6 @@
                     "long beach circuit",
                     "streets of long beach"
                 ],
-                "city": "Long Beach",
-                "country": null,
                 "series": [
                     "iwsc",
                     "isc",
@@ -837,47 +839,48 @@
                     "gt_america"
                 ]
             },
+            "full_name": "Acura Grand Prix of Long Beach",
+            "id": "acura-grand-prix-of-long-beach",
+            "name": "Acura Grand Prix of Long Beach",
             "sessions": {
                 "p": [
                     {
+                        "end": "2022-04-08T23:00:00+00:00",
                         "name": "Practice 1",
-                        "start": "2022-04-08T22:15:00+00:00",
-                        "end": "2022-04-08T23:00:00+00:00"
+                        "start": "2022-04-08T22:15:00+00:00"
                     },
                     {
+                        "end": "2022-04-09T16:15:00+00:00",
                         "name": "Practice 2",
-                        "start": "2022-04-09T15:45:00+00:00",
-                        "end": "2022-04-09T16:15:00+00:00"
+                        "start": "2022-04-09T15:45:00+00:00"
                     },
                     {
+                        "end": "2022-04-10T16:30:00+00:00",
                         "name": "Warmup",
-                        "start": "2022-04-10T16:00:00+00:00",
-                        "end": "2022-04-10T16:30:00+00:00"
+                        "start": "2022-04-10T16:00:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2022-04-09T20:00:00+00:00",
                         "name": "Qualifying",
-                        "start": "2022-04-09T19:00:00+00:00",
-                        "end": "2022-04-09T20:00:00+00:00"
+                        "start": "2022-04-09T19:00:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2022-04-10T19:57:00+00:00",
                         "name": "Race",
-                        "start": "2022-04-10T19:00:00+00:00",
-                        "end": "2022-04-10T19:57:00+00:00"
+                        "start": "2022-04-10T19:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "grand-prix-of-alabama",
-            "name": "Honda Indy Grand Prix of Alabama",
-            "full_name": "Honda Indy Grand Prix of Alabama",
             "circuit": {
+                "city": "Leeds",
+                "country": null,
                 "name": "Barber Motorsports Park",
-                "short_name": "barber",
                 "search": [
                     "barber motorsports park",
                     "barber motorsport park",
@@ -885,8 +888,6 @@
                     "barber",
                     "birmingham, alabama"
                 ],
-                "city": "Leeds",
-                "country": null,
                 "series": [
                     "mx5_cup",
                     "indycar",
@@ -895,25 +896,72 @@
                     "gr_cup",
                     "gtwcam",
                     "gt_america"
-                ]
+                ],
+                "short_name": "barber"
             },
+            "full_name": "Honda Indy Grand Prix of Alabama",
+            "id": "grand-prix-of-alabama",
+            "name": "Honda Indy Grand Prix of Alabama",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2022-05-01T17:27:00+00:00",
                         "name": "Race",
-                        "start": "2022-05-01T16:30:00+00:00",
-                        "end": "2022-05-01T17:27:00+00:00"
+                        "start": "2022-05-01T16:30:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": "Indianapolis",
+                "country": null,
+                "name": "Indianapolis Motor Speedway",
+                "search": [
+                    "indianapolis motor speedway",
+                    "indy",
+                    "indianapolis",
+                    "bricks",
+                    "indianapolis motorspeedway",
+                    "the brickyard",
+                    "speedway, indiana"
+                ],
+                "series": [
+                    "iwsc",
+                    "isc",
+                    "impc",
+                    "mx5_cup",
+                    "indycar",
+                    "tc_america",
+                    "gt4_america",
+                    "gr_cup",
+                    "gtwcam",
+                    "gt2_europe",
+                    "gt_america",
+                    "igtc"
+                ]
+            },
+            "full_name": "GMR Grand Prix",
             "id": "gmr-grand-prix",
             "name": "GMR Grand Prix",
-            "full_name": "GMR Grand Prix",
+            "sessions": {
+                "p": [],
+                "q": [],
+                "r": [
+                    {
+                        "end": "2022-05-14T19:57:00+00:00",
+                        "name": "Race",
+                        "start": "2022-05-14T19:00:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
             "circuit": {
+                "city": "Indianapolis",
+                "country": null,
                 "name": "Indianapolis Motor Speedway",
                 "search": [
                     "indianapolis motor speedway",
@@ -924,8 +972,6 @@
                     "the brickyard",
                     "speedway, indiana"
                 ],
-                "city": "Indianapolis",
-                "country": null,
                 "series": [
                     "iwsc",
                     "isc",
@@ -941,67 +987,25 @@
                     "igtc"
                 ]
             },
-            "sessions": {
-                "p": [],
-                "q": [],
-                "r": [
-                    {
-                        "name": "Race",
-                        "start": "2022-05-14T19:00:00+00:00",
-                        "end": "2022-05-14T19:57:00+00:00"
-                    }
-                ]
-            }
-        },
-        {
+            "full_name": "106th Running of the Indianapolis 500",
             "id": "indy-500",
             "name": "106th Running of the Indianapolis 500",
-            "full_name": "106th Running of the Indianapolis 500",
-            "circuit": {
-                "name": "Indianapolis Motor Speedway",
-                "search": [
-                    "indianapolis motor speedway",
-                    "indy",
-                    "indianapolis",
-                    "bricks",
-                    "indianapolis motorspeedway",
-                    "the brickyard",
-                    "speedway, indiana"
-                ],
-                "city": "Indianapolis",
-                "country": null,
-                "series": [
-                    "iwsc",
-                    "isc",
-                    "impc",
-                    "mx5_cup",
-                    "indycar",
-                    "tc_america",
-                    "gt4_america",
-                    "gr_cup",
-                    "gtwcam",
-                    "gt2_europe",
-                    "gt_america",
-                    "igtc"
-                ]
-            },
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2022-05-29T15:57:00+00:00",
                         "name": "Race",
-                        "start": "2022-05-29T15:00:00+00:00",
-                        "end": "2022-05-29T15:57:00+00:00"
+                        "start": "2022-05-29T15:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "chevrolet-detroit-grand-prix",
-            "name": "Chevrolet Detroit Grand Prix",
-            "full_name": "Chevrolet Detroit Grand Prix",
             "circuit": {
+                "city": "Detroit",
+                "country": null,
                 "name": "Detroit Street Circuit",
                 "search": [
                     "detroit street circuit",
@@ -1009,8 +1013,6 @@
                     "detroit street race",
                     "detroit"
                 ],
-                "city": "Detroit",
-                "country": null,
                 "series": [
                     "iwsc",
                     "isc",
@@ -1019,31 +1021,31 @@
                     "indycar"
                 ]
             },
+            "full_name": "Chevrolet Detroit Grand Prix",
+            "id": "chevrolet-detroit-grand-prix",
+            "name": "Chevrolet Detroit Grand Prix",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2022-06-12T19:57:00+00:00",
                         "name": "Race",
-                        "start": "2022-06-12T19:00:00+00:00",
-                        "end": "2022-06-12T19:57:00+00:00"
+                        "start": "2022-06-12T19:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "sonsio",
-            "name": "Sonsio Grand Prix",
-            "full_name": "Sonsio Grand Prix",
             "circuit": {
+                "city": "Elkhart Lake",
+                "country": null,
                 "name": "Road America",
                 "search": [
                     "road america",
                     "road america raceway",
                     "elkhart lake"
                 ],
-                "city": "Elkhart Lake",
-                "country": null,
                 "series": [
                     "iwsc",
                     "isc",
@@ -1058,23 +1060,25 @@
                     "gt_america"
                 ]
             },
+            "full_name": "Sonsio Grand Prix",
+            "id": "sonsio",
+            "name": "Sonsio Grand Prix",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2022-06-12T17:27:00+00:00",
                         "name": "Race",
-                        "start": "2022-06-12T16:30:00+00:00",
-                        "end": "2022-06-12T17:27:00+00:00"
+                        "start": "2022-06-12T16:30:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "honda-indy-200-mid-ohio",
-            "name": "Honda Indy 200 at Mid-Ohio",
-            "full_name": "Honda Indy 200 at Mid-Ohio",
             "circuit": {
+                "city": "Lexington",
+                "country": null,
                 "name": "Mid-Ohio Sports Car Course",
                 "search": [
                     "mid-ohio sports car course",
@@ -1082,8 +1086,6 @@
                     "mid ohio",
                     "mid ohio sports car course"
                 ],
-                "city": "Lexington",
-                "country": null,
                 "series": [
                     "iwsc",
                     "isc",
@@ -1095,23 +1097,25 @@
                     "tc_america"
                 ]
             },
+            "full_name": "Honda Indy 200 at Mid-Ohio",
+            "id": "honda-indy-200-mid-ohio",
+            "name": "Honda Indy 200 at Mid-Ohio",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2022-07-03T16:57:00+00:00",
                         "name": "Race",
-                        "start": "2022-07-03T16:00:00+00:00",
-                        "end": "2022-07-03T16:57:00+00:00"
+                        "start": "2022-07-03T16:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "honda-indy-toronto",
-            "name": "Honda Indy Toronto",
-            "full_name": "Honda Indy Toronto",
             "circuit": {
+                "city": "Toronto",
+                "country": null,
                 "name": "Toronto City Centre Circuit",
                 "search": [
                     "toronto",
@@ -1119,87 +1123,87 @@
                     "toronto city centre",
                     "exhibition place"
                 ],
-                "city": "Toronto",
-                "country": null,
                 "series": [
                     "indycar"
                 ]
             },
+            "full_name": "Honda Indy Toronto",
+            "id": "honda-indy-toronto",
+            "name": "Honda Indy Toronto",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2022-07-17T19:57:00+00:00",
                         "name": "Race",
-                        "start": "2022-07-17T19:00:00+00:00",
-                        "end": "2022-07-17T19:57:00+00:00"
+                        "start": "2022-07-17T19:00:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": "",
+                "search": [
+                    ""
+                ],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "HY-VEEDEALS.com 250",
             "id": "music-city-grand-prix",
             "name": "HY-VEEDEALS.com 250",
-            "full_name": "HY-VEEDEALS.com 250",
-            "circuit": {
-                "name": "",
-                "search": [
-                    ""
-                ],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2022-07-23T20:57:00+00:00",
                         "name": "Race",
-                        "start": "2022-07-23T20:00:00+00:00",
-                        "end": "2022-07-23T20:57:00+00:00"
+                        "start": "2022-07-23T20:00:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": "",
+                "search": [
+                    ""
+                ],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "HY-VEE Salute to Farmers 300",
             "id": "music-city-grand-prix",
             "name": "HY-VEE Salute to Farmers 300",
-            "full_name": "HY-VEE Salute to Farmers 300",
-            "circuit": {
-                "name": "",
-                "search": [
-                    ""
-                ],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2022-07-24T19:57:00+00:00",
                         "name": "Race",
-                        "start": "2022-07-24T19:00:00+00:00",
-                        "end": "2022-07-24T19:57:00+00:00"
+                        "start": "2022-07-24T19:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "indianapolis-motor-speedway-road-course",
-            "name": "Indianapolis Motor Speedway Road Course",
-            "full_name": "Indianapolis Motor Speedway Road Course",
             "circuit": {
+                "city": "Indianapolis",
+                "country": null,
                 "name": "Indianapolis Motor Speedway",
                 "search": [
                     "indianapolis motor speedway",
@@ -1210,8 +1214,6 @@
                     "the brickyard",
                     "speedway, indiana"
                 ],
-                "city": "Indianapolis",
-                "country": null,
                 "series": [
                     "iwsc",
                     "isc",
@@ -1227,114 +1229,116 @@
                     "igtc"
                 ]
             },
+            "full_name": "Indianapolis Motor Speedway Road Course",
+            "id": "indianapolis-motor-speedway-road-course",
+            "name": "Indianapolis Motor Speedway Road Course",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2022-07-30T16:57:00+00:00",
                         "name": "Race",
-                        "start": "2022-07-30T16:00:00+00:00",
-                        "end": "2022-07-30T16:57:00+00:00"
+                        "start": "2022-07-30T16:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "music-city-grand-prix",
-            "name": "Big Machine Music City Grand Prix",
-            "full_name": "Big Machine Music City Grand Prix",
             "circuit": {
+                "city": "Nashville",
+                "country": null,
                 "name": "Nashville Superspeedway",
                 "search": [
                     "nashville",
                     "nashville superspeedway",
                     "music city grand prix"
                 ],
-                "city": "Nashville",
-                "country": null,
                 "series": [
                     "indycar",
                     "gr_cup",
                     "gt_america"
                 ]
             },
+            "full_name": "Big Machine Music City Grand Prix",
+            "id": "music-city-grand-prix",
+            "name": "Big Machine Music City Grand Prix",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2022-08-07T19:57:00+00:00",
                         "name": "Race",
-                        "start": "2022-08-07T19:00:00+00:00",
-                        "end": "2022-08-07T19:57:00+00:00"
+                        "start": "2022-08-07T19:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "bommarito-automotive-group-500",
-            "name": "Bommarito Automotive Group 500",
-            "full_name": "Bommarito Automotive Group 500",
             "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
                 "name": "Gateway Motorsports Park",
                 "search": [
                     "madison, illinois",
                     "gateway motorsports park",
                     "gateway"
                 ],
-                "city": null,
-                "country": null,
                 "series": [
                     "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
+                ]
             },
+            "full_name": "Bommarito Automotive Group 500",
+            "id": "bommarito-automotive-group-500",
+            "name": "Bommarito Automotive Group 500",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2022-08-20T00:57:00+00:00",
                         "name": "Race",
-                        "start": "2022-08-20T00:00:00+00:00",
-                        "end": "2022-08-20T00:57:00+00:00"
+                        "start": "2022-08-20T00:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "grand-prix-of-portland",
-            "name": "Grand Prix of Portland",
-            "full_name": "Grand Prix of Portland",
             "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
                 "name": "",
                 "search": [
                     ""
                 ],
-                "city": null,
-                "country": null,
                 "series": [
                     "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
+                ]
             },
+            "full_name": "Grand Prix of Portland",
+            "id": "grand-prix-of-portland",
+            "name": "Grand Prix of Portland",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2022-09-04T19:57:00+00:00",
                         "name": "Race",
-                        "start": "2022-09-04T19:00:00+00:00",
-                        "end": "2022-09-04T19:57:00+00:00"
+                        "start": "2022-09-04T19:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "firestone-grand-prix-of-monterey",
-            "name": "Firestone Grand Prix of Monterey",
-            "full_name": "Firestone Grand Prix of Monterey",
             "circuit": {
+                "city": "Monterey",
+                "country": null,
                 "name": "WeatherTech Raceway Laguna Seca",
                 "search": [
                     "weathertech raceway laguna seca",
@@ -1346,8 +1350,6 @@
                     "monterey",
                     "california"
                 ],
-                "city": "Monterey",
-                "country": null,
                 "series": [
                     "iwsc",
                     "isc",
@@ -1360,23 +1362,25 @@
                     "igtc"
                 ]
             },
+            "full_name": "Firestone Grand Prix of Monterey",
+            "id": "firestone-grand-prix-of-monterey",
+            "name": "Firestone Grand Prix of Monterey",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2022-09-11T19:57:00+00:00",
                         "name": "Race",
-                        "start": "2022-09-11T19:00:00+00:00",
-                        "end": "2022-09-11T19:57:00+00:00"
+                        "start": "2022-09-11T19:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "grand-prix-of-st-petersburg",
-            "name": "Firestone Grand Prix of St. Petersburg",
-            "full_name": "Firestone Grand Prix of St. Petersburg",
             "circuit": {
+                "city": "St. Petersburg",
+                "country": null,
                 "name": "Streets of St. Petersburg",
                 "search": [
                     "streets of st. petersburg",
@@ -1389,8 +1393,6 @@
                     "saint petersburg",
                     "saint pete"
                 ],
-                "city": "St. Petersburg",
-                "country": null,
                 "series": [
                     "mx5_cup",
                     "indycar",
@@ -1400,45 +1402,47 @@
                     "gt_america"
                 ]
             },
+            "full_name": "Firestone Grand Prix of St. Petersburg",
+            "id": "grand-prix-of-st-petersburg",
+            "name": "Firestone Grand Prix of St. Petersburg",
             "sessions": {
                 "p": [
                     {
+                        "end": "2023-03-03T20:45:00+00:00",
                         "name": "Practice 1",
-                        "start": "2023-03-03T20:00:00+00:00",
-                        "end": "2023-03-03T20:45:00+00:00"
+                        "start": "2023-03-03T20:00:00+00:00"
                     },
                     {
+                        "end": "2023-03-04T15:30:00+00:00",
                         "name": "Practice 2",
-                        "start": "2023-03-04T15:00:00+00:00",
-                        "end": "2023-03-04T15:30:00+00:00"
+                        "start": "2023-03-04T15:00:00+00:00"
                     },
                     {
+                        "end": "2023-03-05T14:30:00+00:00",
                         "name": "Warmup",
-                        "start": "2023-03-05T14:00:00+00:00",
-                        "end": "2023-03-05T14:30:00+00:00"
+                        "start": "2023-03-05T14:00:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2023-03-04T20:15:00+00:00",
                         "name": "Qualifying",
-                        "start": "2023-03-04T19:15:00+00:00",
-                        "end": "2023-03-04T20:15:00+00:00"
+                        "start": "2023-03-04T19:15:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2023-03-05T17:57:00+00:00",
                         "name": "Race",
-                        "start": "2023-03-05T17:00:00+00:00",
-                        "end": "2023-03-05T17:57:00+00:00"
+                        "start": "2023-03-05T17:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "ppg-375",
-            "name": "PPG 375",
-            "full_name": "PPG 375",
             "circuit": {
+                "city": "Austin",
+                "country": null,
                 "name": "Circuit of the Americas",
                 "search": [
                     "circuit of the americas",
@@ -1446,8 +1450,6 @@
                     "austin",
                     "texas"
                 ],
-                "city": "Austin",
-                "country": null,
                 "series": [
                     "f1",
                     "f2",
@@ -1467,40 +1469,42 @@
                     "indycar"
                 ]
             },
+            "full_name": "PPG 375",
+            "id": "ppg-375",
+            "name": "PPG 375",
             "sessions": {
                 "p": [
                     {
+                        "end": "2023-04-01T13:45:00+00:00",
                         "name": "Practice 1",
-                        "start": "2023-04-01T13:00:00+00:00",
-                        "end": "2023-04-01T13:45:00+00:00"
+                        "start": "2023-04-01T13:00:00+00:00"
                     },
                     {
+                        "end": "2023-04-01T19:00:00+00:00",
                         "name": "Practice 2",
-                        "start": "2023-04-01T18:30:00+00:00",
-                        "end": "2023-04-01T19:00:00+00:00"
+                        "start": "2023-04-01T18:30:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2023-04-01T17:15:00+00:00",
                         "name": "Qualifying",
-                        "start": "2023-04-01T16:15:00+00:00",
-                        "end": "2023-04-01T17:15:00+00:00"
+                        "start": "2023-04-01T16:15:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2023-04-02T17:07:00+00:00",
                         "name": "Race",
-                        "start": "2023-04-02T16:10:00+00:00",
-                        "end": "2023-04-02T17:07:00+00:00"
+                        "start": "2023-04-02T16:10:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "acura-grand-prix-of-long-beach",
-            "name": "Acura Grand Prix of Long Beach",
-            "full_name": "Acura Grand Prix of Long Beach",
             "circuit": {
+                "city": "Long Beach",
+                "country": null,
                 "name": "Long Beach Street Circuit",
                 "search": [
                     "long beach street circuit",
@@ -1508,8 +1512,6 @@
                     "long beach circuit",
                     "streets of long beach"
                 ],
-                "city": "Long Beach",
-                "country": null,
                 "series": [
                     "iwsc",
                     "isc",
@@ -1521,47 +1523,48 @@
                     "gt_america"
                 ]
             },
+            "full_name": "Acura Grand Prix of Long Beach",
+            "id": "acura-grand-prix-of-long-beach",
+            "name": "Acura Grand Prix of Long Beach",
             "sessions": {
                 "p": [
                     {
+                        "end": "2023-04-14T22:45:00+00:00",
                         "name": "Practice 1",
-                        "start": "2023-04-14T22:00:00+00:00",
-                        "end": "2023-04-14T22:45:00+00:00"
+                        "start": "2023-04-14T22:00:00+00:00"
                     },
                     {
+                        "end": "2023-04-15T16:15:00+00:00",
                         "name": "Practice 2",
-                        "start": "2023-04-15T15:45:00+00:00",
-                        "end": "2023-04-15T16:15:00+00:00"
+                        "start": "2023-04-15T15:45:00+00:00"
                     },
                     {
+                        "end": "2023-04-16T16:30:00+00:00",
                         "name": "Warmup",
-                        "start": "2023-04-16T16:00:00+00:00",
-                        "end": "2023-04-16T16:30:00+00:00"
+                        "start": "2023-04-16T16:00:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2023-04-15T20:05:00+00:00",
                         "name": "Qualifying",
-                        "start": "2023-04-15T19:05:00+00:00",
-                        "end": "2023-04-15T20:05:00+00:00"
+                        "start": "2023-04-15T19:05:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2023-04-16T20:27:00+00:00",
                         "name": "Race",
-                        "start": "2023-04-16T19:30:00+00:00",
-                        "end": "2023-04-16T20:27:00+00:00"
+                        "start": "2023-04-16T19:30:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "grand-prix-of-alabama",
-            "name": "Children's of Alabama Indy Grand Prix",
-            "full_name": "Children's of Alabama Indy Grand Prix",
             "circuit": {
+                "city": "Leeds",
+                "country": null,
                 "name": "Barber Motorsports Park",
-                "short_name": "barber",
                 "search": [
                     "barber motorsports park",
                     "barber motorsport park",
@@ -1569,8 +1572,6 @@
                     "barber",
                     "birmingham, alabama"
                 ],
-                "city": "Leeds",
-                "country": null,
                 "series": [
                     "mx5_cup",
                     "indycar",
@@ -1579,47 +1580,94 @@
                     "gr_cup",
                     "gtwcam",
                     "gt_america"
-                ]
+                ],
+                "short_name": "barber"
             },
+            "full_name": "Children's of Alabama Indy Grand Prix",
+            "id": "grand-prix-of-alabama",
+            "name": "Children's of Alabama Indy Grand Prix",
             "sessions": {
                 "p": [
                     {
+                        "end": "2023-04-28T20:25:00+00:00",
                         "name": "Practice 1",
-                        "start": "2023-04-28T19:40:00+00:00",
-                        "end": "2023-04-28T20:25:00+00:00"
+                        "start": "2023-04-28T19:40:00+00:00"
                     },
                     {
+                        "end": "2023-04-29T16:30:00+00:00",
                         "name": "Practice 2",
-                        "start": "2023-04-29T16:00:00+00:00",
-                        "end": "2023-04-29T16:30:00+00:00"
+                        "start": "2023-04-29T16:00:00+00:00"
                     },
                     {
+                        "end": "2023-04-30T16:30:00+00:00",
                         "name": "Warmup",
-                        "start": "2023-04-30T16:00:00+00:00",
-                        "end": "2023-04-30T16:30:00+00:00"
+                        "start": "2023-04-30T16:00:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2023-04-29T20:00:00+00:00",
                         "name": "Qualifying",
-                        "start": "2023-04-29T19:00:00+00:00",
-                        "end": "2023-04-29T20:00:00+00:00"
+                        "start": "2023-04-29T19:00:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2023-04-30T19:57:00+00:00",
                         "name": "Race",
-                        "start": "2023-04-30T19:00:00+00:00",
-                        "end": "2023-04-30T19:57:00+00:00"
+                        "start": "2023-04-30T19:00:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": "Indianapolis",
+                "country": null,
+                "name": "Indianapolis Motor Speedway",
+                "search": [
+                    "indianapolis motor speedway",
+                    "indy",
+                    "indianapolis",
+                    "bricks",
+                    "indianapolis motorspeedway",
+                    "the brickyard",
+                    "speedway, indiana"
+                ],
+                "series": [
+                    "iwsc",
+                    "isc",
+                    "impc",
+                    "mx5_cup",
+                    "indycar",
+                    "tc_america",
+                    "gt4_america",
+                    "gr_cup",
+                    "gtwcam",
+                    "gt2_europe",
+                    "gt_america",
+                    "igtc"
+                ]
+            },
+            "full_name": "GMR Grand Prix",
             "id": "gmr-grand-prix",
             "name": "GMR Grand Prix",
-            "full_name": "GMR Grand Prix",
+            "sessions": {
+                "p": [],
+                "q": [],
+                "r": [
+                    {
+                        "end": "2023-05-13T20:27:00+00:00",
+                        "name": "Race",
+                        "start": "2023-05-13T19:30:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
             "circuit": {
+                "city": "Indianapolis",
+                "country": null,
                 "name": "Indianapolis Motor Speedway",
                 "search": [
                     "indianapolis motor speedway",
@@ -1630,8 +1678,6 @@
                     "the brickyard",
                     "speedway, indiana"
                 ],
-                "city": "Indianapolis",
-                "country": null,
                 "series": [
                     "iwsc",
                     "isc",
@@ -1647,67 +1693,25 @@
                     "igtc"
                 ]
             },
-            "sessions": {
-                "p": [],
-                "q": [],
-                "r": [
-                    {
-                        "name": "Race",
-                        "start": "2023-05-13T19:30:00+00:00",
-                        "end": "2023-05-13T20:27:00+00:00"
-                    }
-                ]
-            }
-        },
-        {
+            "full_name": "107th Running of the Indianapolis 500",
             "id": "indy-500",
             "name": "107th Running of the Indianapolis 500",
-            "full_name": "107th Running of the Indianapolis 500",
-            "circuit": {
-                "name": "Indianapolis Motor Speedway",
-                "search": [
-                    "indianapolis motor speedway",
-                    "indy",
-                    "indianapolis",
-                    "bricks",
-                    "indianapolis motorspeedway",
-                    "the brickyard",
-                    "speedway, indiana"
-                ],
-                "city": "Indianapolis",
-                "country": null,
-                "series": [
-                    "iwsc",
-                    "isc",
-                    "impc",
-                    "mx5_cup",
-                    "indycar",
-                    "tc_america",
-                    "gt4_america",
-                    "gr_cup",
-                    "gtwcam",
-                    "gt2_europe",
-                    "gt_america",
-                    "igtc"
-                ]
-            },
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2023-05-28T15:57:00+00:00",
                         "name": "Race",
-                        "start": "2023-05-28T15:00:00+00:00",
-                        "end": "2023-05-28T15:57:00+00:00"
+                        "start": "2023-05-28T15:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "chevrolet-detroit-grand-prix",
-            "name": "Chevrolet Detroit Grand Prix",
-            "full_name": "Chevrolet Detroit Grand Prix",
             "circuit": {
+                "city": "Detroit",
+                "country": null,
                 "name": "Detroit Street Circuit",
                 "search": [
                     "detroit street circuit",
@@ -1715,8 +1719,6 @@
                     "detroit street race",
                     "detroit"
                 ],
-                "city": "Detroit",
-                "country": null,
                 "series": [
                     "iwsc",
                     "isc",
@@ -1725,48 +1727,48 @@
                     "indycar"
                 ]
             },
+            "full_name": "Chevrolet Detroit Grand Prix",
+            "id": "chevrolet-detroit-grand-prix",
+            "name": "Chevrolet Detroit Grand Prix",
             "sessions": {
                 "p": [
                     {
+                        "end": "2023-06-02T22:45:00+00:00",
                         "name": "Practice 1",
-                        "start": "2023-06-02T22:00:00+00:00",
-                        "end": "2023-06-02T22:45:00+00:00"
+                        "start": "2023-06-02T22:00:00+00:00"
                     },
                     {
+                        "end": "2023-06-03T13:35:00+00:00",
                         "name": "Practice 2",
-                        "start": "2023-06-03T13:05:00+00:00",
-                        "end": "2023-06-03T13:35:00+00:00"
+                        "start": "2023-06-03T13:05:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2023-06-03T18:20:00+00:00",
                         "name": "Qualifying",
-                        "start": "2023-06-03T17:20:00+00:00",
-                        "end": "2023-06-03T18:20:00+00:00"
+                        "start": "2023-06-03T17:20:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2023-06-04T19:57:00+00:00",
                         "name": "Race",
-                        "start": "2023-06-04T19:00:00+00:00",
-                        "end": "2023-06-04T19:57:00+00:00"
+                        "start": "2023-06-04T19:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "sonsio",
-            "name": "Sonsio Grand Prix At Road America",
-            "full_name": "Sonsio Grand Prix At Road America",
             "circuit": {
+                "city": "Elkhart Lake",
+                "country": null,
                 "name": "Road America",
                 "search": [
                     "road america",
                     "road america raceway",
                     "elkhart lake"
                 ],
-                "city": "Elkhart Lake",
-                "country": null,
                 "series": [
                     "iwsc",
                     "isc",
@@ -1781,23 +1783,25 @@
                     "gt_america"
                 ]
             },
+            "full_name": "Sonsio Grand Prix At Road America",
+            "id": "sonsio",
+            "name": "Sonsio Grand Prix At Road America",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2023-06-18T17:57:00+00:00",
                         "name": "Race",
-                        "start": "2023-06-18T17:00:00+00:00",
-                        "end": "2023-06-18T17:57:00+00:00"
+                        "start": "2023-06-18T17:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "honda-indy-200-mid-ohio",
-            "name": "Honda Indy 200 at Mid-Ohio",
-            "full_name": "Honda Indy 200 at Mid-Ohio",
             "circuit": {
+                "city": "Lexington",
+                "country": null,
                 "name": "Mid-Ohio Sports Car Course",
                 "search": [
                     "mid-ohio sports car course",
@@ -1805,8 +1809,6 @@
                     "mid ohio",
                     "mid ohio sports car course"
                 ],
-                "city": "Lexington",
-                "country": null,
                 "series": [
                     "iwsc",
                     "isc",
@@ -1818,23 +1820,25 @@
                     "tc_america"
                 ]
             },
+            "full_name": "Honda Indy 200 at Mid-Ohio",
+            "id": "honda-indy-200-mid-ohio",
+            "name": "Honda Indy 200 at Mid-Ohio",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2023-07-02T18:27:00+00:00",
                         "name": "Race",
-                        "start": "2023-07-02T17:30:00+00:00",
-                        "end": "2023-07-02T18:27:00+00:00"
+                        "start": "2023-07-02T17:30:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "honda-indy-toronto",
-            "name": "Honda Indy Toronto",
-            "full_name": "Honda Indy Toronto",
             "circuit": {
+                "city": "Toronto",
+                "country": null,
                 "name": "Toronto City Centre Circuit",
                 "search": [
                     "toronto",
@@ -1842,118 +1846,118 @@
                     "toronto city centre",
                     "exhibition place"
                 ],
-                "city": "Toronto",
-                "country": null,
                 "series": [
                     "indycar"
                 ]
             },
+            "full_name": "Honda Indy Toronto",
+            "id": "honda-indy-toronto",
+            "name": "Honda Indy Toronto",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2023-07-16T18:27:00+00:00",
                         "name": "Race",
-                        "start": "2023-07-16T17:30:00+00:00",
-                        "end": "2023-07-16T18:27:00+00:00"
+                        "start": "2023-07-16T17:30:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": "",
+                "search": [
+                    ""
+                ],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "HY-VEE Indycar Race Weekend Race 1",
             "id": "music-city-grand-prix",
             "name": "HY-VEE Indycar Race Weekend Race 1",
-            "full_name": "HY-VEE Indycar Race Weekend Race 1",
-            "circuit": {
-                "name": "",
-                "search": [
-                    ""
-                ],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2023-07-22T19:57:00+00:00",
                         "name": "Race",
-                        "start": "2023-07-22T19:00:00+00:00",
-                        "end": "2023-07-22T19:57:00+00:00"
+                        "start": "2023-07-22T19:00:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": "",
+                "search": [
+                    ""
+                ],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "HY-VEE Indycar Race Weekend Race 2",
             "id": "music-city-grand-prix",
             "name": "HY-VEE Indycar Race Weekend Race 2",
-            "full_name": "HY-VEE Indycar Race Weekend Race 2",
-            "circuit": {
-                "name": "",
-                "search": [
-                    ""
-                ],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2023-07-23T18:57:00+00:00",
                         "name": "Race",
-                        "start": "2023-07-23T18:00:00+00:00",
-                        "end": "2023-07-23T18:57:00+00:00"
+                        "start": "2023-07-23T18:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "music-city-grand-prix",
-            "name": "Big Machine Music City Grand Prix",
-            "full_name": "Big Machine Music City Grand Prix",
             "circuit": {
+                "city": "Nashville",
+                "country": null,
                 "name": "Nashville Superspeedway",
                 "search": [
                     "nashville",
                     "nashville superspeedway",
                     "music city grand prix"
                 ],
-                "city": "Nashville",
-                "country": null,
                 "series": [
                     "indycar",
                     "gr_cup",
                     "gt_america"
                 ]
             },
+            "full_name": "Big Machine Music City Grand Prix",
+            "id": "music-city-grand-prix",
+            "name": "Big Machine Music City Grand Prix",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2023-08-06T16:57:00+00:00",
                         "name": "Race",
-                        "start": "2023-08-06T16:00:00+00:00",
-                        "end": "2023-08-06T16:57:00+00:00"
+                        "start": "2023-08-06T16:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "indianapolis-motor-speedway-road-course",
-            "name": "Gallagher Grand Prix",
-            "full_name": "Gallagher Grand Prix",
             "circuit": {
+                "city": "Indianapolis",
+                "country": null,
                 "name": "Indianapolis Motor Speedway",
                 "search": [
                     "indianapolis motor speedway",
@@ -1964,8 +1968,6 @@
                     "the brickyard",
                     "speedway, indiana"
                 ],
-                "city": "Indianapolis",
-                "country": null,
                 "series": [
                     "iwsc",
                     "isc",
@@ -1981,83 +1983,85 @@
                     "igtc"
                 ]
             },
+            "full_name": "Gallagher Grand Prix",
+            "id": "indianapolis-motor-speedway-road-course",
+            "name": "Gallagher Grand Prix",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2023-08-12T18:57:00+00:00",
                         "name": "Race",
-                        "start": "2023-08-12T18:00:00+00:00",
-                        "end": "2023-08-12T18:57:00+00:00"
+                        "start": "2023-08-12T18:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "bommarito-automotive-group-500",
-            "name": "Bommarito Automotive Group 500",
-            "full_name": "Bommarito Automotive Group 500",
             "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
                 "name": "Gateway Motorsports Park",
                 "search": [
                     "madison, illinois",
                     "gateway motorsports park",
                     "gateway"
                 ],
-                "city": null,
-                "country": null,
                 "series": [
                     "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
+                ]
             },
+            "full_name": "Bommarito Automotive Group 500",
+            "id": "bommarito-automotive-group-500",
+            "name": "Bommarito Automotive Group 500",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2023-08-27T20:27:00+00:00",
                         "name": "Race",
-                        "start": "2023-08-27T19:30:00+00:00",
-                        "end": "2023-08-27T20:27:00+00:00"
+                        "start": "2023-08-27T19:30:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "grand-prix-of-portland",
-            "name": "Grand Prix of Portland",
-            "full_name": "Grand Prix of Portland",
             "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
                 "name": "",
                 "search": [
                     ""
                 ],
-                "city": null,
-                "country": null,
                 "series": [
                     "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
+                ]
             },
+            "full_name": "Grand Prix of Portland",
+            "id": "grand-prix-of-portland",
+            "name": "Grand Prix of Portland",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2023-09-03T19:57:00+00:00",
                         "name": "Race",
-                        "start": "2023-09-03T19:00:00+00:00",
-                        "end": "2023-09-03T19:57:00+00:00"
+                        "start": "2023-09-03T19:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "firestone-grand-prix-of-monterey",
-            "name": "Firestone Grand Prix of Monterey",
-            "full_name": "Firestone Grand Prix of Monterey",
             "circuit": {
+                "city": "Monterey",
+                "country": null,
                 "name": "WeatherTech Raceway Laguna Seca",
                 "search": [
                     "weathertech raceway laguna seca",
@@ -2069,8 +2073,6 @@
                     "monterey",
                     "california"
                 ],
-                "city": "Monterey",
-                "country": null,
                 "series": [
                     "iwsc",
                     "isc",
@@ -2083,1693 +2085,1691 @@
                     "igtc"
                 ]
             },
+            "full_name": "Firestone Grand Prix of Monterey",
+            "id": "firestone-grand-prix-of-monterey",
+            "name": "Firestone Grand Prix of Monterey",
             "sessions": {
                 "p": [],
                 "q": [],
                 "r": [
                     {
+                        "end": "2023-09-10T19:27:00+00:00",
                         "name": "Race",
-                        "start": "2023-09-10T18:30:00+00:00",
-                        "end": "2023-09-10T19:27:00+00:00"
+                        "start": "2023-09-10T18:30:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "firestone-grand-prix-of-st-petersburg",
-            "name": "Firestone Grand Prix of St. Petersburg",
-            "full_name": "Firestone Grand Prix of St. Petersburg",
             "circuit": {
-                "name": null,
-                "search": [],
                 "city": null,
                 "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
                 "series": [
                     "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
+                ]
             },
+            "full_name": "Firestone Grand Prix of St. Petersburg",
+            "id": "firestone-grand-prix-of-st-petersburg",
+            "name": "Firestone Grand Prix of St. Petersburg",
             "sessions": {
                 "p": [
                     {
+                        "end": "2024-03-08T20:30:00+00:00",
                         "name": "Practice 1",
-                        "start": "2024-03-08T19:45:00+00:00",
-                        "end": "2024-03-08T20:30:00+00:00"
+                        "start": "2024-03-08T19:45:00+00:00"
                     },
                     {
+                        "end": "2024-03-09T15:05:00+00:00",
                         "name": "Practice 2",
-                        "start": "2024-03-09T14:35:00+00:00",
-                        "end": "2024-03-09T15:05:00+00:00"
+                        "start": "2024-03-09T14:35:00+00:00"
                     },
                     {
+                        "end": "2024-03-10T13:40:00+00:00",
                         "name": "Warmup",
-                        "start": "2024-03-10T13:10:00+00:00",
-                        "end": "2024-03-10T13:40:00+00:00"
+                        "start": "2024-03-10T13:10:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2024-03-09T20:00:00+00:00",
                         "name": "Qualifying",
-                        "start": "2024-03-09T19:00:00+00:00",
-                        "end": "2024-03-09T20:00:00+00:00"
+                        "start": "2024-03-09T19:00:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2024-03-10T17:12:00+00:00",
                         "name": "Race",
-                        "start": "2024-03-10T16:15:00+00:00",
-                        "end": "2024-03-10T17:12:00+00:00"
+                        "start": "2024-03-10T16:15:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "$1 Million Challenge",
             "id": "1-million-challenge",
             "name": "$1 Million Challenge",
-            "full_name": "$1 Million Challenge",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2024-03-22T16:45:00+00:00",
                         "name": "Open Test Session 1",
-                        "start": "2024-03-22T16:00:00+00:00",
-                        "end": "2024-03-22T16:45:00+00:00"
+                        "start": "2024-03-22T16:00:00+00:00"
                     },
                     {
+                        "end": "2024-03-22T21:45:00+00:00",
                         "name": "Open Test Session 2",
-                        "start": "2024-03-22T21:00:00+00:00",
-                        "end": "2024-03-22T21:45:00+00:00"
+                        "start": "2024-03-22T21:00:00+00:00"
                     },
                     {
+                        "end": "2024-03-23T16:45:00+00:00",
                         "name": "Open Test Session 3",
-                        "start": "2024-03-23T16:00:00+00:00",
-                        "end": "2024-03-23T16:45:00+00:00"
+                        "start": "2024-03-23T16:00:00+00:00"
                     },
                     {
+                        "end": "2024-03-23T20:45:00+00:00",
                         "name": "Open Test Session 4",
-                        "start": "2024-03-23T20:00:00+00:00",
-                        "end": "2024-03-23T20:45:00+00:00"
+                        "start": "2024-03-23T20:00:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2024-03-24T01:00:00+00:00",
                         "name": "Qualifying",
-                        "start": "2024-03-24T00:00:00+00:00",
-                        "end": "2024-03-24T01:00:00+00:00"
+                        "start": "2024-03-24T00:00:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2024-03-24T17:12:00+00:00",
                         "name": "Race",
-                        "start": "2024-03-24T16:15:00+00:00",
-                        "end": "2024-03-24T17:12:00+00:00"
+                        "start": "2024-03-24T16:15:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Acura Grand Prix of Long Beach",
             "id": "acura-grand-prix-of-long-beach",
             "name": "Acura Grand Prix of Long Beach",
-            "full_name": "Acura Grand Prix of Long Beach",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2024-04-19T22:35:00+00:00",
                         "name": "Practice 1",
-                        "start": "2024-04-19T21:50:00+00:00",
-                        "end": "2024-04-19T22:35:00+00:00"
+                        "start": "2024-04-19T21:50:00+00:00"
                     },
                     {
+                        "end": "2024-04-20T15:55:00+00:00",
                         "name": "Practice 2",
-                        "start": "2024-04-20T15:25:00+00:00",
-                        "end": "2024-04-20T15:55:00+00:00"
+                        "start": "2024-04-20T15:25:00+00:00"
                     },
                     {
+                        "end": "2024-04-21T16:30:00+00:00",
                         "name": "Warmup",
-                        "start": "2024-04-21T16:00:00+00:00",
-                        "end": "2024-04-21T16:30:00+00:00"
+                        "start": "2024-04-21T16:00:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2024-04-20T19:25:00+00:00",
                         "name": "Qualifying",
-                        "start": "2024-04-20T18:25:00+00:00",
-                        "end": "2024-04-20T19:25:00+00:00"
+                        "start": "2024-04-20T18:25:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2024-04-21T20:27:00+00:00",
                         "name": "Race",
-                        "start": "2024-04-21T19:30:00+00:00",
-                        "end": "2024-04-21T20:27:00+00:00"
+                        "start": "2024-04-21T19:30:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Children’s of Alabama Indy Grand Prix",
             "id": "childrens-of-alabama-indy-grand-prix",
             "name": "Children’s of Alabama Indy Grand Prix",
-            "full_name": "Children’s of Alabama Indy Grand Prix",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2024-04-26T20:25:00+00:00",
                         "name": "Practice 1",
-                        "start": "2024-04-26T19:40:00+00:00",
-                        "end": "2024-04-26T20:25:00+00:00"
+                        "start": "2024-04-26T19:40:00+00:00"
                     },
                     {
+                        "end": "2024-04-27T16:45:00+00:00",
                         "name": "Practice 2",
-                        "start": "2024-04-27T16:15:00+00:00",
-                        "end": "2024-04-27T16:45:00+00:00"
+                        "start": "2024-04-27T16:15:00+00:00"
                     },
                     {
+                        "end": "2024-04-28T14:45:00+00:00",
                         "name": "Warmup",
-                        "start": "2024-04-28T14:15:00+00:00",
-                        "end": "2024-04-28T14:45:00+00:00"
+                        "start": "2024-04-28T14:15:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2024-04-27T20:30:00+00:00",
                         "name": "Qualifying",
-                        "start": "2024-04-27T19:30:00+00:00",
-                        "end": "2024-04-27T20:30:00+00:00"
+                        "start": "2024-04-27T19:30:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2024-04-28T18:27:00+00:00",
                         "name": "Race",
-                        "start": "2024-04-28T17:30:00+00:00",
-                        "end": "2024-04-28T18:27:00+00:00"
+                        "start": "2024-04-28T17:30:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Sonsio Grand Prix",
             "id": "sonsio-grand-prix",
             "name": "Sonsio Grand Prix",
-            "full_name": "Sonsio Grand Prix",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2024-05-10T14:15:00+00:00",
                         "name": "Practice 1",
-                        "start": "2024-05-10T13:30:00+00:00",
-                        "end": "2024-05-10T14:15:00+00:00"
+                        "start": "2024-05-10T13:30:00+00:00"
                     },
                     {
+                        "end": "2024-05-10T17:40:00+00:00",
                         "name": "Practice 2",
-                        "start": "2024-05-10T17:10:00+00:00",
-                        "end": "2024-05-10T17:40:00+00:00"
+                        "start": "2024-05-10T17:10:00+00:00"
                     },
                     {
+                        "end": "2024-05-11T15:45:00+00:00",
                         "name": "Warmup",
-                        "start": "2024-05-11T15:15:00+00:00",
-                        "end": "2024-05-11T15:45:00+00:00"
+                        "start": "2024-05-11T15:15:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2024-05-10T21:20:00+00:00",
                         "name": "Qualifying",
-                        "start": "2024-05-10T20:20:00+00:00",
-                        "end": "2024-05-10T21:20:00+00:00"
+                        "start": "2024-05-10T20:20:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2024-05-11T20:27:00+00:00",
                         "name": "Race",
-                        "start": "2024-05-11T19:30:00+00:00",
-                        "end": "2024-05-11T20:27:00+00:00"
+                        "start": "2024-05-11T19:30:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "108th Running of the Indianapolis 500",
             "id": "108th-running-of-the-indianapolis-500",
             "name": "108th Running of the Indianapolis 500",
-            "full_name": "108th Running of the Indianapolis 500",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2024-05-14T13:45:00+00:00",
                         "name": "Practice 1",
-                        "start": "2024-05-14T13:00:00+00:00",
-                        "end": "2024-05-14T13:45:00+00:00"
+                        "start": "2024-05-14T13:00:00+00:00"
                     },
                     {
+                        "end": "2024-05-14T17:30:00+00:00",
                         "name": "Practice 2",
-                        "start": "2024-05-14T17:00:00+00:00",
-                        "end": "2024-05-14T17:30:00+00:00"
+                        "start": "2024-05-14T17:00:00+00:00"
                     },
                     {
+                        "end": "2024-05-15T19:45:00+00:00",
                         "name": "Practice 3",
-                        "start": "2024-05-15T19:00:00+00:00",
-                        "end": "2024-05-15T19:45:00+00:00"
+                        "start": "2024-05-15T19:00:00+00:00"
                     },
                     {
+                        "end": "2024-05-16T14:45:00+00:00",
                         "name": "Practice 4",
-                        "start": "2024-05-16T14:00:00+00:00",
-                        "end": "2024-05-16T14:45:00+00:00"
+                        "start": "2024-05-16T14:00:00+00:00"
                     },
                     {
+                        "end": "2024-05-17T16:45:00+00:00",
                         "name": "Practice 5",
-                        "start": "2024-05-17T16:00:00+00:00",
-                        "end": "2024-05-17T16:45:00+00:00"
+                        "start": "2024-05-17T16:00:00+00:00"
                     },
                     {
+                        "end": "2024-05-18T13:45:00+00:00",
                         "name": "Practice 6",
-                        "start": "2024-05-18T13:00:00+00:00",
-                        "end": "2024-05-18T13:45:00+00:00"
+                        "start": "2024-05-18T13:00:00+00:00"
                     },
                     {
+                        "end": "2024-05-19T16:45:00+00:00",
                         "name": "Practice 7",
-                        "start": "2024-05-19T16:00:00+00:00",
-                        "end": "2024-05-19T16:45:00+00:00"
+                        "start": "2024-05-19T16:00:00+00:00"
                     },
                     {
+                        "end": "2024-05-20T17:45:00+00:00",
                         "name": "Practice 8",
-                        "start": "2024-05-20T17:00:00+00:00",
-                        "end": "2024-05-20T17:45:00+00:00"
+                        "start": "2024-05-20T17:00:00+00:00"
                     },
                     {
+                        "end": "2024-05-24T15:45:00+00:00",
                         "name": "Practice 9",
-                        "start": "2024-05-24T15:00:00+00:00",
-                        "end": "2024-05-24T15:45:00+00:00"
+                        "start": "2024-05-24T15:00:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2024-05-18T15:45:00+00:00",
                         "name": "Qualifying 1",
-                        "start": "2024-05-18T15:00:00+00:00",
-                        "end": "2024-05-18T15:45:00+00:00"
+                        "start": "2024-05-18T15:00:00+00:00"
                     },
                     {
+                        "end": "2024-05-19T19:50:00+00:00",
                         "name": "Qualifying 2",
-                        "start": "2024-05-19T19:05:00+00:00",
-                        "end": "2024-05-19T19:50:00+00:00"
+                        "start": "2024-05-19T19:05:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2024-05-26T21:42:00+00:00",
                         "name": "Race",
-                        "start": "2024-05-26T20:45:00+00:00",
-                        "end": "2024-05-26T21:42:00+00:00"
+                        "start": "2024-05-26T20:45:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Chevrolet Detroit Grand Prix",
             "id": "chevrolet-detroit-grand-prix",
             "name": "Chevrolet Detroit Grand Prix",
-            "full_name": "Chevrolet Detroit Grand Prix",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2024-05-31T19:45:00+00:00",
                         "name": "Practice 1",
-                        "start": "2024-05-31T19:00:00+00:00",
-                        "end": "2024-05-31T19:45:00+00:00"
+                        "start": "2024-05-31T19:00:00+00:00"
                     },
                     {
+                        "end": "2024-06-01T13:40:00+00:00",
                         "name": "Practice 2",
-                        "start": "2024-06-01T13:10:00+00:00",
-                        "end": "2024-06-01T13:40:00+00:00"
+                        "start": "2024-06-01T13:10:00+00:00"
                     },
                     {
+                        "end": "2024-06-02T14:00:00+00:00",
                         "name": "Warmup",
-                        "start": "2024-06-02T13:30:00+00:00",
-                        "end": "2024-06-02T14:00:00+00:00"
+                        "start": "2024-06-02T13:30:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2024-06-01T17:15:00+00:00",
                         "name": "Qualifying",
-                        "start": "2024-06-01T16:15:00+00:00",
-                        "end": "2024-06-01T17:15:00+00:00"
+                        "start": "2024-06-01T16:15:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2024-06-02T17:27:00+00:00",
                         "name": "Race",
-                        "start": "2024-06-02T16:30:00+00:00",
-                        "end": "2024-06-02T17:27:00+00:00"
+                        "start": "2024-06-02T16:30:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "XPEL Grand Prix at Road America",
             "id": "xpel-grand-prix-at-road-america",
             "name": "XPEL Grand Prix at Road America",
-            "full_name": "XPEL Grand Prix at Road America",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2024-06-07T20:45:00+00:00",
                         "name": "Practice 1",
-                        "start": "2024-06-07T20:00:00+00:00",
-                        "end": "2024-06-07T20:45:00+00:00"
+                        "start": "2024-06-07T20:00:00+00:00"
                     },
                     {
+                        "end": "2024-06-08T15:40:00+00:00",
                         "name": "Practice 2",
-                        "start": "2024-06-08T15:10:00+00:00",
-                        "end": "2024-06-08T15:40:00+00:00"
+                        "start": "2024-06-08T15:10:00+00:00"
                     },
                     {
+                        "end": "2024-06-09T16:45:00+00:00",
                         "name": "Warmup",
-                        "start": "2024-06-09T16:15:00+00:00",
-                        "end": "2024-06-09T16:45:00+00:00"
+                        "start": "2024-06-09T16:15:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2024-06-08T20:25:00+00:00",
                         "name": "Qualifying",
-                        "start": "2024-06-08T19:25:00+00:00",
-                        "end": "2024-06-08T20:25:00+00:00"
+                        "start": "2024-06-08T19:25:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2024-06-09T20:32:00+00:00",
                         "name": "Race",
-                        "start": "2024-06-09T19:35:00+00:00",
-                        "end": "2024-06-09T20:32:00+00:00"
+                        "start": "2024-06-09T19:35:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Firestone Grand Prix of Monterey",
             "id": "firestone-grand-prix-of-monterey",
             "name": "Firestone Grand Prix of Monterey",
-            "full_name": "Firestone Grand Prix of Monterey",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2024-06-21T21:45:00+00:00",
                         "name": "Practice 1",
-                        "start": "2024-06-21T21:00:00+00:00",
-                        "end": "2024-06-21T21:45:00+00:00"
+                        "start": "2024-06-21T21:00:00+00:00"
                     },
                     {
+                        "end": "2024-06-22T17:30:00+00:00",
                         "name": "Practice 2",
-                        "start": "2024-06-22T17:00:00+00:00",
-                        "end": "2024-06-22T17:30:00+00:00"
+                        "start": "2024-06-22T17:00:00+00:00"
                     },
                     {
+                        "end": "2024-06-23T19:30:00+00:00",
                         "name": "Warmup",
-                        "start": "2024-06-23T19:00:00+00:00",
-                        "end": "2024-06-23T19:30:00+00:00"
+                        "start": "2024-06-23T19:00:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2024-06-22T22:15:00+00:00",
                         "name": "Qualifying",
-                        "start": "2024-06-22T21:15:00+00:00",
-                        "end": "2024-06-22T22:15:00+00:00"
+                        "start": "2024-06-22T21:15:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2024-06-23T23:12:00+00:00",
                         "name": "Race",
-                        "start": "2024-06-23T22:15:00+00:00",
-                        "end": "2024-06-23T23:12:00+00:00"
+                        "start": "2024-06-23T22:15:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Honda Indy 200 at Mid-Ohio",
             "id": "honda-indy-200-at-midohio",
             "name": "Honda Indy 200 at Mid-Ohio",
-            "full_name": "Honda Indy 200 at Mid-Ohio",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2024-07-05T20:05:00+00:00",
                         "name": "Practice 1",
-                        "start": "2024-07-05T19:20:00+00:00",
-                        "end": "2024-07-05T20:05:00+00:00"
+                        "start": "2024-07-05T19:20:00+00:00"
                     },
                     {
+                        "end": "2024-07-06T15:20:00+00:00",
                         "name": "Practice 2",
-                        "start": "2024-07-06T14:50:00+00:00",
-                        "end": "2024-07-06T15:20:00+00:00"
+                        "start": "2024-07-06T14:50:00+00:00"
                     },
                     {
+                        "end": "2024-07-07T14:55:00+00:00",
                         "name": "Warmup",
-                        "start": "2024-07-07T14:25:00+00:00",
-                        "end": "2024-07-07T14:55:00+00:00"
+                        "start": "2024-07-07T14:25:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2024-07-06T20:00:00+00:00",
                         "name": "Qualifying",
-                        "start": "2024-07-06T19:00:00+00:00",
-                        "end": "2024-07-06T20:00:00+00:00"
+                        "start": "2024-07-06T19:00:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2024-07-07T18:42:00+00:00",
                         "name": "Race",
-                        "start": "2024-07-07T17:45:00+00:00",
-                        "end": "2024-07-07T18:42:00+00:00"
+                        "start": "2024-07-07T17:45:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Hy-Vee Homefront 250",
             "id": "hyvee-homefront-250",
             "name": "Hy-Vee Homefront 250",
-            "full_name": "Hy-Vee Homefront 250",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2024-07-12T21:15:00+00:00",
                         "name": "Practice 1",
-                        "start": "2024-07-12T20:30:00+00:00",
-                        "end": "2024-07-12T21:15:00+00:00"
+                        "start": "2024-07-12T20:30:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2024-07-13T20:45:00+00:00",
                         "name": "Qualifying",
-                        "start": "2024-07-13T19:45:00+00:00",
-                        "end": "2024-07-13T20:45:00+00:00"
+                        "start": "2024-07-13T19:45:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2024-07-14T00:57:00+00:00",
                         "name": "Race",
-                        "start": "2024-07-14T00:00:00+00:00",
-                        "end": "2024-07-14T00:57:00+00:00"
+                        "start": "2024-07-14T00:00:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Hy-Vee One Step 250",
             "id": "hyvee-one-step-250",
             "name": "Hy-Vee One Step 250",
-            "full_name": "Hy-Vee One Step 250",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [],
                 "q": [
                     {
+                        "end": "2024-07-13T20:45:00+00:00",
                         "name": "Qualifying",
-                        "start": "2024-07-13T19:45:00+00:00",
-                        "end": "2024-07-13T20:45:00+00:00"
+                        "start": "2024-07-13T19:45:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2024-07-14T17:12:00+00:00",
                         "name": "Race",
-                        "start": "2024-07-14T16:15:00+00:00",
-                        "end": "2024-07-14T17:12:00+00:00"
+                        "start": "2024-07-14T16:15:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Ontario Honda Dealers Indy Toronto",
             "id": "ontario-honda-dealers-indy-toronto",
             "name": "Ontario Honda Dealers Indy Toronto",
-            "full_name": "Ontario Honda Dealers Indy Toronto",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2024-07-19T19:45:00+00:00",
                         "name": "Practice 1",
-                        "start": "2024-07-19T19:00:00+00:00",
-                        "end": "2024-07-19T19:45:00+00:00"
+                        "start": "2024-07-19T19:00:00+00:00"
                     },
                     {
+                        "end": "2024-07-19T20:20:00+00:00",
                         "name": "Practice 2",
-                        "start": "2024-07-19T19:50:00+00:00",
-                        "end": "2024-07-19T20:20:00+00:00"
+                        "start": "2024-07-19T19:50:00+00:00"
                     },
                     {
+                        "end": "2024-07-19T20:50:00+00:00",
                         "name": "Practice 3",
-                        "start": "2024-07-19T20:05:00+00:00",
-                        "end": "2024-07-19T20:50:00+00:00"
+                        "start": "2024-07-19T20:05:00+00:00"
                     },
                     {
+                        "end": "2024-07-20T15:15:00+00:00",
                         "name": "Practice 4",
-                        "start": "2024-07-20T14:30:00+00:00",
-                        "end": "2024-07-20T15:15:00+00:00"
+                        "start": "2024-07-20T14:30:00+00:00"
                     },
                     {
+                        "end": "2024-07-21T14:30:00+00:00",
                         "name": "Warmup",
-                        "start": "2024-07-21T14:00:00+00:00",
-                        "end": "2024-07-21T14:30:00+00:00"
+                        "start": "2024-07-21T14:00:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2024-07-20T19:45:00+00:00",
                         "name": "Qualifying",
-                        "start": "2024-07-20T18:45:00+00:00",
-                        "end": "2024-07-20T19:45:00+00:00"
+                        "start": "2024-07-20T18:45:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2024-07-21T18:27:00+00:00",
                         "name": "Race",
-                        "start": "2024-07-21T17:30:00+00:00",
-                        "end": "2024-07-21T18:27:00+00:00"
+                        "start": "2024-07-21T17:30:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Bommarito Automotive Group 500",
             "id": "bommarito-automotive-group-500",
             "name": "Bommarito Automotive Group 500",
-            "full_name": "Bommarito Automotive Group 500",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2024-08-16T17:30:00+00:00",
                         "name": "Practice 1",
-                        "start": "2024-08-16T16:45:00+00:00",
-                        "end": "2024-08-16T17:30:00+00:00"
+                        "start": "2024-08-16T16:45:00+00:00"
                     },
                     {
+                        "end": "2024-08-17T01:00:00+00:00",
                         "name": "Practice 2",
-                        "start": "2024-08-17T00:30:00+00:00",
-                        "end": "2024-08-17T01:00:00+00:00"
+                        "start": "2024-08-17T00:30:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2024-08-16T21:20:00+00:00",
                         "name": "Qualifying",
-                        "start": "2024-08-16T20:20:00+00:00",
-                        "end": "2024-08-16T21:20:00+00:00"
+                        "start": "2024-08-16T20:20:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2024-08-17T23:12:00+00:00",
                         "name": "Race",
-                        "start": "2024-08-17T22:15:00+00:00",
-                        "end": "2024-08-17T23:12:00+00:00"
+                        "start": "2024-08-17T22:15:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "BITNILE.COM Grand Prix of Portland",
             "id": "bitnilecom-grand-prix-of-portland",
             "name": "BITNILE.COM Grand Prix of Portland",
-            "full_name": "BITNILE.COM Grand Prix of Portland",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2024-08-23T22:40:00+00:00",
                         "name": "Practice 1",
-                        "start": "2024-08-23T21:55:00+00:00",
-                        "end": "2024-08-23T22:40:00+00:00"
+                        "start": "2024-08-23T21:55:00+00:00"
                     },
                     {
+                        "end": "2024-08-24T16:30:00+00:00",
                         "name": "Practice 2",
-                        "start": "2024-08-24T16:00:00+00:00",
-                        "end": "2024-08-24T16:30:00+00:00"
+                        "start": "2024-08-24T16:00:00+00:00"
                     },
                     {
+                        "end": "2024-08-25T01:00:00+00:00",
                         "name": "Practice 3",
-                        "start": "2024-08-25T00:15:00+00:00",
-                        "end": "2024-08-25T01:00:00+00:00"
+                        "start": "2024-08-25T00:15:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2024-08-24T20:30:00+00:00",
                         "name": "Qualifying",
-                        "start": "2024-08-24T19:30:00+00:00",
-                        "end": "2024-08-24T20:30:00+00:00"
+                        "start": "2024-08-24T19:30:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2024-08-25T20:17:00+00:00",
                         "name": "Race",
-                        "start": "2024-08-25T19:20:00+00:00",
-                        "end": "2024-08-25T20:17:00+00:00"
+                        "start": "2024-08-25T19:20:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Hy-Vee Milwaukee Mile 250 - Race 1",
             "id": "hyvee-milwaukee-mile-250-race-1",
             "name": "Hy-Vee Milwaukee Mile 250 - Race 1",
-            "full_name": "Hy-Vee Milwaukee Mile 250 - Race 1",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2024-08-30T20:20:00+00:00",
                         "name": "Practice 1",
-                        "start": "2024-08-30T19:35:00+00:00",
-                        "end": "2024-08-30T20:20:00+00:00"
+                        "start": "2024-08-30T19:35:00+00:00"
                     },
                     {
+                        "end": "2024-08-30T21:00:00+00:00",
                         "name": "Practice 2",
-                        "start": "2024-08-30T20:30:00+00:00",
-                        "end": "2024-08-30T21:00:00+00:00"
+                        "start": "2024-08-30T20:30:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2024-08-31T19:15:00+00:00",
                         "name": "Qualifying",
-                        "start": "2024-08-31T18:15:00+00:00",
-                        "end": "2024-08-31T19:15:00+00:00"
+                        "start": "2024-08-31T18:15:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2024-08-31T22:57:00+00:00",
                         "name": "Race",
-                        "start": "2024-08-31T22:00:00+00:00",
-                        "end": "2024-08-31T22:57:00+00:00"
+                        "start": "2024-08-31T22:00:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Hy-Vee Milwaukee Mile 250 - Race 2",
             "id": "hyvee-milwaukee-mile-250-race-2",
             "name": "Hy-Vee Milwaukee Mile 250 - Race 2",
-            "full_name": "Hy-Vee Milwaukee Mile 250 - Race 2",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [],
                 "q": [
                     {
+                        "end": "2024-08-31T19:15:00+00:00",
                         "name": "Qualifying",
-                        "start": "2024-08-31T18:15:00+00:00",
-                        "end": "2024-08-31T19:15:00+00:00"
+                        "start": "2024-08-31T18:15:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2024-09-01T19:47:00+00:00",
                         "name": "Race",
-                        "start": "2024-09-01T18:50:00+00:00",
-                        "end": "2024-09-01T19:47:00+00:00"
+                        "start": "2024-09-01T18:50:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Big Machine Music City Grand Prix",
             "id": "big-machine-music-city-grand-prix",
             "name": "Big Machine Music City Grand Prix",
-            "full_name": "Big Machine Music City Grand Prix",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2024-09-14T16:15:00+00:00",
                         "name": "Practice 1",
-                        "start": "2024-09-14T15:30:00+00:00",
-                        "end": "2024-09-14T16:15:00+00:00"
+                        "start": "2024-09-14T15:30:00+00:00"
                     },
                     {
+                        "end": "2024-09-14T22:15:00+00:00",
                         "name": "Practice 2",
-                        "start": "2024-09-14T21:45:00+00:00",
-                        "end": "2024-09-14T22:15:00+00:00"
+                        "start": "2024-09-14T21:45:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2024-09-14T19:45:00+00:00",
                         "name": "Qualifying",
-                        "start": "2024-09-14T18:45:00+00:00",
-                        "end": "2024-09-14T19:45:00+00:00"
+                        "start": "2024-09-14T18:45:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2024-09-15T20:27:00+00:00",
                         "name": "Race",
-                        "start": "2024-09-15T19:30:00+00:00",
-                        "end": "2024-09-15T20:27:00+00:00"
+                        "start": "2024-09-15T19:30:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Firestone Grand Prix of St. Petersburg",
             "id": "firestone-grand-prix-of-st-petersburg",
             "name": "Firestone Grand Prix of St. Petersburg",
-            "full_name": "Firestone Grand Prix of St. Petersburg",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2025-02-28T20:45:00+00:00",
                         "name": "Practice 1",
-                        "start": "2025-02-28T20:00:00+00:00",
-                        "end": "2025-02-28T20:45:00+00:00"
+                        "start": "2025-02-28T20:00:00+00:00"
                     },
                     {
+                        "end": "2025-03-01T15:45:00+00:00",
                         "name": "Practice 2",
-                        "start": "2025-03-01T15:15:00+00:00",
-                        "end": "2025-03-01T15:45:00+00:00"
+                        "start": "2025-03-01T15:15:00+00:00"
                     },
                     {
+                        "end": "2025-03-02T14:45:00+00:00",
                         "name": "Practice 3",
-                        "start": "2025-03-02T14:00:00+00:00",
-                        "end": "2025-03-02T14:45:00+00:00"
+                        "start": "2025-03-02T14:00:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2025-03-01T20:30:00+00:00",
                         "name": "Qualifying",
-                        "start": "2025-03-01T19:30:00+00:00",
-                        "end": "2025-03-01T20:30:00+00:00"
+                        "start": "2025-03-01T19:30:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-03-02T17:57:00+00:00",
                         "name": "Race",
-                        "start": "2025-03-02T17:00:00+00:00",
-                        "end": "2025-03-02T17:57:00+00:00"
+                        "start": "2025-03-02T17:00:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "The Thermal Club INDYCAR Grand Prix",
             "id": "the-thermal-club-indycar-grand-prix",
             "name": "The Thermal Club INDYCAR Grand Prix",
-            "full_name": "The Thermal Club INDYCAR Grand Prix",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2025-03-21T23:15:00+00:00",
                         "name": "Practice 1",
-                        "start": "2025-03-21T22:30:00+00:00",
-                        "end": "2025-03-21T23:15:00+00:00"
+                        "start": "2025-03-21T22:30:00+00:00"
                     },
                     {
+                        "end": "2025-03-22T17:30:00+00:00",
                         "name": "Practice 2",
-                        "start": "2025-03-22T17:00:00+00:00",
-                        "end": "2025-03-22T17:30:00+00:00"
+                        "start": "2025-03-22T17:00:00+00:00"
                     },
                     {
+                        "end": "2025-03-23T15:45:00+00:00",
                         "name": "Practice 3",
-                        "start": "2025-03-23T15:00:00+00:00",
-                        "end": "2025-03-23T15:45:00+00:00"
+                        "start": "2025-03-23T15:00:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2025-03-22T22:00:00+00:00",
                         "name": "Qualifying",
-                        "start": "2025-03-22T21:00:00+00:00",
-                        "end": "2025-03-22T22:00:00+00:00"
+                        "start": "2025-03-22T21:00:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-03-23T19:57:00+00:00",
                         "name": "Race",
-                        "start": "2025-03-23T19:00:00+00:00",
-                        "end": "2025-03-23T19:57:00+00:00"
+                        "start": "2025-03-23T19:00:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Acura Grand Prix of Long Beach",
             "id": "acura-grand-prix-of-long-beach",
             "name": "Acura Grand Prix of Long Beach",
-            "full_name": "Acura Grand Prix of Long Beach",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2025-04-11T22:45:00+00:00",
                         "name": "Practice 1",
-                        "start": "2025-04-11T22:00:00+00:00",
-                        "end": "2025-04-11T22:45:00+00:00"
+                        "start": "2025-04-11T22:00:00+00:00"
                     },
                     {
+                        "end": "2025-04-12T16:00:00+00:00",
                         "name": "Practice 2",
-                        "start": "2025-04-12T15:30:00+00:00",
-                        "end": "2025-04-12T16:00:00+00:00"
+                        "start": "2025-04-12T15:30:00+00:00"
                     },
                     {
+                        "end": "2025-04-13T16:45:00+00:00",
                         "name": "Practice 3",
-                        "start": "2025-04-13T16:00:00+00:00",
-                        "end": "2025-04-13T16:45:00+00:00"
+                        "start": "2025-04-13T16:00:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2025-04-12T19:30:00+00:00",
                         "name": "Qualifying",
-                        "start": "2025-04-12T18:30:00+00:00",
-                        "end": "2025-04-12T19:30:00+00:00"
+                        "start": "2025-04-12T18:30:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-04-13T21:27:00+00:00",
                         "name": "Race",
-                        "start": "2025-04-13T20:30:00+00:00",
-                        "end": "2025-04-13T21:27:00+00:00"
+                        "start": "2025-04-13T20:30:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Children's of Alabama Indy Grand Prix",
             "id": "childrens-of-alabama-indy-grand-prix",
             "name": "Children's of Alabama Indy Grand Prix",
-            "full_name": "Children's of Alabama Indy Grand Prix",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2025-05-02T20:20:00+00:00",
                         "name": "Practice 1",
-                        "start": "2025-05-02T19:35:00+00:00",
-                        "end": "2025-05-02T20:20:00+00:00"
+                        "start": "2025-05-02T19:35:00+00:00"
                     },
                     {
+                        "end": "2025-05-03T16:00:00+00:00",
                         "name": "Practice 2",
-                        "start": "2025-05-03T15:30:00+00:00",
-                        "end": "2025-05-03T16:00:00+00:00"
+                        "start": "2025-05-03T15:30:00+00:00"
                     },
                     {
+                        "end": "2025-05-04T14:47:00+00:00",
                         "name": "Practice 3",
-                        "start": "2025-05-04T14:02:00+00:00",
-                        "end": "2025-05-04T14:47:00+00:00"
+                        "start": "2025-05-04T14:02:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2025-05-03T19:30:00+00:00",
                         "name": "Qualifying",
-                        "start": "2025-05-03T18:30:00+00:00",
-                        "end": "2025-05-03T19:30:00+00:00"
+                        "start": "2025-05-03T18:30:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-05-04T18:27:00+00:00",
                         "name": "Race",
-                        "start": "2025-05-04T17:30:00+00:00",
-                        "end": "2025-05-04T18:27:00+00:00"
+                        "start": "2025-05-04T17:30:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Sonsio Grand Prix",
             "id": "sonsio-grand-prix",
             "name": "Sonsio Grand Prix",
-            "full_name": "Sonsio Grand Prix",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2025-05-09T14:15:00+00:00",
                         "name": "Practice 1",
-                        "start": "2025-05-09T13:30:00+00:00",
-                        "end": "2025-05-09T14:15:00+00:00"
+                        "start": "2025-05-09T13:30:00+00:00"
                     },
                     {
+                        "end": "2025-05-09T17:40:00+00:00",
                         "name": "Practice 2",
-                        "start": "2025-05-09T17:10:00+00:00",
-                        "end": "2025-05-09T17:40:00+00:00"
+                        "start": "2025-05-09T17:10:00+00:00"
                     },
                     {
+                        "end": "2025-05-10T16:17:00+00:00",
                         "name": "Practice 3",
-                        "start": "2025-05-10T15:32:00+00:00",
-                        "end": "2025-05-10T16:17:00+00:00"
+                        "start": "2025-05-10T15:32:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2025-05-09T21:30:00+00:00",
                         "name": "Qualifying",
-                        "start": "2025-05-09T20:30:00+00:00",
-                        "end": "2025-05-09T21:30:00+00:00"
+                        "start": "2025-05-09T20:30:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-05-10T21:27:00+00:00",
                         "name": "Race",
-                        "start": "2025-05-10T20:30:00+00:00",
-                        "end": "2025-05-10T21:27:00+00:00"
+                        "start": "2025-05-10T20:30:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "109th Running of the Indianapolis 500",
             "id": "109th-running-of-the-indianapolis-500",
             "name": "109th Running of the Indianapolis 500",
-            "full_name": "109th Running of the Indianapolis 500",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2025-05-13T16:45:00+00:00",
                         "name": "Practice 1",
-                        "start": "2025-05-13T16:00:00+00:00",
-                        "end": "2025-05-13T16:45:00+00:00"
+                        "start": "2025-05-13T16:00:00+00:00"
                     },
                     {
+                        "end": "2025-05-14T16:45:00+00:00",
                         "name": "Practice 3",
-                        "start": "2025-05-14T16:00:00+00:00",
-                        "end": "2025-05-14T16:45:00+00:00"
+                        "start": "2025-05-14T16:00:00+00:00"
                     },
                     {
+                        "end": "2025-05-15T14:45:00+00:00",
                         "name": "ROP Refreshers",
-                        "start": "2025-05-15T14:00:00+00:00",
-                        "end": "2025-05-15T14:45:00+00:00"
+                        "start": "2025-05-15T14:00:00+00:00"
                     },
                     {
+                        "end": "2025-05-15T16:45:00+00:00",
                         "name": "Practice 4",
-                        "start": "2025-05-15T16:00:00+00:00",
-                        "end": "2025-05-15T16:45:00+00:00"
+                        "start": "2025-05-15T16:00:00+00:00"
                     },
                     {
+                        "end": "2025-05-16T16:45:00+00:00",
                         "name": "Practice 5",
-                        "start": "2025-05-16T16:00:00+00:00",
-                        "end": "2025-05-16T16:45:00+00:00"
+                        "start": "2025-05-16T16:00:00+00:00"
                     },
                     {
+                        "end": "2025-05-17T13:15:00+00:00",
                         "name": "Practice 6",
-                        "start": "2025-05-17T12:30:00+00:00",
-                        "end": "2025-05-17T13:15:00+00:00"
+                        "start": "2025-05-17T12:30:00+00:00"
                     },
                     {
+                        "end": "2025-05-18T17:45:00+00:00",
                         "name": "Practice 7",
-                        "start": "2025-05-18T17:00:00+00:00",
-                        "end": "2025-05-18T17:45:00+00:00"
+                        "start": "2025-05-18T17:00:00+00:00"
                     },
                     {
+                        "end": "2025-05-19T17:45:00+00:00",
                         "name": "Practice 8",
-                        "start": "2025-05-19T17:00:00+00:00",
-                        "end": "2025-05-19T17:45:00+00:00"
+                        "start": "2025-05-19T17:00:00+00:00"
                     },
                     {
+                        "end": "2025-05-23T15:45:00+00:00",
                         "name": "Practice 9",
-                        "start": "2025-05-23T15:00:00+00:00",
-                        "end": "2025-05-23T15:45:00+00:00"
+                        "start": "2025-05-23T15:00:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2025-05-17T16:00:00+00:00",
                         "name": "Qualifying",
-                        "start": "2025-05-17T15:00:00+00:00",
-                        "end": "2025-05-17T16:00:00+00:00"
+                        "start": "2025-05-17T15:00:00+00:00"
                     },
                     {
+                        "end": "2025-05-18T20:45:00+00:00",
                         "name": "Qualifying 2",
-                        "start": "2025-05-18T20:00:00+00:00",
-                        "end": "2025-05-18T20:45:00+00:00"
+                        "start": "2025-05-18T20:00:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-05-25T17:27:00+00:00",
                         "name": "Race",
-                        "start": "2025-05-25T16:30:00+00:00",
-                        "end": "2025-05-25T17:27:00+00:00"
+                        "start": "2025-05-25T16:30:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Chevrolet Detroit Grand Prix",
             "id": "chevrolet-detroit-grand-prix",
             "name": "Chevrolet Detroit Grand Prix",
-            "full_name": "Chevrolet Detroit Grand Prix",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2025-05-30T19:50:00+00:00",
                         "name": "Practice 1",
-                        "start": "2025-05-30T19:05:00+00:00",
-                        "end": "2025-05-30T19:50:00+00:00"
+                        "start": "2025-05-30T19:05:00+00:00"
                     },
                     {
+                        "end": "2025-05-31T13:35:00+00:00",
                         "name": "Practice 2",
-                        "start": "2025-05-31T13:05:00+00:00",
-                        "end": "2025-05-31T13:35:00+00:00"
+                        "start": "2025-05-31T13:05:00+00:00"
                     },
                     {
+                        "end": "2025-06-01T14:17:00+00:00",
                         "name": "Practice 3",
-                        "start": "2025-06-01T13:32:00+00:00",
-                        "end": "2025-06-01T14:17:00+00:00"
+                        "start": "2025-06-01T13:32:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2025-05-31T17:00:00+00:00",
                         "name": "Qualifying",
-                        "start": "2025-05-31T16:00:00+00:00",
-                        "end": "2025-05-31T17:00:00+00:00"
+                        "start": "2025-05-31T16:00:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-06-01T17:27:00+00:00",
                         "name": "Race",
-                        "start": "2025-06-01T16:30:00+00:00",
-                        "end": "2025-06-01T17:27:00+00:00"
+                        "start": "2025-06-01T16:30:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Bommarito Automotive Group 500",
             "id": "bommarito-automotive-group-500",
             "name": "Bommarito Automotive Group 500",
-            "full_name": "Bommarito Automotive Group 500",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2025-06-14T18:45:00+00:00",
                         "name": "Practice 1",
-                        "start": "2025-06-14T18:00:00+00:00",
-                        "end": "2025-06-14T18:45:00+00:00"
+                        "start": "2025-06-14T18:00:00+00:00"
                     },
                     {
+                        "end": "2025-06-15T00:45:00+00:00",
                         "name": "Practice 2",
-                        "start": "2025-06-15T00:15:00+00:00",
-                        "end": "2025-06-15T00:45:00+00:00"
+                        "start": "2025-06-15T00:15:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2025-06-14T22:30:00+00:00",
                         "name": "Qualifying",
-                        "start": "2025-06-14T21:30:00+00:00",
-                        "end": "2025-06-14T22:30:00+00:00"
+                        "start": "2025-06-14T21:30:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-06-16T00:57:00+00:00",
                         "name": "Race",
-                        "start": "2025-06-16T00:00:00+00:00",
-                        "end": "2025-06-16T00:57:00+00:00"
+                        "start": "2025-06-16T00:00:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "XPEL Grand Prix at Road America",
             "id": "xpel-grand-prix-at-road-america",
             "name": "XPEL Grand Prix at Road America",
-            "full_name": "XPEL Grand Prix at Road America",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2025-06-20T21:15:00+00:00",
                         "name": "Practice 1",
-                        "start": "2025-06-20T20:30:00+00:00",
-                        "end": "2025-06-20T21:15:00+00:00"
+                        "start": "2025-06-20T20:30:00+00:00"
                     },
                     {
+                        "end": "2025-06-21T15:30:00+00:00",
                         "name": "Practice 2",
-                        "start": "2025-06-21T15:00:00+00:00",
-                        "end": "2025-06-21T15:30:00+00:00"
+                        "start": "2025-06-21T15:00:00+00:00"
                     },
                     {
+                        "end": "2025-06-22T14:30:00+00:00",
                         "name": "Warmup",
-                        "start": "2025-06-22T14:00:00+00:00",
-                        "end": "2025-06-22T14:30:00+00:00"
+                        "start": "2025-06-22T14:00:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2025-06-21T19:30:00+00:00",
                         "name": "Qualifying",
-                        "start": "2025-06-21T18:30:00+00:00",
-                        "end": "2025-06-21T19:30:00+00:00"
+                        "start": "2025-06-21T18:30:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-06-22T18:27:00+00:00",
                         "name": "Race",
-                        "start": "2025-06-22T17:30:00+00:00",
-                        "end": "2025-06-22T18:27:00+00:00"
+                        "start": "2025-06-22T17:30:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Honda Indy 200 at Mid-Ohio",
             "id": "honda-indy-200-at-midohio",
             "name": "Honda Indy 200 at Mid-Ohio",
-            "full_name": "Honda Indy 200 at Mid-Ohio",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2025-07-04T20:45:00+00:00",
                         "name": "Practice 1",
-                        "start": "2025-07-04T20:00:00+00:00",
-                        "end": "2025-07-04T20:45:00+00:00"
+                        "start": "2025-07-04T20:00:00+00:00"
                     },
                     {
+                        "end": "2025-07-05T15:00:00+00:00",
                         "name": "Practice 2",
-                        "start": "2025-07-05T14:30:00+00:00",
-                        "end": "2025-07-05T15:00:00+00:00"
+                        "start": "2025-07-05T14:30:00+00:00"
                     },
                     {
+                        "end": "2025-07-06T14:00:00+00:00",
                         "name": "Warmup",
-                        "start": "2025-07-06T13:30:00+00:00",
-                        "end": "2025-07-06T14:00:00+00:00"
+                        "start": "2025-07-06T13:30:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2025-07-05T19:30:00+00:00",
                         "name": "Qualifying",
-                        "start": "2025-07-05T18:30:00+00:00",
-                        "end": "2025-07-05T19:30:00+00:00"
+                        "start": "2025-07-05T18:30:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-07-06T17:57:00+00:00",
                         "name": "Race",
-                        "start": "2025-07-06T17:00:00+00:00",
-                        "end": "2025-07-06T17:57:00+00:00"
+                        "start": "2025-07-06T17:00:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Synk 275 powered by Sukup",
             "id": "synk-275-powered-by-sukup",
             "name": "Synk 275 powered by Sukup",
-            "full_name": "Synk 275 powered by Sukup",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2025-07-12T15:30:00+00:00",
                         "name": "Practice 1",
-                        "start": "2025-07-12T14:45:00+00:00",
-                        "end": "2025-07-12T15:30:00+00:00"
+                        "start": "2025-07-12T14:45:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2025-07-12T18:30:00+00:00",
                         "name": "Qualifying",
-                        "start": "2025-07-12T17:30:00+00:00",
-                        "end": "2025-07-12T18:30:00+00:00"
+                        "start": "2025-07-12T17:30:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-07-12T21:57:00+00:00",
                         "name": "Race",
-                        "start": "2025-07-12T21:00:00+00:00",
-                        "end": "2025-07-12T21:57:00+00:00"
+                        "start": "2025-07-12T21:00:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Farm to Finish 275",
             "id": "farm-to-finish-275",
             "name": "Farm to Finish 275",
-            "full_name": "Farm to Finish 275",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [],
                 "q": [
                     {
+                        "end": "2025-07-12T18:30:00+00:00",
                         "name": "Qualifying",
-                        "start": "2025-07-12T17:30:00+00:00",
-                        "end": "2025-07-12T18:30:00+00:00"
+                        "start": "2025-07-12T17:30:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-07-13T17:57:00+00:00",
                         "name": "Race",
-                        "start": "2025-07-13T17:00:00+00:00",
-                        "end": "2025-07-13T17:57:00+00:00"
+                        "start": "2025-07-13T17:00:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Ontario Honda Dealers Indy Toronto",
             "id": "ontario-honda-dealers-indy-toronto",
             "name": "Ontario Honda Dealers Indy Toronto",
-            "full_name": "Ontario Honda Dealers Indy Toronto",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2025-07-18T19:45:00+00:00",
                         "name": "Practice 1",
-                        "start": "2025-07-18T19:00:00+00:00",
-                        "end": "2025-07-18T19:45:00+00:00"
+                        "start": "2025-07-18T19:00:00+00:00"
                     },
                     {
+                        "end": "2025-07-19T15:00:00+00:00",
                         "name": "Practice 2",
-                        "start": "2025-07-19T14:30:00+00:00",
-                        "end": "2025-07-19T15:00:00+00:00"
+                        "start": "2025-07-19T14:30:00+00:00"
                     },
                     {
+                        "end": "2025-07-20T13:00:00+00:00",
                         "name": "Warmup",
-                        "start": "2025-07-20T12:30:00+00:00",
-                        "end": "2025-07-20T13:00:00+00:00"
+                        "start": "2025-07-20T12:30:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2025-07-19T19:30:00+00:00",
                         "name": "Qualifying",
-                        "start": "2025-07-19T18:30:00+00:00",
-                        "end": "2025-07-19T19:30:00+00:00"
+                        "start": "2025-07-19T18:30:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-07-20T16:57:00+00:00",
                         "name": "Race",
-                        "start": "2025-07-20T16:00:00+00:00",
-                        "end": "2025-07-20T16:57:00+00:00"
+                        "start": "2025-07-20T16:00:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Java House Grand Prix of Monterey",
             "id": "java-house-grand-prix-of-monterey",
             "name": "Java House Grand Prix of Monterey",
-            "full_name": "Java House Grand Prix of Monterey",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [
                     {
+                        "end": "2025-07-25T21:45:00+00:00",
                         "name": "Practice 1",
-                        "start": "2025-07-25T21:00:00+00:00",
-                        "end": "2025-07-25T21:45:00+00:00"
+                        "start": "2025-07-25T21:00:00+00:00"
                     },
                     {
+                        "end": "2025-07-26T16:00:00+00:00",
                         "name": "Practice 2",
-                        "start": "2025-07-26T15:30:00+00:00",
-                        "end": "2025-07-26T16:00:00+00:00"
+                        "start": "2025-07-26T15:30:00+00:00"
                     },
                     {
+                        "end": "2025-07-27T16:30:00+00:00",
                         "name": "Warmup",
-                        "start": "2025-07-27T16:00:00+00:00",
-                        "end": "2025-07-27T16:30:00+00:00"
+                        "start": "2025-07-27T16:00:00+00:00"
                     }
                 ],
                 "q": [
                     {
+                        "end": "2025-07-26T19:30:00+00:00",
                         "name": "Qualifying",
-                        "start": "2025-07-26T18:30:00+00:00",
-                        "end": "2025-07-26T19:30:00+00:00"
+                        "start": "2025-07-26T18:30:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-07-27T19:57:00+00:00",
                         "name": "Race",
-                        "start": "2025-07-27T19:00:00+00:00",
-                        "end": "2025-07-27T19:57:00+00:00"
+                        "start": "2025-07-27T19:00:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "BITNILE.com Grand Prix of Portland",
             "id": "bitnilecom-grand-prix-of-portland",
             "name": "BITNILE.com Grand Prix of Portland",
-            "full_name": "BITNILE.com Grand Prix of Portland",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [],
                 "q": [
                     {
+                        "end": "2025-08-10T20:30:00+00:00",
                         "name": "Qualifying",
-                        "start": "2025-08-10T19:30:00+00:00",
-                        "end": "2025-08-10T20:30:00+00:00"
+                        "start": "2025-08-10T19:30:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-08-10T19:57:00+00:00",
                         "name": "Race",
-                        "start": "2025-08-10T19:00:00+00:00",
-                        "end": "2025-08-10T19:57:00+00:00"
+                        "start": "2025-08-10T19:00:00+00:00"
                     }
                 ]
             }
         },
         {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
+                "series": [
+                    "indycar"
+                ]
+            },
+            "full_name": "Snap-on Milwaukee Mile 250",
             "id": "snapon-milwaukee-mile-250",
             "name": "Snap-on Milwaukee Mile 250",
-            "full_name": "Snap-on Milwaukee Mile 250",
-            "circuit": {
-                "name": null,
-                "search": [],
-                "city": null,
-                "country": null,
-                "series": [
-                    "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
-            },
             "sessions": {
                 "p": [],
                 "q": [
                     {
+                        "end": "2025-08-24T18:30:00+00:00",
                         "name": "Qualifying",
-                        "start": "2025-08-24T17:30:00+00:00",
-                        "end": "2025-08-24T18:30:00+00:00"
+                        "start": "2025-08-24T17:30:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-08-24T18:57:00+00:00",
                         "name": "Race",
-                        "start": "2025-08-24T18:00:00+00:00",
-                        "end": "2025-08-24T18:57:00+00:00"
+                        "start": "2025-08-24T18:00:00+00:00"
                     }
                 ]
             }
         },
         {
-            "id": "borchetta-bourbon-music-city-grand-prix",
-            "name": "Borchetta Bourbon Music City Grand Prix",
-            "full_name": "Borchetta Bourbon Music City Grand Prix",
             "circuit": {
-                "name": null,
-                "search": [],
                 "city": null,
                 "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": null,
+                "search": [],
                 "series": [
                     "indycar"
-                ],
-                "lat": 0,
-                "lon": 0
+                ]
             },
+            "full_name": "Borchetta Bourbon Music City Grand Prix",
+            "id": "borchetta-bourbon-music-city-grand-prix",
+            "name": "Borchetta Bourbon Music City Grand Prix",
             "sessions": {
                 "p": [],
                 "q": [
                     {
+                        "end": "2025-08-30T19:45:00+00:00",
                         "name": "Qualifying",
-                        "start": "2025-08-30T18:45:00+00:00",
-                        "end": "2025-08-30T19:45:00+00:00"
+                        "start": "2025-08-30T18:45:00+00:00"
                     }
                 ],
                 "r": [
                     {
+                        "end": "2025-08-31T19:27:00+00:00",
                         "name": "Race",
-                        "start": "2025-08-31T18:30:00+00:00",
-                        "end": "2025-08-31T19:27:00+00:00"
+                        "start": "2025-08-31T18:30:00+00:00"
                     }
                 ]
             }
         }
     ],
-    "color": "orange",
-    "last_scraped": "2025-07-25T18:59:19.567933+00:00",
     "full_name": "NTT IndyCar Series",
-    "name": "IndyCar",
-    "category": "Open-Wheel",
-    "gov_body": "ACCUS",
-    "source": "https://github.com/sportstimes/f1",
-    "version": "0.6.4",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
-    "classes": [
-        "IndyCar"
-    ]
+    "gov_body": "ACCUS",
+    "last_scraped": "2025-07-26T09:55:02.382371+00:00",
+    "name": "IndyCar",
+    "source": "https://github.com/sportstimes/f1",
+    "version": "0.6.5"
 }

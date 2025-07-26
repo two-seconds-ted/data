@@ -1,0 +1,651 @@
+{
+    "category": "Sportscar",
+    "classes": [
+        "GT3"
+    ],
+    "color": "yellow",
+    "events": [
+        {
+            "circuit": {
+                "city": "Nuremberg",
+                "country": "Germany",
+                "lat": 0,
+                "lon": 0,
+                "name": "Norisring",
+                "search": [
+                    "norisring"
+                ],
+                "series": [
+                    "dtm",
+                    "gt_masters"
+                ]
+            },
+            "full_name": "Norisring",
+            "id": "norisring-2023",
+            "name": "Norisring",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2023-07-07T09:10:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2023-07-07T08:10:00+00:00"
+                    },
+                    {
+                        "end": "2023-07-07T14:35:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "2023-07-07T13:35:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2023-07-08T07:20:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2023-07-08T07:00:00+00:00"
+                    },
+                    {
+                        "end": "2023-07-09T07:05:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2023-07-09T06:45:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2023-07-08T14:10:00+00:00",
+                        "name": "Race 1",
+                        "start": "2023-07-08T13:10:00+00:00"
+                    },
+                    {
+                        "end": "2023-07-09T14:15:00+00:00",
+                        "name": "Race 2",
+                        "start": "2023-07-09T13:15:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": "Sachsenring",
+                "search": [
+                    "sachsenring"
+                ],
+                "series": [
+                    "dtm",
+                    "gt_masters"
+                ]
+            },
+            "full_name": "Sachsenring",
+            "id": "sachsenring-2023",
+            "name": "Sachsenring",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2023-09-08T07:20:00+00:00",
+                        "name": "Free practice 1",
+                        "start": "2023-09-08T06:30:00+00:00"
+                    },
+                    {
+                        "end": "2023-09-08T13:20:00+00:00",
+                        "name": "Free practice 2",
+                        "start": "2023-09-08T12:30:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2023-09-09T06:50:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2023-09-09T06:30:00+00:00"
+                    },
+                    {
+                        "end": "2023-09-10T06:50:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2023-09-10T06:30:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2023-09-09T14:15:00+00:00",
+                        "name": "Race 1",
+                        "start": "2023-09-09T13:15:00+00:00"
+                    },
+                    {
+                        "end": "2023-09-10T14:15:00+00:00",
+                        "name": "Race 2",
+                        "start": "2023-09-10T13:15:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Spielberg",
+                "country": null,
+                "name": "Red Bull Ring",
+                "search": [
+                    "spielberg",
+                    "red bull ring",
+                    "red bull",
+                    "austria"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt2_europe",
+                    "gt4_europe",
+                    "elms",
+                    "dtm",
+                    "gt_masters"
+                ]
+            },
+            "full_name": "Red Bull Ring",
+            "id": "red-bull-ring-2023",
+            "name": "Red Bull Ring",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2023-09-22T07:45:00+00:00",
+                        "name": "Free practice 1",
+                        "start": "2023-09-22T07:00:00+00:00"
+                    },
+                    {
+                        "end": "2023-09-22T12:15:00+00:00",
+                        "name": "Free practice 2",
+                        "start": "2023-09-22T11:30:00+00:00"
+                    },
+                    {
+                        "end": "2023-09-24T09:05:00+00:00",
+                        "name": "Autograph session DTM Fan Zone",
+                        "start": "2023-09-24T08:45:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2023-09-23T06:45:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2023-09-23T06:25:00+00:00"
+                    },
+                    {
+                        "end": "2023-09-24T07:20:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2023-09-24T07:00:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2023-09-23T14:15:00+00:00",
+                        "name": "Race 1",
+                        "start": "2023-09-23T13:15:00+00:00"
+                    },
+                    {
+                        "end": "2023-09-24T14:15:00+00:00",
+                        "name": "Race 2",
+                        "start": "2023-09-24T13:15:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Hockenheim",
+                "country": null,
+                "name": "Hockenheimring",
+                "search": [
+                    "hockenheim",
+                    "hockenheimring",
+                    "hockenheim ring"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt2_europe",
+                    "gt4_europe",
+                    "gtwce",
+                    "dtm",
+                    "gt_masters"
+                ]
+            },
+            "full_name": "Hockenheimring",
+            "id": "hockenheim-finale-2023",
+            "name": "Hockenheimring",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2023-10-20T12:55:00+00:00",
+                        "name": "Free practice",
+                        "start": "2023-10-20T12:10:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2023-10-21T07:20:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2023-10-21T07:00:00+00:00"
+                    },
+                    {
+                        "end": "2023-10-22T07:20:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2023-10-22T07:00:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2023-10-21T15:05:00+00:00",
+                        "name": "Race 1",
+                        "start": "2023-10-21T14:05:00+00:00"
+                    },
+                    {
+                        "end": "2023-10-22T14:15:00+00:00",
+                        "name": "Race 2",
+                        "start": "2023-10-22T13:15:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": "Motorsport Arena Oschersleben",
+                "search": [
+                    "motorsport arena oschersleben",
+                    "oschersleben"
+                ],
+                "series": [
+                    "dtm",
+                    "gt_masters"
+                ]
+            },
+            "full_name": "Motorsport Arena Oschersleben",
+            "id": "oschersleben-2024",
+            "name": "Motorsport Arena Oschersleben",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-04-26T09:10:00+00:00",
+                        "name": "Free practice 1",
+                        "start": "2024-04-26T08:10:00+00:00"
+                    },
+                    {
+                        "end": "2024-04-26T15:15:00+00:00",
+                        "name": "Free practice 2",
+                        "start": "2024-04-26T14:30:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-04-27T07:35:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2024-04-27T07:15:00+00:00"
+                    },
+                    {
+                        "end": "2024-04-28T07:35:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2024-04-28T07:15:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-04-27T14:55:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-04-27T13:55:00+00:00"
+                    },
+                    {
+                        "end": "2024-04-28T14:15:00+00:00",
+                        "name": "Race 2",
+                        "start": "2024-04-28T13:15:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Zandvoort",
+                "country": null,
+                "name": "Zandvoort Circuit",
+                "search": [
+                    "zandvoort",
+                    "zandvoort circuit",
+                    "netherlands"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt2_europe",
+                    "gt4_europe",
+                    "gtwce",
+                    "dtm",
+                    "gt_masters"
+                ]
+            },
+            "full_name": "Circuit Zandvoort",
+            "id": "zandvoort-2024",
+            "name": "Circuit Zandvoort",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-06-07T08:55:00+00:00",
+                        "name": "Free practice 1",
+                        "start": "2024-06-07T08:10:00+00:00"
+                    },
+                    {
+                        "end": "2024-06-07T09:35:00+00:00",
+                        "name": "Free practice Trophy",
+                        "start": "2024-06-07T09:05:00+00:00"
+                    },
+                    {
+                        "end": "2024-06-07T14:45:00+00:00",
+                        "name": "Free practice 2",
+                        "start": "2024-06-07T14:00:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-06-08T06:45:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2024-06-08T06:25:00+00:00"
+                    },
+                    {
+                        "end": "2024-06-09T07:20:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2024-06-09T07:00:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-06-08T14:15:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-06-08T13:15:00+00:00"
+                    },
+                    {
+                        "end": "2024-06-09T12:25:00+00:00",
+                        "name": "Race 2",
+                        "start": "2024-06-09T11:25:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Spielberg",
+                "country": null,
+                "name": "Red Bull Ring",
+                "search": [
+                    "spielberg",
+                    "red bull ring",
+                    "red bull",
+                    "austria"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt2_europe",
+                    "gt4_europe",
+                    "elms",
+                    "dtm",
+                    "gt_masters"
+                ]
+            },
+            "full_name": "Red Bull Ring",
+            "id": "red-bull-ring-2024",
+            "name": "Red Bull Ring",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-09-27T08:15:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2024-09-27T07:15:00+00:00"
+                    },
+                    {
+                        "end": "2024-09-27T13:50:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "2024-09-27T13:00:00+00:00"
+                    },
+                    {
+                        "end": "2024-09-27T14:20:00+00:00",
+                        "name": "Free Practice Trophy",
+                        "start": "2024-09-27T13:55:00+00:00"
+                    },
+                    {
+                        "end": "2024-09-28T09:20:00+00:00",
+                        "name": "Autograph session DTM Fanzone",
+                        "start": "2024-09-28T09:00:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-09-11T07:05:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2024-09-28T06:45:00+00:00"
+                    },
+                    {
+                        "end": "2024-09-29T08:40:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2024-09-29T08:20:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-09-28T14:15:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-09-28T13:15:00+00:00"
+                    },
+                    {
+                        "end": "2024-09-29T14:15:00+00:00",
+                        "name": "Race 2",
+                        "start": "2024-09-29T13:15:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Hockenheim",
+                "country": null,
+                "name": "Hockenheimring",
+                "search": [
+                    "hockenheim",
+                    "hockenheimring",
+                    "hockenheim ring"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt2_europe",
+                    "gt4_europe",
+                    "gtwce",
+                    "dtm",
+                    "gt_masters"
+                ]
+            },
+            "full_name": "Hockenheimring",
+            "id": "hockenheim-finale-2024",
+            "name": "Hockenheimring",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-10-18T08:40:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2024-10-18T07:55:00+00:00"
+                    },
+                    {
+                        "end": "2024-10-18T13:35:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "2024-10-18T12:55:00+00:00"
+                    },
+                    {
+                        "end": "2024-10-20T09:05:00+00:00",
+                        "name": "Autograph session DTM Fanzone",
+                        "start": "2024-10-20T08:45:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-10-19T08:20:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2024-10-19T08:00:00+00:00"
+                    },
+                    {
+                        "end": "2024-10-20T07:20:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2024-10-20T07:00:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-10-19T14:15:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-10-19T13:15:00+00:00"
+                    },
+                    {
+                        "end": "2024-10-20T14:15:00+00:00",
+                        "name": "Race 2",
+                        "start": "2024-10-20T13:15:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Königsbrück",
+                "country": "Germany",
+                "lat": 0,
+                "lon": 0,
+                "name": "Lausitzring",
+                "search": [
+                    "lausitzring"
+                ],
+                "series": [
+                    "dtm",
+                    "gt_masters"
+                ]
+            },
+            "full_name": "Dekra Lausitzring",
+            "id": "lausitzring-2025",
+            "name": "Dekra Lausitzring",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2025-05-23T12:10:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2025-05-23T11:45:00+00:00"
+                    },
+                    {
+                        "end": "2025-05-23T14:35:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "2025-05-23T14:05:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2025-05-23T06:50:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2025-05-24T06:30:00+00:00"
+                    },
+                    {
+                        "end": "2025-05-23T08:50:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2025-05-25T08:30:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2025-05-23T13:30:00+00:00",
+                        "name": "Race 1",
+                        "start": "2025-05-24T12:10:00+00:00"
+                    },
+                    {
+                        "end": "2025-05-23T14:30:00+00:00",
+                        "name": "Race 2",
+                        "start": "2025-05-25T13:10:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Zandvoort",
+                "country": null,
+                "name": "Zandvoort Circuit",
+                "search": [
+                    "zandvoort",
+                    "zandvoort circuit",
+                    "netherlands"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt2_europe",
+                    "gt4_europe",
+                    "gtwce",
+                    "dtm",
+                    "gt_masters"
+                ]
+            },
+            "full_name": "Circuit Zandvoort",
+            "id": "zandvoort-2025",
+            "name": "Circuit Zandvoort",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2025-06-06T08:50:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2025-06-06T08:05:00+00:00"
+                    },
+                    {
+                        "end": "2025-06-06T14:40:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "2025-06-06T13:55:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2025-06-07T06:45:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2025-06-07T06:25:00+00:00"
+                    },
+                    {
+                        "end": "2025-06-08T08:10:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2025-06-08T07:50:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2025-06-07T14:15:00+00:00",
+                        "name": "Race 1",
+                        "start": "2025-06-07T13:15:00+00:00"
+                    },
+                    {
+                        "end": "2025-06-08T13:25:00+00:00",
+                        "name": "Race 2",
+                        "start": "2025-06-08T12:25:00+00:00"
+                    }
+                ]
+            }
+        }
+    ],
+    "full_name": "ADAC GT Masters",
+    "generated_by": "Two Seconds Ted: The Motorsport Calendar",
+    "gov_body": "ADAC",
+    "last_scraped": "2025-07-26T11:30:18.306228+00:00",
+    "name": "GT Masters",
+    "source": "https://api.dtm.com/data",
+    "version": "0.6.5"
+}

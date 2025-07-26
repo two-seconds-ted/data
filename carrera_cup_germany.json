@@ -1,0 +1,519 @@
+{
+    "category": "Cup Car",
+    "classes": [
+        "Porsche Cup"
+    ],
+    "color": "yellow",
+    "events": [
+        {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": "Motorsport Arena Oschersleben",
+                "search": [
+                    "motorsport arena oschersleben",
+                    "oschersleben"
+                ],
+                "series": [
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany"
+                ]
+            },
+            "full_name": "Motorsport Arena Oschersleben",
+            "id": "oschersleben-2024",
+            "name": "Motorsport Arena Oschersleben",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-04-26T13:20:00+00:00",
+                        "name": "Free practice",
+                        "start": "2024-04-26T12:25:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-04-26T16:55:00+00:00",
+                        "name": "Qualifying",
+                        "start": "2024-04-26T16:20:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-04-27T09:50:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-04-27T09:20:00+00:00"
+                    },
+                    {
+                        "end": "2024-04-28T09:50:00+00:00",
+                        "name": "Race 2",
+                        "start": "2024-04-28T09:20:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Zandvoort",
+                "country": null,
+                "name": "Zandvoort Circuit",
+                "search": [
+                    "zandvoort",
+                    "zandvoort circuit",
+                    "netherlands"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt2_europe",
+                    "gt4_europe",
+                    "gtwce",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany"
+                ]
+            },
+            "full_name": "Circuit Zandvoort",
+            "id": "zandvoort-2024",
+            "name": "Circuit Zandvoort",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-06-07T10:45:00+00:00",
+                        "name": "Free practice",
+                        "start": "2024-06-07T09:45:00+00:00"
+                    },
+                    {
+                        "end": "2024-06-08T13:15:00+00:00",
+                        "name": "Autograph session PSCCD Paddock",
+                        "start": "2024-06-08T12:55:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-06-07T16:05:00+00:00",
+                        "name": "Qualifying",
+                        "start": "2024-06-07T15:30:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-06-08T10:00:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-06-08T09:30:00+00:00"
+                    },
+                    {
+                        "end": "2024-06-09T10:05:00+00:00",
+                        "name": "Race 2",
+                        "start": "2024-06-09T09:35:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Nürburg",
+                "country": null,
+                "name": "Nurburgring",
+                "search": [
+                    "nurburgring",
+                    "nurburgring nordschleife",
+                    "nurburgring race track",
+                    "nurburgring gp circuit",
+                    "nürburgring",
+                    "nürburgring nordschleife"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt4_europe",
+                    "gt2_europe",
+                    "gtwce",
+                    "igtc",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany"
+                ]
+            },
+            "full_name": "Nürburgring",
+            "id": "nuerburgring-2024",
+            "name": "Nürburgring",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-08-16T10:55:00+00:00",
+                        "name": "Free Practice",
+                        "start": "2024-08-16T09:55:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-08-16T15:50:00+00:00",
+                        "name": "Qualifying",
+                        "start": "2024-08-16T15:15:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-08-17T09:50:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-08-17T09:20:00+00:00"
+                    },
+                    {
+                        "end": "2024-08-18T10:15:00+00:00",
+                        "name": "Race 2",
+                        "start": "2024-08-18T09:45:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": "Sachsenring",
+                "search": [
+                    "sachsenring"
+                ],
+                "series": [
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany"
+                ]
+            },
+            "full_name": "Sachsenring",
+            "id": "sachsenring-2024",
+            "name": "Sachsenring",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-09-06T09:25:00+00:00",
+                        "name": "Free Practice",
+                        "start": "2024-09-06T08:25:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-09-06T12:50:00+00:00",
+                        "name": "Qualifying",
+                        "start": "2024-09-06T12:15:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-09-07T09:55:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-09-07T09:25:00+00:00"
+                    },
+                    {
+                        "end": "2024-09-08T09:55:00+00:00",
+                        "name": "Race 2",
+                        "start": "2024-09-08T09:25:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Spielberg",
+                "country": null,
+                "name": "Red Bull Ring",
+                "search": [
+                    "spielberg",
+                    "red bull ring",
+                    "red bull",
+                    "austria"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt2_europe",
+                    "gt4_europe",
+                    "elms",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany"
+                ]
+            },
+            "full_name": "Red Bull Ring",
+            "id": "red-bull-ring-2024",
+            "name": "Red Bull Ring",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-09-27T11:50:00+00:00",
+                        "name": "Free Practice",
+                        "start": "2024-09-27T11:00:00+00:00"
+                    },
+                    {
+                        "end": "2024-09-28T13:15:00+00:00",
+                        "name": "Autograph session PSCCD Paddock",
+                        "start": "2024-09-28T12:55:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-09-27T15:52:00+00:00",
+                        "name": "Qualifying",
+                        "start": "2024-09-27T15:17:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-09-28T09:40:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-09-28T09:10:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Hockenheim",
+                "country": null,
+                "name": "Hockenheimring",
+                "search": [
+                    "hockenheim",
+                    "hockenheimring",
+                    "hockenheim ring"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt2_europe",
+                    "gt4_europe",
+                    "gtwce",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany"
+                ]
+            },
+            "full_name": "Hockenheimring",
+            "id": "hockenheim-finale-2024",
+            "name": "Hockenheimring",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-10-18T11:25:00+00:00",
+                        "name": "Free Practice",
+                        "start": "2024-10-18T10:25:00+00:00"
+                    },
+                    {
+                        "end": "2024-10-19T13:15:00+00:00",
+                        "name": "Autograph session PSCCD Paddock",
+                        "start": "2024-10-19T12:55:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-10-18T15:35:00+00:00",
+                        "name": "Qualifying",
+                        "start": "2024-10-18T15:00:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-10-19T09:15:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-10-19T08:45:00+00:00"
+                    },
+                    {
+                        "end": "2024-10-20T09:30:00+00:00",
+                        "name": "Race 2",
+                        "start": "2024-10-20T09:00:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Zandvoort",
+                "country": null,
+                "name": "Zandvoort Circuit",
+                "search": [
+                    "zandvoort",
+                    "zandvoort circuit",
+                    "netherlands"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt2_europe",
+                    "gt4_europe",
+                    "gtwce",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany"
+                ]
+            },
+            "full_name": "Circuit Zandvoort",
+            "id": "zandvoort-2025",
+            "name": "Circuit Zandvoort",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2025-06-06T10:40:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2025-06-06T09:40:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2025-06-06T16:00:00+00:00",
+                        "name": "Qualifying",
+                        "start": "2025-06-06T15:25:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2025-06-07T10:00:00+00:00",
+                        "name": "Race 1",
+                        "start": "2025-06-07T09:30:00+00:00"
+                    },
+                    {
+                        "end": "2025-06-08T10:05:00+00:00",
+                        "name": "Race 2",
+                        "start": "2025-06-08T09:35:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Nuremberg",
+                "country": "Germany",
+                "lat": 0,
+                "lon": 0,
+                "name": "Norisring",
+                "search": [
+                    "norisring"
+                ],
+                "series": [
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany"
+                ]
+            },
+            "full_name": "Norisring",
+            "id": "norisring-2025",
+            "name": "Norisring",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2025-07-04T10:55:00+00:00",
+                        "name": "Free practice",
+                        "start": "2025-07-04T09:55:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2025-07-04T16:58:00+00:00",
+                        "name": "Qualifying",
+                        "start": "2025-07-04T15:20:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2025-07-05T09:50:00+00:00",
+                        "name": "Race 1",
+                        "start": "2025-07-05T09:20:00+00:00"
+                    },
+                    {
+                        "end": "2025-07-06T09:45:00+00:00",
+                        "name": "Race 2",
+                        "start": "2025-07-06T09:15:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Nürburg",
+                "country": null,
+                "name": "Nurburgring",
+                "search": [
+                    "nurburgring",
+                    "nurburgring nordschleife",
+                    "nurburgring race track",
+                    "nurburgring gp circuit",
+                    "nürburgring",
+                    "nürburgring nordschleife"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt4_europe",
+                    "gt2_europe",
+                    "gtwce",
+                    "igtc",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany"
+                ]
+            },
+            "full_name": "Nürburgring",
+            "id": "nuerburgring-2025",
+            "name": "Nürburgring",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2025-08-08T10:45:00+00:00",
+                        "name": "Free practice",
+                        "start": "2025-08-08T09:45:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2025-08-08T15:35:00+00:00",
+                        "name": "Qualifying",
+                        "start": "2025-08-08T15:00:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2025-08-09T09:45:00+00:00",
+                        "name": "Race 1",
+                        "start": "2025-08-09T09:15:00+00:00"
+                    },
+                    {
+                        "end": "2025-08-10T09:45:00+00:00",
+                        "name": "Race 2",
+                        "start": "2025-08-10T09:15:00+00:00"
+                    }
+                ]
+            }
+        }
+    ],
+    "full_name": "Porsche Sixt Carrera Cup Deutschland",
+    "generated_by": "Two Seconds Ted: The Motorsport Calendar",
+    "gov_body": "ADAC",
+    "last_scraped": "2025-07-26T11:31:17.676457+00:00",
+    "name": "Carrera Cup Germany",
+    "source": "https://api.dtm.com/data",
+    "version": "0.6.5"
+}
