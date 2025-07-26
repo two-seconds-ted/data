@@ -9,8 +9,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Diriyah ePrix",
                 "search": [
                     "diriyah"
@@ -55,8 +53,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Diriyah ePrix",
                 "search": [
                     "diriyah"
@@ -614,8 +610,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Berlin ePrix",
                 "search": [
                     "berlin"
@@ -660,8 +654,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Berlin ePrix",
                 "search": [
                     "berlin"
@@ -706,8 +698,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Diriyah ePrix",
                 "search": [
                     "diriyah"
@@ -752,8 +742,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Diriyah ePrix",
                 "search": [
                     "diriyah"
@@ -983,8 +971,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Berlin ePrix",
                 "search": [
                     "berlin"
@@ -1029,8 +1015,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Berlin ePrix",
                 "search": [
                     "berlin"
@@ -1485,8 +1469,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Diriyah ePrix",
                 "search": [
                     "diriyah"
@@ -1531,8 +1513,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Diriyah ePrix",
                 "search": [
                     "diriyah"
@@ -1712,8 +1692,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Berlin ePrix",
                 "search": [
                     "berlin"
@@ -1758,8 +1736,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Berlin ePrix",
                 "search": [
                     "berlin"
@@ -1935,8 +1911,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Portland ePrix",
                 "search": [
                     "portland eprix",
@@ -2202,8 +2176,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Diriyah ePrix",
                 "search": [
                     "diriyah"
@@ -2248,8 +2220,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Diriyah ePrix",
                 "search": [
                     "diriyah"
@@ -2531,8 +2501,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Berlin ePrix",
                 "search": [
                     "berlin"
@@ -2577,8 +2545,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Berlin ePrix",
                 "search": [
                     "berlin"
@@ -2715,8 +2681,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Portland ePrix",
                 "search": [
                     "portland eprix",
@@ -2762,8 +2726,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Portland ePrix",
                 "search": [
                     "portland eprix",
@@ -3461,8 +3423,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Berlin ePrix",
                 "search": [
                     "berlin"
@@ -3502,8 +3462,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Berlin ePrix",
                 "search": [
                     "berlin"
@@ -3626,7 +3584,7 @@
     "full_name": "Formula E",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
     "gov_body": "FIA",
-    "last_scraped": "2025-07-26T14:17:40.284181+00:00",
+    "last_scraped": "2025-07-26T14:43:44.901961+00:00",
     "name": "FE",
     "source": "https://github.com/sportstimes/f1",
     "version": "0.6.6"

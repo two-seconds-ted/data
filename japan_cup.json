@@ -141,8 +141,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "富士スピードウェイ",
                 "search": [
                     "富士スピードウェイ"
@@ -419,7 +417,7 @@
     "full_name": "Japan Cup",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
     "gov_body": "SRO",
-    "last_scraped": "2025-07-26T14:21:53.258896+00:00",
+    "last_scraped": "2025-07-26T14:46:47.694213+00:00",
     "name": "Japan Cup",
     "source": "https://japancup.co/event",
     "version": "0.6.6"

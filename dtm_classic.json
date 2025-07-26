@@ -78,8 +78,6 @@
             "circuit": {
                 "city": "Nuremberg",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Norisring",
                 "search": [
                     "norisring"
@@ -191,8 +189,6 @@
             "circuit": {
                 "city": "Nuremberg",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Norisring",
                 "search": [
                     "norisring"
@@ -314,7 +310,7 @@
     "full_name": "DTM Classic",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
     "gov_body": "ADAC",
-    "last_scraped": "2025-07-26T14:17:23.242409+00:00",
+    "last_scraped": "2025-07-26T14:40:55.289104+00:00",
     "name": "DTM Classic",
     "source": "https://api.dtm.com/data",
     "version": "0.6.6"

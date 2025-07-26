@@ -100,8 +100,6 @@
             "circuit": {
                 "city": "Königsbrück",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Lausitzring",
                 "search": [
                     "lausitzring"
@@ -256,8 +254,6 @@
             "circuit": {
                 "city": "Nuremberg",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Norisring",
                 "search": [
                     "norisring"
@@ -630,8 +626,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Motorsport Arena Oschersleben",
                 "search": [
                     "motorsport arena oschersleben",
@@ -762,8 +756,6 @@
             "circuit": {
                 "city": "Nuremberg",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Norisring",
                 "search": [
                     "norisring"
@@ -907,8 +899,6 @@
             "circuit": {
                 "city": "Königsbrück",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Lausitzring",
                 "search": [
                     "lausitzring"
@@ -973,8 +963,6 @@
             "circuit": {
                 "city": "Hohenstein-Ernstthal",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Sachsenring",
                 "search": [
                     "sachsenring"
@@ -984,7 +972,8 @@
                     "dtm_classic",
                     "gt_masters",
                     "pcg",
-                    "carrera_cup_germany"
+                    "carrera_cup_germany",
+                    "gt4_germany"
                 ]
             },
             "full_name": "Sachsenring",
@@ -1189,8 +1178,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Motorsport Arena Oschersleben",
                 "search": [
                     "motorsport arena oschersleben",
@@ -1251,8 +1238,6 @@
             "circuit": {
                 "city": "Königsbrück",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Lausitzring",
                 "search": [
                     "lausitzring"
@@ -1392,8 +1377,6 @@
             "circuit": {
                 "city": "Nuremberg",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Norisring",
                 "search": [
                     "norisring"
@@ -1527,8 +1510,6 @@
             "circuit": {
                 "city": "Hohenstein-Ernstthal",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Sachsenring",
                 "search": [
                     "sachsenring"
@@ -1538,7 +1519,8 @@
                     "dtm_classic",
                     "gt_masters",
                     "pcg",
-                    "carrera_cup_germany"
+                    "carrera_cup_germany",
+                    "gt4_germany"
                 ]
             },
             "full_name": "Sachsenring",
@@ -1733,8 +1715,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Motorsport Arena Oschersleben",
                 "search": [
                     "motorsport arena oschersleben",
@@ -1800,8 +1780,6 @@
             "circuit": {
                 "city": "Königsbrück",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Lausitzring",
                 "search": [
                     "lausitzring"
@@ -1936,8 +1914,6 @@
             "circuit": {
                 "city": "Nuremberg",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Norisring",
                 "search": [
                     "norisring"
@@ -2086,7 +2062,7 @@
     "full_name": "Deutsche Tourenwagen Masters",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
     "gov_body": "ADAC",
-    "last_scraped": "2025-07-26T14:17:05.899247+00:00",
+    "last_scraped": "2025-07-26T14:40:36.393506+00:00",
     "name": "DTM",
     "source": "https://api.dtm.com/data",
     "version": "0.6.6"

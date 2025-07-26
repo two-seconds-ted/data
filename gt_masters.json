@@ -9,8 +9,6 @@
             "circuit": {
                 "city": "Nuremberg",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Norisring",
                 "search": [
                     "norisring"
@@ -70,8 +68,6 @@
             "circuit": {
                 "city": "Hohenstein-Ernstthal",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Sachsenring",
                 "search": [
                     "sachsenring"
@@ -272,8 +268,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Motorsport Arena Oschersleben",
                 "search": [
                     "motorsport arena oschersleben",
@@ -565,8 +559,6 @@
             "circuit": {
                 "city": "Königsbrück",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Lausitzring",
                 "search": [
                     "lausitzring"
@@ -696,7 +688,7 @@
     "full_name": "ADAC GT Masters",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
     "gov_body": "ADAC",
-    "last_scraped": "2025-07-26T14:19:19.266919+00:00",
+    "last_scraped": "2025-07-26T14:45:16.555918+00:00",
     "name": "GT Masters",
     "source": "https://api.dtm.com/data",
     "version": "0.6.6"

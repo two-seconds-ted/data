@@ -9,8 +9,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Motorsport Arena Oschersleben",
                 "search": [
                     "motorsport arena oschersleben",
@@ -215,8 +213,6 @@
             "circuit": {
                 "city": "Königsbrück",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Lausitzring",
                 "search": [
                     "lausitzring"
@@ -276,8 +272,6 @@
             "circuit": {
                 "city": "Hohenstein-Ernstthal",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Sachsenring",
                 "search": [
                     "sachsenring"
@@ -407,8 +401,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Motorsport Arena Oschersleben",
                 "search": [
                     "motorsport arena oschersleben",
@@ -469,8 +461,6 @@
             "circuit": {
                 "city": "Königsbrück",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Lausitzring",
                 "search": [
                     "lausitzring"
@@ -530,8 +520,6 @@
             "circuit": {
                 "city": "Nuremberg",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Norisring",
                 "search": [
                     "norisring"
@@ -816,8 +804,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Motorsport Arena Oschersleben",
                 "search": [
                     "motorsport arena oschersleben",
@@ -878,8 +864,6 @@
             "circuit": {
                 "city": "Nuremberg",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Norisring",
                 "search": [
                     "norisring"
@@ -1013,7 +997,7 @@
     "full_name": "ADAC GT4 Germany",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
     "gov_body": "ADAC",
-    "last_scraped": "2025-07-26T14:18:41.124082+00:00",
+    "last_scraped": "2025-07-26T14:44:37.892791+00:00",
     "name": "GT4 Germany",
     "source": "https://api.dtm.com/data",
     "version": "0.6.6"

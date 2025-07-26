@@ -508,7 +508,8 @@
                     "bricks",
                     "indianapolis motorspeedway",
                     "the brickyard",
-                    "speedway, indiana"
+                    "speedway, indiana",
+                    "indianpolis"
                 ],
                 "series": [
                     "iwsc",
@@ -607,7 +608,7 @@
     "full_name": "IMSA Michelin Pilot Challenge",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
     "gov_body": "IMSA",
-    "last_scraped": "2025-07-26T14:20:27.939206+00:00",
+    "last_scraped": "2025-07-26T14:46:31.939638+00:00",
     "name": "IMPC",
     "source": "https://www.imsa.com/michelinpilotchallenge/",
     "version": "0.6.6"

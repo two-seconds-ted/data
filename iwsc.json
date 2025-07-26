@@ -579,7 +579,8 @@
                     "bricks",
                     "indianapolis motorspeedway",
                     "the brickyard",
-                    "speedway, indiana"
+                    "speedway, indiana",
+                    "indianpolis"
                 ],
                 "series": [
                     "iwsc",
@@ -689,7 +690,7 @@
     "full_name": "IMSA WeatherTech Sportscar Championship",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
     "gov_body": "IMSA",
-    "last_scraped": "2025-07-26T14:21:46.113105+00:00",
+    "last_scraped": "2025-07-26T14:46:41.559436+00:00",
     "name": "IMSA",
     "source": "https://www.imsa.com/weathertech/",
     "version": "0.6.6"

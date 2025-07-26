@@ -861,8 +861,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Marina Bay Street Circuit",
                 "search": [
                     "marina bay street circuit",
@@ -2123,8 +2121,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Marina Bay Street Circuit",
                 "search": [
                     "marina bay street circuit",
@@ -5921,8 +5917,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Marina Bay Street Circuit",
                 "search": [
                     "marina bay street circuit",
@@ -7119,8 +7113,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Marina Bay Street Circuit",
                 "search": [
                     "marina bay street circuit",
@@ -8614,8 +8606,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Marina Bay Street Circuit",
                 "search": [
                     "marina bay street circuit",
@@ -10050,8 +10040,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Marina Bay Street Circuit",
                 "search": [
                     "marina bay street circuit",
@@ -10457,7 +10445,7 @@
     "full_name": "Formula 1",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
     "gov_body": "FIA",
-    "last_scraped": "2025-07-26T14:17:32.335764+00:00",
+    "last_scraped": "2025-07-26T14:41:08.728926+00:00",
     "name": "F1",
     "source": "https://github.com/sportstimes/f1",
     "version": "0.6.6"

@@ -794,8 +794,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Marina Bay Street Circuit",
                 "search": [
                     "marina bay street circuit",
@@ -1241,8 +1239,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Marina Bay Street Circuit",
                 "search": [
                     "marina bay street circuit",
@@ -1339,7 +1335,7 @@
     "full_name": "F1 Academy",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
     "gov_body": "FIA",
-    "last_scraped": "2025-07-26T14:17:33.782722+00:00",
+    "last_scraped": "2025-07-26T14:41:10.118762+00:00",
     "name": "F1A",
     "source": "https://github.com/sportstimes/f1",
     "version": "0.6.6"

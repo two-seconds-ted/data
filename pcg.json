@@ -9,8 +9,6 @@
             "circuit": {
                 "city": null,
                 "country": null,
-                "lat": 0,
-                "lon": 0,
                 "name": "Motorsport Arena Oschersleben",
                 "search": [
                     "motorsport arena oschersleben",
@@ -141,8 +139,6 @@
             "circuit": {
                 "city": "Nuremberg",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Norisring",
                 "search": [
                     "norisring"
@@ -202,8 +198,6 @@
             "circuit": {
                 "city": "Königsbrück",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Lausitzring",
                 "search": [
                     "lausitzring"
@@ -342,8 +336,6 @@
             "circuit": {
                 "city": "Hohenstein-Ernstthal",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Sachsenring",
                 "search": [
                     "sachsenring"
@@ -408,8 +400,6 @@
             "circuit": {
                 "city": "Königsbrück",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Lausitzring",
                 "search": [
                     "lausitzring"
@@ -469,8 +459,6 @@
             "circuit": {
                 "city": "Nuremberg",
                 "country": "Germany",
-                "lat": 0,
-                "lon": 0,
                 "name": "Norisring",
                 "search": [
                     "norisring"
@@ -530,7 +518,7 @@
     "full_name": "Prototype Cup Germany",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
     "gov_body": "ADAC",
-    "last_scraped": "2025-07-26T14:22:17.017970+00:00",
+    "last_scraped": "2025-07-26T14:47:09.485059+00:00",
     "name": "Prototype Cup Germany",
     "source": "https://api.dtm.com/data",
     "version": "0.6.6"
