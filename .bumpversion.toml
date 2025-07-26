@@ -1,7 +1,14 @@
 [tool.bumpversion]
-current_version = "4"
-parse = "(?P<major>\\d+)"
-serialize = ["{major}"]
+current_version = "2025.7.26"
+parse = """(?x)                     # Verbose mode
+    (?P<release>                    # The release part
+        (?:[1-9][0-9]{3})\\.        # YYYY.
+        (?:1[0-2]|[1-9])\\.         # MM.
+        (?:3[0-1]|[1-2][0-9]|[1-9]) # DD
+    )
+    (?:\\.(?P<patch>\\d+))?         # .patch, optional
+"""
+serialize = ["{release}.{patch}", "{release}"]
 search = "{current_version}"
 replace = "{new_version}"
 regex = false
@@ -19,3 +26,7 @@ commit_args = ""
 setup_hooks = []
 pre_commit_hooks = []
 post_commit_hooks = []
+
+[tool.bumpversion.parts.release]
+calver_format = "{YYYY}.{MM}.{DD}"
+
