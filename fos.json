@@ -316,8 +316,8 @@
     "full_name": "Goodwood Festival of Speed",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
     "gov_body": "GRRC",
-    "last_scraped": "2025-07-26T09:36:15.240740+00:00",
+    "last_scraped": "2025-07-26T14:17:40.547045+00:00",
     "name": "FoS",
     "source": "https://www.goodwood.com/motorsport/festival-of-speed/plan-your-day/timetable/",
-    "version": "0.6.5"
+    "version": "0.6.6"
 }

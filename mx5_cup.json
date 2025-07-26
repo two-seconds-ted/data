@@ -1,5 +1,5 @@
 {
-    "category": "Sports Car",
+    "category": "Cup Car",
     "classes": [
         "MX-5 Cup"
     ],
@@ -310,8 +310,8 @@
     "full_name": "Mazda MX-5 Cup",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
     "gov_body": "IMSA",
-    "last_scraped": "2025-07-26T09:55:33.825962+00:00",
+    "last_scraped": "2025-07-26T14:22:11.510837+00:00",
     "name": "MX-5",
     "source": "https://www.mx-5cup.com/",
-    "version": "0.6.5"
+    "version": "0.6.6"
 }

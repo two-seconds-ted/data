@@ -20,7 +20,9 @@
                     "dtm",
                     "gt_masters",
                     "gt4_germany",
-                    "carrera_cup_germany"
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "pcg"
                 ]
             },
             "full_name": "Motorsport Arena Oschersleben",
@@ -76,7 +78,11 @@
                     "dtm",
                     "gt_masters",
                     "gt4_germany",
-                    "carrera_cup_germany"
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Circuit Zandvoort",
@@ -141,7 +147,11 @@
                     "dtm",
                     "gt_masters",
                     "gt4_germany",
-                    "carrera_cup_germany"
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Nürburgring",
@@ -178,8 +188,8 @@
         },
         {
             "circuit": {
-                "city": null,
-                "country": null,
+                "city": "Hohenstein-Ernstthal",
+                "country": "Germany",
                 "lat": 0,
                 "lon": 0,
                 "name": "Sachsenring",
@@ -188,8 +198,9 @@
                 ],
                 "series": [
                     "dtm",
+                    "dtm_classic",
                     "gt_masters",
-                    "gt4_germany",
+                    "pcg",
                     "carrera_cup_germany"
                 ]
             },
@@ -247,7 +258,11 @@
                     "dtm",
                     "gt_masters",
                     "gt4_germany",
-                    "carrera_cup_germany"
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Red Bull Ring",
@@ -303,7 +318,11 @@
                     "dtm",
                     "gt_masters",
                     "gt4_germany",
-                    "carrera_cup_germany"
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Hockenheimring",
@@ -364,7 +383,11 @@
                     "dtm",
                     "gt_masters",
                     "gt4_germany",
-                    "carrera_cup_germany"
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Circuit Zandvoort",
@@ -413,7 +436,9 @@
                     "dtm",
                     "gt_masters",
                     "gt4_germany",
-                    "carrera_cup_germany"
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "pcg"
                 ]
             },
             "full_name": "Norisring",
@@ -473,7 +498,11 @@
                     "dtm",
                     "gt_masters",
                     "gt4_germany",
-                    "carrera_cup_germany"
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Nürburgring",
@@ -512,8 +541,8 @@
     "full_name": "Porsche Sixt Carrera Cup Deutschland",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
     "gov_body": "ADAC",
-    "last_scraped": "2025-07-26T11:31:17.676457+00:00",
+    "last_scraped": "2025-07-26T14:16:48.502238+00:00",
     "name": "Carrera Cup Germany",
     "source": "https://api.dtm.com/data",
-    "version": "0.6.5"
+    "version": "0.6.6"
 }

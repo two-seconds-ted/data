@@ -419,8 +419,8 @@
     "full_name": "Japan Cup",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
     "gov_body": "SRO",
-    "last_scraped": "2025-07-26T09:55:17.517204+00:00",
+    "last_scraped": "2025-07-26T14:21:53.258896+00:00",
     "name": "Japan Cup",
     "source": "https://japancup.co/event",
-    "version": "0.6.5"
+    "version": "0.6.6"
 }

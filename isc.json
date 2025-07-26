@@ -365,8 +365,8 @@
     "full_name": "IMSA VP Racing SportsCar Challenge",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
     "gov_body": "IMSA",
-    "last_scraped": "2025-07-26T09:55:05.167103+00:00",
+    "last_scraped": "2025-07-26T14:21:40.800295+00:00",
     "name": "ISC",
     "source": "https://www.imsa.com/vpracingsportscarchallenge/",
-    "version": "0.6.5"
+    "version": "0.6.6"
 }

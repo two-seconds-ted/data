@@ -490,7 +490,15 @@
                     "f1-academy",
                     "gt2_europe",
                     "gt4_europe",
-                    "elms"
+                    "elms",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Austrian",
@@ -607,7 +615,15 @@
                     "f1-academy",
                     "gt2_europe",
                     "gt4_europe",
-                    "gtwce"
+                    "gtwce",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "German",
@@ -730,7 +746,15 @@
                     "igtc",
                     "gtwce",
                     "wec",
-                    "gt4_europe"
+                    "gt4_europe",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Belgian",
@@ -1728,7 +1752,15 @@
                     "f1-academy",
                     "gt2_europe",
                     "gt4_europe",
-                    "elms"
+                    "elms",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Austrian",
@@ -1845,7 +1877,15 @@
                     "f1-academy",
                     "gt2_europe",
                     "gt4_europe",
-                    "gtwce"
+                    "gtwce",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "German",
@@ -1968,7 +2008,15 @@
                     "igtc",
                     "gtwce",
                     "wec",
-                    "gt4_europe"
+                    "gt4_europe",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Belgian",
@@ -2499,7 +2547,15 @@
                     "f1-academy",
                     "gt2_europe",
                     "gt4_europe",
-                    "elms"
+                    "elms",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Austrian Grand Prix",
@@ -2557,7 +2613,15 @@
                     "f1-academy",
                     "gt2_europe",
                     "gt4_europe",
-                    "elms"
+                    "elms",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Steiermark (Austrian) Grand Prix",
@@ -2863,7 +2927,15 @@
                     "igtc",
                     "gtwce",
                     "wec",
-                    "gt4_europe"
+                    "gt4_europe",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Belgian Grand Prix",
@@ -3098,7 +3170,15 @@
                     "gt4_europe",
                     "gt2_europe",
                     "gtwce",
-                    "igtc"
+                    "igtc",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Eifel Grand Prix",
@@ -3154,7 +3234,8 @@
                     "autodromo internacional do algarve",
                     "algarve",
                     "autódromo internacional do algarve",
-                    "autodromo do algarve"
+                    "autodromo do algarve",
+                    "portimão"
                 ],
                 "series": [
                     "f1",
@@ -3164,7 +3245,15 @@
                     "britishgt",
                     "elms",
                     "gt2_europe",
-                    "gtwce"
+                    "gtwce",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ],
                 "short_name": "portimao"
             },
@@ -3226,7 +3315,15 @@
                     "gt4_europe",
                     "elms",
                     "gtwce",
-                    "wec"
+                    "wec",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ],
                 "short_name": "imola"
             },
@@ -3560,7 +3657,15 @@
                     "gt4_europe",
                     "elms",
                     "gtwce",
-                    "wec"
+                    "wec",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ],
                 "short_name": "imola"
             },
@@ -3617,7 +3722,8 @@
                     "autodromo internacional do algarve",
                     "algarve",
                     "autódromo internacional do algarve",
-                    "autodromo do algarve"
+                    "autodromo do algarve",
+                    "portimão"
                 ],
                 "series": [
                     "f1",
@@ -3627,7 +3733,15 @@
                     "britishgt",
                     "elms",
                     "gt2_europe",
-                    "gtwce"
+                    "gtwce",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ],
                 "short_name": "portimao"
             },
@@ -3926,7 +4040,15 @@
                     "f1-academy",
                     "gt2_europe",
                     "gt4_europe",
-                    "elms"
+                    "elms",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Austrian",
@@ -3984,7 +4106,15 @@
                     "f1-academy",
                     "gt2_europe",
                     "gt4_europe",
-                    "elms"
+                    "elms",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Spielberg (Austrian)",
@@ -4167,7 +4297,15 @@
                     "igtc",
                     "gtwce",
                     "wec",
-                    "gt4_europe"
+                    "gt4_europe",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Belgian",
@@ -4224,7 +4362,15 @@
                     "f1-academy",
                     "gt2_europe",
                     "gt4_europe",
-                    "gtwce"
+                    "gtwce",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Dutch",
@@ -4985,7 +5131,15 @@
                     "gt4_europe",
                     "elms",
                     "gtwce",
-                    "wec"
+                    "wec",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ],
                 "short_name": "imola"
             },
@@ -5393,7 +5547,15 @@
                     "f1-academy",
                     "gt2_europe",
                     "gt4_europe",
-                    "elms"
+                    "elms",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Austrian",
@@ -5579,7 +5741,15 @@
                     "igtc",
                     "gtwce",
                     "wec",
-                    "gt4_europe"
+                    "gt4_europe",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Belgian",
@@ -5636,7 +5806,15 @@
                     "f1-academy",
                     "gt2_europe",
                     "gt4_europe",
-                    "gtwce"
+                    "gtwce",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Dutch",
@@ -6570,7 +6748,15 @@
                     "f1-academy",
                     "gt2_europe",
                     "gt4_europe",
-                    "elms"
+                    "elms",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Austrian",
@@ -6753,7 +6939,15 @@
                     "igtc",
                     "gtwce",
                     "wec",
-                    "gt4_europe"
+                    "gt4_europe",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Belgian",
@@ -6810,7 +7004,15 @@
                     "f1-academy",
                     "gt2_europe",
                     "gt4_europe",
-                    "gtwce"
+                    "gtwce",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Dutch",
@@ -7738,7 +7940,15 @@
                     "gt4_europe",
                     "elms",
                     "gtwce",
-                    "wec"
+                    "wec",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ],
                 "short_name": "imola"
             },
@@ -7977,7 +8187,15 @@
                     "f1-academy",
                     "gt2_europe",
                     "gt4_europe",
-                    "elms"
+                    "elms",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Austrian",
@@ -8160,7 +8378,15 @@
                     "igtc",
                     "gtwce",
                     "wec",
-                    "gt4_europe"
+                    "gt4_europe",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Belgian",
@@ -8217,7 +8443,15 @@
                     "f1-academy",
                     "gt2_europe",
                     "gt4_europe",
-                    "gtwce"
+                    "gtwce",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Dutch",
@@ -9142,7 +9376,15 @@
                     "gt4_europe",
                     "elms",
                     "gtwce",
-                    "wec"
+                    "wec",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ],
                 "short_name": "imola"
             },
@@ -9381,7 +9623,15 @@
                     "f1-academy",
                     "gt2_europe",
                     "gt4_europe",
-                    "elms"
+                    "elms",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Austrian",
@@ -9506,7 +9756,15 @@
                     "igtc",
                     "gtwce",
                     "wec",
-                    "gt4_europe"
+                    "gt4_europe",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Belgian",
@@ -9621,7 +9879,15 @@
                     "f1-academy",
                     "gt2_europe",
                     "gt4_europe",
-                    "gtwce"
+                    "gtwce",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Dutch",
@@ -10191,8 +10457,8 @@
     "full_name": "Formula 1",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
     "gov_body": "FIA",
-    "last_scraped": "2025-07-26T09:36:06.099519+00:00",
+    "last_scraped": "2025-07-26T14:17:32.335764+00:00",
     "name": "F1",
     "source": "https://github.com/sportstimes/f1",
-    "version": "0.6.5"
+    "version": "0.6.6"
 }

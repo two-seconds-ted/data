@@ -23,7 +23,15 @@
                     "f1-academy",
                     "gt2_europe",
                     "gt4_europe",
-                    "elms"
+                    "elms",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Spielberg",
@@ -98,7 +106,15 @@
                     "igtc",
                     "gtwce",
                     "wec",
-                    "gt4_europe"
+                    "gt4_europe",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Valenvia",
@@ -173,7 +189,15 @@
                     "igtc",
                     "gtwce",
                     "wec",
-                    "gt4_europe"
+                    "gt4_europe",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Barcelona",
@@ -240,7 +264,15 @@
                     "f1-academy",
                     "gt2_europe",
                     "gt4_europe",
-                    "gtwce"
+                    "gtwce",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Zandvoort",
@@ -640,7 +672,15 @@
                     "igtc",
                     "gtwce",
                     "wec",
-                    "gt4_europe"
+                    "gt4_europe",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Barcelona",
@@ -697,7 +737,15 @@
                     "f1-academy",
                     "gt2_europe",
                     "gt4_europe",
-                    "gtwce"
+                    "gtwce",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Zandvoort",
@@ -1141,7 +1189,15 @@
                     "f1-academy",
                     "gt2_europe",
                     "gt4_europe",
-                    "gtwce"
+                    "gtwce",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Zandvoort",
@@ -1283,8 +1339,8 @@
     "full_name": "F1 Academy",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
     "gov_body": "FIA",
-    "last_scraped": "2025-07-26T09:36:07.623096+00:00",
+    "last_scraped": "2025-07-26T14:17:33.782722+00:00",
     "name": "F1A",
     "source": "https://github.com/sportstimes/f1",
-    "version": "0.6.5"
+    "version": "0.6.6"
 }

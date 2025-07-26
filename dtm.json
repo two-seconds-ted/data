@@ -1,5 +1,5 @@
 {
-    "category": "Sportscar",
+    "category": "Sports Car",
     "classes": [
         "GT3"
     ],
@@ -33,7 +33,14 @@
                     "elms",
                     "gt2_europe",
                     "gtwce",
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ],
                 "short_name": "portimao"
             },
@@ -100,7 +107,12 @@
                     "lausitzring"
                 ],
                 "series": [
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "pcg"
                 ]
             },
             "full_name": "Lausitzring Turn 1 powered by Autohero",
@@ -177,7 +189,14 @@
                     "elms",
                     "gtwce",
                     "wec",
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ],
                 "short_name": "imola"
             },
@@ -244,7 +263,12 @@
                     "norisring"
                 ],
                 "series": [
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "pcg"
                 ]
             },
             "full_name": "Norisring powered by BMW M",
@@ -331,7 +355,14 @@
                     "gt2_europe",
                     "gtwce",
                     "igtc",
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Nürburgring powered by Mercedes-AMG",
@@ -402,7 +433,14 @@
                     "gtwce",
                     "wec",
                     "gt4_europe",
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Spa-Francorchamps",
@@ -466,7 +504,14 @@
                     "gt2_europe",
                     "gt4_europe",
                     "elms",
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Red Bull Ring powered by REMUS",
@@ -529,7 +574,14 @@
                     "gt2_europe",
                     "gt4_europe",
                     "gtwce",
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Hockenheimring powered by AUDI",
@@ -586,7 +638,12 @@
                     "oschersleben"
                 ],
                 "series": [
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "pcg"
                 ]
             },
             "full_name": "Motorsport Arena Oschersleben",
@@ -649,7 +706,14 @@
                     "gt2_europe",
                     "gt4_europe",
                     "gtwce",
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Circuit Zandvoort",
@@ -705,7 +769,12 @@
                     "norisring"
                 ],
                 "series": [
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "pcg"
                 ]
             },
             "full_name": "Norisring",
@@ -782,7 +851,14 @@
                     "gt2_europe",
                     "gtwce",
                     "igtc",
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Nürburgring",
@@ -838,7 +914,12 @@
                     "lausitzring"
                 ],
                 "series": [
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "pcg"
                 ]
             },
             "full_name": "DEKRA Lausitzring",
@@ -890,8 +971,8 @@
         },
         {
             "circuit": {
-                "city": null,
-                "country": null,
+                "city": "Hohenstein-Ernstthal",
+                "country": "Germany",
                 "lat": 0,
                 "lon": 0,
                 "name": "Sachsenring",
@@ -899,7 +980,11 @@
                     "sachsenring"
                 ],
                 "series": [
-                    "dtm"
+                    "dtm",
+                    "dtm_classic",
+                    "gt_masters",
+                    "pcg",
+                    "carrera_cup_germany"
                 ]
             },
             "full_name": "Sachsenring",
@@ -963,7 +1048,14 @@
                     "gt2_europe",
                     "gt4_europe",
                     "elms",
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Red Bull Ring",
@@ -1041,7 +1133,14 @@
                     "gt2_europe",
                     "gt4_europe",
                     "gtwce",
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Hockenheimring",
@@ -1098,7 +1197,12 @@
                     "oschersleben"
                 ],
                 "series": [
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "pcg"
                 ]
             },
             "full_name": "Motorsport Arena Oschersleben",
@@ -1154,7 +1258,12 @@
                     "lausitzring"
                 ],
                 "series": [
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "pcg"
                 ]
             },
             "full_name": "DEKRA Lausitzring",
@@ -1227,7 +1336,14 @@
                     "gt2_europe",
                     "gt4_europe",
                     "gtwce",
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Circuit Zandvoort",
@@ -1283,7 +1399,12 @@
                     "norisring"
                 ],
                 "series": [
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "pcg"
                 ]
             },
             "full_name": "Norisring",
@@ -1350,7 +1471,14 @@
                     "gt2_europe",
                     "gtwce",
                     "igtc",
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Nürburgring",
@@ -1397,8 +1525,8 @@
         },
         {
             "circuit": {
-                "city": null,
-                "country": null,
+                "city": "Hohenstein-Ernstthal",
+                "country": "Germany",
                 "lat": 0,
                 "lon": 0,
                 "name": "Sachsenring",
@@ -1406,7 +1534,11 @@
                     "sachsenring"
                 ],
                 "series": [
-                    "dtm"
+                    "dtm",
+                    "dtm_classic",
+                    "gt_masters",
+                    "pcg",
+                    "carrera_cup_germany"
                 ]
             },
             "full_name": "Sachsenring",
@@ -1470,7 +1602,14 @@
                     "gt2_europe",
                     "gt4_europe",
                     "elms",
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Red Bull Ring",
@@ -1533,7 +1672,14 @@
                     "gt2_europe",
                     "gt4_europe",
                     "gtwce",
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Hockenheimring",
@@ -1595,7 +1741,12 @@
                     "oschersleben"
                 ],
                 "series": [
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "pcg"
                 ]
             },
             "full_name": "Motorsport Arena Oschersleben",
@@ -1656,7 +1807,12 @@
                     "lausitzring"
                 ],
                 "series": [
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "pcg"
                 ]
             },
             "full_name": "Dekra Lausitzring",
@@ -1724,7 +1880,14 @@
                     "gt2_europe",
                     "gt4_europe",
                     "gtwce",
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Circuit Zandvoort",
@@ -1780,7 +1943,12 @@
                     "norisring"
                 ],
                 "series": [
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "pcg"
                 ]
             },
             "full_name": "Norisring",
@@ -1857,7 +2025,14 @@
                     "gt2_europe",
                     "gtwce",
                     "igtc",
-                    "dtm"
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
                 ]
             },
             "full_name": "Nürburgring",
@@ -1911,8 +2086,8 @@
     "full_name": "Deutsche Tourenwagen Masters",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
     "gov_body": "ADAC",
-    "last_scraped": "2025-07-26T11:25:28.625259+00:00",
+    "last_scraped": "2025-07-26T14:17:05.899247+00:00",
     "name": "DTM",
     "source": "https://api.dtm.com/data",
-    "version": "0.6.5"
+    "version": "0.6.6"
 }

@@ -1,0 +1,321 @@
+{
+    "category": "Historic",
+    "classes": [
+        "TC"
+    ],
+    "color": "yellow",
+    "events": [
+        {
+            "circuit": {
+                "city": "Nürburg",
+                "country": null,
+                "name": "Nurburgring",
+                "search": [
+                    "nurburgring",
+                    "nurburgring nordschleife",
+                    "nurburgring race track",
+                    "nurburgring gp circuit",
+                    "nürburgring",
+                    "nürburgring nordschleife"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt4_europe",
+                    "gt2_europe",
+                    "gtwce",
+                    "igtc",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
+                ]
+            },
+            "full_name": "Nürburgring powered by Mercedes-AMG",
+            "id": "nuerburgring-2022",
+            "name": "Nürburgring powered by Mercedes-AMG",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2022-08-26T11:40:00+00:00",
+                        "name": "Free practice",
+                        "start": "2022-08-26T11:10:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2022-08-27T07:50:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2022-08-27T07:30:00+00:00"
+                    },
+                    {
+                        "end": "2022-08-28T07:30:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2022-08-28T07:10:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2022-08-27T18:15:00+00:00",
+                        "name": "Race 1",
+                        "start": "2022-08-27T17:50:00+00:00"
+                    },
+                    {
+                        "end": "2022-08-28T14:40:00+00:00",
+                        "name": "Race 2",
+                        "start": "2022-08-28T14:15:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Nuremberg",
+                "country": "Germany",
+                "lat": 0,
+                "lon": 0,
+                "name": "Norisring",
+                "search": [
+                    "norisring"
+                ],
+                "series": [
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "pcg"
+                ]
+            },
+            "full_name": "Norisring",
+            "id": "norisring-2023",
+            "name": "Norisring",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2023-07-07T17:55:00+00:00",
+                        "name": "Free Practice",
+                        "start": "2023-07-07T17:35:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2023-07-08T06:45:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2023-07-08T06:25:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2023-07-08T17:00:00+00:00",
+                        "name": "Race 1",
+                        "start": "2023-07-08T16:25:00+00:00"
+                    },
+                    {
+                        "end": "2023-07-09T09:50:00+00:00",
+                        "name": "Race 2",
+                        "start": "2023-07-09T09:20:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Nürburg",
+                "country": null,
+                "name": "Nurburgring",
+                "search": [
+                    "nurburgring",
+                    "nurburgring nordschleife",
+                    "nurburgring race track",
+                    "nurburgring gp circuit",
+                    "nürburgring",
+                    "nürburgring nordschleife"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt4_europe",
+                    "gt2_europe",
+                    "gtwce",
+                    "igtc",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
+                ]
+            },
+            "full_name": "Nürburgring",
+            "id": "nuerburgring-2023",
+            "name": "Nürburgring",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2023-08-04T16:00:00+00:00",
+                        "name": "Rally Legends",
+                        "start": "2023-08-04T15:45:00+00:00"
+                    },
+                    {
+                        "end": "2023-08-05T08:55:00+00:00",
+                        "name": "Rally Legends",
+                        "start": "2023-08-05T08:40:00+00:00"
+                    },
+                    {
+                        "end": "2023-08-05T15:40:00+00:00",
+                        "name": "Rally Legends",
+                        "start": "2023-08-05T15:25:00+00:00"
+                    },
+                    {
+                        "end": "2023-08-06T13:10:00+00:00",
+                        "name": "Rally Legends",
+                        "start": "2023-08-06T12:55:00+00:00"
+                    }
+                ],
+                "q": [],
+                "r": []
+            }
+        },
+        {
+            "circuit": {
+                "city": "Nuremberg",
+                "country": "Germany",
+                "lat": 0,
+                "lon": 0,
+                "name": "Norisring",
+                "search": [
+                    "norisring"
+                ],
+                "series": [
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "pcg"
+                ]
+            },
+            "full_name": "Norisring",
+            "id": "norisring-2024",
+            "name": "Norisring",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-07-05T09:15:00+00:00",
+                        "name": "Free practice 1",
+                        "start": "2024-07-05T08:50:00+00:00"
+                    },
+                    {
+                        "end": "2024-07-05T13:25:00+00:00",
+                        "name": "Free practice 2",
+                        "start": "2024-07-05T13:00:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-07-05T16:20:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2024-07-05T15:55:00+00:00"
+                    },
+                    {
+                        "end": "2024-07-06T06:45:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2024-07-06T06:20:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-07-06T15:05:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-07-06T14:25:00+00:00"
+                    },
+                    {
+                        "end": "2024-07-07T08:50:00+00:00",
+                        "name": "Race 2",
+                        "start": "2024-07-07T08:25:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Nürburg",
+                "country": null,
+                "name": "Nurburgring",
+                "search": [
+                    "nurburgring",
+                    "nurburgring nordschleife",
+                    "nurburgring race track",
+                    "nurburgring gp circuit",
+                    "nürburgring",
+                    "nürburgring nordschleife"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt4_europe",
+                    "gt2_europe",
+                    "gtwce",
+                    "igtc",
+                    "dtm",
+                    "gt_masters",
+                    "gt4_germany",
+                    "carrera_cup_germany",
+                    "dtm_classic",
+                    "dtm_trophy",
+                    "nxt_gen_cup",
+                    "pcg"
+                ]
+            },
+            "full_name": "Nürburgring",
+            "id": "nuerburgring-2025",
+            "name": "Nürburgring",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2025-08-08T16:05:00+00:00",
+                        "name": "Show programme",
+                        "start": "2025-08-08T15:45:00+00:00"
+                    },
+                    {
+                        "end": "2025-08-09T08:50:00+00:00",
+                        "name": "Show programme",
+                        "start": "2025-08-09T08:35:00+00:00"
+                    },
+                    {
+                        "end": "2025-08-09T13:10:00+00:00",
+                        "name": "Show programme",
+                        "start": "2025-08-09T12:55:00+00:00"
+                    },
+                    {
+                        "end": "2025-08-10T08:50:00+00:00",
+                        "name": "Show programme",
+                        "start": "2025-08-10T08:40:00+00:00"
+                    }
+                ],
+                "q": [],
+                "r": []
+            }
+        }
+    ],
+    "full_name": "DTM Classic",
+    "generated_by": "Two Seconds Ted: The Motorsport Calendar",
+    "gov_body": "ADAC",
+    "last_scraped": "2025-07-26T14:17:23.242409+00:00",
+    "name": "DTM Classic",
+    "source": "https://api.dtm.com/data",
+    "version": "0.6.6"
+}

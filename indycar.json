@@ -229,7 +229,8 @@
                     "bricks",
                     "indianapolis motorspeedway",
                     "the brickyard",
-                    "speedway, indiana"
+                    "speedway, indiana",
+                    "indianpolis"
                 ],
                 "series": [
                     "iwsc",
@@ -273,7 +274,8 @@
                     "bricks",
                     "indianapolis motorspeedway",
                     "the brickyard",
-                    "speedway, indiana"
+                    "speedway, indiana",
+                    "indianpolis"
                 ],
                 "series": [
                     "iwsc",
@@ -517,7 +519,8 @@
                     "bricks",
                     "indianapolis motorspeedway",
                     "the brickyard",
-                    "speedway, indiana"
+                    "speedway, indiana",
+                    "indianpolis"
                 ],
                 "series": [
                     "iwsc",
@@ -582,16 +585,17 @@
         },
         {
             "circuit": {
-                "city": null,
+                "city": "Portland",
                 "country": null,
-                "lat": 0,
-                "lon": 0,
-                "name": "",
+                "name": "Portland International Raceway",
                 "search": [
-                    ""
+                    "portland international raceway",
+                    "portland, oregon"
                 ],
                 "series": [
-                    "indycar"
+                    "indycar",
+                    "tc_america",
+                    "gt4_america"
                 ]
             },
             "full_name": "Grand Prix of Portland",
@@ -926,7 +930,8 @@
                     "bricks",
                     "indianapolis motorspeedway",
                     "the brickyard",
-                    "speedway, indiana"
+                    "speedway, indiana",
+                    "indianpolis"
                 ],
                 "series": [
                     "iwsc",
@@ -970,7 +975,8 @@
                     "bricks",
                     "indianapolis motorspeedway",
                     "the brickyard",
-                    "speedway, indiana"
+                    "speedway, indiana",
+                    "indianpolis"
                 ],
                 "series": [
                     "iwsc",
@@ -1153,7 +1159,8 @@
                     ""
                 ],
                 "series": [
-                    "indycar"
+                    "indycar",
+                    "wec"
                 ]
             },
             "full_name": "HY-VEEDEALS.com 250",
@@ -1182,7 +1189,8 @@
                     ""
                 ],
                 "series": [
-                    "indycar"
+                    "indycar",
+                    "wec"
                 ]
             },
             "full_name": "HY-VEE Salute to Farmers 300",
@@ -1212,7 +1220,8 @@
                     "bricks",
                     "indianapolis motorspeedway",
                     "the brickyard",
-                    "speedway, indiana"
+                    "speedway, indiana",
+                    "indianpolis"
                 ],
                 "series": [
                     "iwsc",
@@ -1308,16 +1317,17 @@
         },
         {
             "circuit": {
-                "city": null,
+                "city": "Portland",
                 "country": null,
-                "lat": 0,
-                "lon": 0,
-                "name": "",
+                "name": "Portland International Raceway",
                 "search": [
-                    ""
+                    "portland international raceway",
+                    "portland, oregon"
                 ],
                 "series": [
-                    "indycar"
+                    "indycar",
+                    "tc_america",
+                    "gt4_america"
                 ]
             },
             "full_name": "Grand Prix of Portland",
@@ -1632,7 +1642,8 @@
                     "bricks",
                     "indianapolis motorspeedway",
                     "the brickyard",
-                    "speedway, indiana"
+                    "speedway, indiana",
+                    "indianpolis"
                 ],
                 "series": [
                     "iwsc",
@@ -1676,7 +1687,8 @@
                     "bricks",
                     "indianapolis motorspeedway",
                     "the brickyard",
-                    "speedway, indiana"
+                    "speedway, indiana",
+                    "indianpolis"
                 ],
                 "series": [
                     "iwsc",
@@ -1876,7 +1888,8 @@
                     ""
                 ],
                 "series": [
-                    "indycar"
+                    "indycar",
+                    "wec"
                 ]
             },
             "full_name": "HY-VEE Indycar Race Weekend Race 1",
@@ -1905,7 +1918,8 @@
                     ""
                 ],
                 "series": [
-                    "indycar"
+                    "indycar",
+                    "wec"
                 ]
             },
             "full_name": "HY-VEE Indycar Race Weekend Race 2",
@@ -1966,7 +1980,8 @@
                     "bricks",
                     "indianapolis motorspeedway",
                     "the brickyard",
-                    "speedway, indiana"
+                    "speedway, indiana",
+                    "indianpolis"
                 ],
                 "series": [
                     "iwsc",
@@ -2031,16 +2046,17 @@
         },
         {
             "circuit": {
-                "city": null,
+                "city": "Portland",
                 "country": null,
-                "lat": 0,
-                "lon": 0,
-                "name": "",
+                "name": "Portland International Raceway",
                 "search": [
-                    ""
+                    "portland international raceway",
+                    "portland, oregon"
                 ],
                 "series": [
-                    "indycar"
+                    "indycar",
+                    "tc_america",
+                    "gt4_america"
                 ]
             },
             "full_name": "Grand Prix of Portland",
@@ -3768,8 +3784,8 @@
     "full_name": "NTT IndyCar Series",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
     "gov_body": "ACCUS",
-    "last_scraped": "2025-07-26T09:55:02.382371+00:00",
+    "last_scraped": "2025-07-26T14:26:44.388658+00:00",
     "name": "IndyCar",
     "source": "https://github.com/sportstimes/f1",
-    "version": "0.6.5"
+    "version": "0.6.6"
 }

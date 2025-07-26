@@ -432,11 +432,12 @@
         },
         {
             "circuit": {
-                "city": "New York",
+                "city": null,
                 "country": null,
-                "name": "New York City ePrix",
+                "lat": 0,
+                "lon": 0,
+                "name": "US",
                 "search": [
-                    "new york city",
                     "us"
                 ],
                 "series": [
@@ -477,11 +478,12 @@
         },
         {
             "circuit": {
-                "city": "New York",
+                "city": null,
                 "country": null,
-                "name": "New York City ePrix",
+                "lat": 0,
+                "lon": 0,
+                "name": "US",
                 "search": [
-                    "new york city",
                     "us"
                 ],
                 "series": [
@@ -1159,11 +1161,12 @@
         },
         {
             "circuit": {
-                "city": "New York",
+                "city": null,
                 "country": null,
-                "name": "New York City ePrix",
+                "lat": 0,
+                "lon": 0,
+                "name": "US",
                 "search": [
-                    "new york city",
                     "us"
                 ],
                 "series": [
@@ -1204,11 +1207,12 @@
         },
         {
             "circuit": {
-                "city": "New York",
+                "city": null,
                 "country": null,
-                "name": "New York City ePrix",
+                "lat": 0,
+                "lon": 0,
+                "name": "US",
                 "search": [
-                    "new york city",
                     "us"
                 ],
                 "series": [
@@ -3622,8 +3626,8 @@
     "full_name": "Formula E",
     "generated_by": "Two Seconds Ted: The Motorsport Calendar",
     "gov_body": "FIA",
-    "last_scraped": "2025-07-26T09:36:15.001076+00:00",
+    "last_scraped": "2025-07-26T14:17:40.284181+00:00",
     "name": "FE",
     "source": "https://github.com/sportstimes/f1",
-    "version": "0.6.5"
+    "version": "0.6.6"
 }
