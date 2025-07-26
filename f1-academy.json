@@ -1,1 +1,1290 @@
-{"events": [{"id": "spielberg", "name": "Spielberg", "full_name": "Spielberg", "circuit": {"name": "Red Bull Ring", "search": ["spielberg", "red bull ring", "red bull", "austria"], "city": "Spielberg", "country": null, "series": ["f1", "f2", "f3", "f1-academy", "gt2_europe", "gt4_europe", "elms"]}, "sessions": {"p": [{"name": "Free Practice 1", "start": "2023-04-28T06:15:00+00:00", "end": "2023-04-28T06:55:00+00:00"}, {"name": "Free Practice 2", "start": "2023-04-28T08:40:00+00:00", "end": "2023-04-28T09:20:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2023-04-28T13:10:00+00:00", "end": "2023-04-28T13:25:00+00:00"}, {"name": "Qualifying 2", "start": "2023-04-28T13:30:00+00:00", "end": "2023-04-28T13:45:00+00:00"}], "r": [{"name": "Race 1", "start": "2023-04-29T08:45:00+00:00", "end": "2023-04-29T09:15:00+00:00"}, {"name": "Race 2", "start": "2023-04-29T12:05:00+00:00", "end": "2023-04-29T12:25:00+00:00"}, {"name": "Race 3", "start": "2023-04-29T15:20:00+00:00", "end": "2023-04-29T15:50:00+00:00"}]}}, {"id": "valenvia", "name": "Valenvia", "full_name": "Valenvia", "circuit": {"name": "Circuit de Spa-Francorchamps", "search": ["spa-francorchamps", "spa", "francorchamps", "circuit de spa-francorchamps", "spa francorchamps", "spa-francorchamps circuit", "spa francorchamps circuit"], "city": "Spa", "country": null, "series": ["f1", "f2", "f3", "f1-academy", "gt2_europe", "britishgt", "elms", "igtc", "gtwce", "wec", "gt4_europe"]}, "sessions": {"p": [{"name": "Free Practice 1", "start": "2023-05-05T07:40:00+00:00", "end": "2023-05-05T08:20:00+00:00"}, {"name": "Free Practice 2", "start": "2023-05-05T10:30:00+00:00", "end": "2023-05-05T11:10:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2023-05-05T14:25:00+00:00", "end": "2023-05-05T14:40:00+00:00"}, {"name": "Qualifying 2", "start": "2023-05-05T14:45:00+00:00", "end": "2023-05-05T15:00:00+00:00"}], "r": [{"name": "Race 1", "start": "2023-05-06T10:10:00+00:00", "end": "2023-05-06T10:40:00+00:00"}, {"name": "Race 2", "start": "2023-05-06T14:10:00+00:00", "end": "2023-05-06T14:30:00+00:00"}, {"name": "Race 3", "start": "2023-05-07T10:35:00+00:00", "end": "2023-05-07T11:05:00+00:00"}]}}, {"id": "barcelona", "name": "Barcelona", "full_name": "Barcelona", "circuit": {"name": "Circuit de Spa-Francorchamps", "search": ["spa-francorchamps", "spa", "francorchamps", "circuit de spa-francorchamps", "spa francorchamps", "spa-francorchamps circuit", "spa francorchamps circuit"], "city": "Spa", "country": null, "series": ["f1", "f2", "f3", "f1-academy", "gt2_europe", "britishgt", "elms", "igtc", "gtwce", "wec", "gt4_europe"]}, "sessions": {"p": [{"name": "Free Practice 1", "start": "2023-05-19T12:55:00+00:00", "end": "2023-05-19T13:35:00+00:00"}, {"name": "Free Practice 2", "start": "2023-05-19T15:00:00+00:00", "end": "2023-05-19T15:40:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2023-05-20T09:20:00+00:00", "end": "2023-05-20T09:35:00+00:00"}, {"name": "Qualifying 2", "start": "2023-05-20T09:40:00+00:00", "end": "2023-05-20T09:55:00+00:00"}], "r": [{"name": "Race 1", "start": "2023-05-20T13:05:00+00:00", "end": "2023-05-20T13:35:00+00:00"}, {"name": "Race 2", "start": "2023-05-20T16:59:00+00:00", "end": "2023-05-20T17:19:00+00:00"}, {"name": "Race 3", "start": "2023-05-21T09:06:00+00:00", "end": "2023-05-21T09:36:00+00:00"}]}}, {"id": "zandvoort", "name": "Zandvoort", "full_name": "Zandvoort", "circuit": {"name": "Zandvoort Circuit", "search": ["zandvoort", "zandvoort circuit", "netherlands"], "city": "Zandvoort", "country": null, "series": ["f1", "f2", "f3", "f1-academy", "gt2_europe", "gt4_europe", "gtwce"]}, "sessions": {"p": [{"name": "Free Practice 1", "start": "2023-06-23T07:40:00+00:00", "end": "2023-06-23T08:20:00+00:00"}, {"name": "Free Practice 2", "start": "2023-06-23T14:55:00+00:00", "end": "2023-06-23T15:35:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2023-06-24T06:00:00+00:00", "end": "2023-06-24T06:15:00+00:00"}, {"name": "Qualifying 2", "start": "2023-06-24T06:20:00+00:00", "end": "2023-06-24T06:35:00+00:00"}], "r": [{"name": "Race 1", "start": "2023-06-24T14:30:00+00:00", "end": "2023-06-24T15:00:00+00:00"}, {"name": "Race 2", "start": "2023-06-25T06:40:00+00:00", "end": "2023-06-25T07:00:00+00:00"}, {"name": "Race 3", "start": "2023-06-25T15:25:00+00:00", "end": "2023-06-25T15:55:00+00:00"}]}}, {"id": "monza", "name": "Monza", "full_name": "Monza", "circuit": {"name": "Autodromo Nazionale di Monza", "short_name": "monza", "search": ["monza", "autodromo nazionale di monza", "monza circuit", "monza autodromo", "monza autodromo nazionale", "italy", "autodromo nazionale"], "city": "Monza", "country": null, "series": ["f1", "f2", "f3", "f1-academy", "gt2_europe", "elms", "gt4_europe", "gtwce"]}, "sessions": {"p": [{"name": "Free Practice 1", "start": "2023-07-07T08:00:00+00:00", "end": "2023-07-07T08:40:00+00:00"}, {"name": "Free Practice 2", "start": "2023-07-07T13:40:00+00:00", "end": "2023-07-07T14:20:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2023-07-08T07:00:00+00:00", "end": "2023-07-08T07:15:00+00:00"}, {"name": "Qualifying 2", "start": "2023-07-08T07:20:00+00:00", "end": "2023-07-08T07:35:00+00:00"}], "r": [{"name": "Race 1", "start": "2023-07-08T10:55:00+00:00", "end": "2023-07-08T11:25:00+00:00"}, {"name": "Race 2", "start": "2023-07-08T16:40:00+00:00", "end": "2023-07-08T17:00:00+00:00"}, {"name": "Race 3", "start": "2023-07-09T07:00:00+00:00", "end": "2023-07-09T07:30:00+00:00"}]}}, {"id": "la-castellet", "name": "La Castellet", "full_name": "La Castellet", "circuit": {"name": "Circuit Paul Ricard", "search": ["paul ricard", "circuit paul ricard", "ricard", "paul ricard circuit", "ricard circuit", "le castellet", "le castellet circuit", "france"], "city": "Le Castellet", "country": null, "series": ["f1", "f2", "f3", "f1-academy", "gt2_europe", "gt4_europe", "elms", "gtwce"]}, "sessions": {"p": [{"name": "Free Practice 1", "start": "2023-07-29T07:00:00+00:00", "end": "2023-07-29T07:40:00+00:00"}, {"name": "Free Practice 2", "start": "2023-07-29T10:15:00+00:00", "end": "2023-07-29T10:55:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2023-07-29T14:00:00+00:00", "end": "2023-07-29T14:15:00+00:00"}, {"name": "Qualifying 2", "start": "2023-07-29T14:25:00+00:00", "end": "2023-07-29T14:40:00+00:00"}], "r": [{"name": "Race 1", "start": "2023-07-30T07:15:00+00:00", "end": "2023-07-30T07:45:00+00:00"}, {"name": "Race 2", "start": "2023-07-30T10:35:00+00:00", "end": "2023-07-30T10:55:00+00:00"}, {"name": "Race 3", "start": "2023-07-30T14:15:00+00:00", "end": "2023-07-30T14:45:00+00:00"}]}}, {"id": "austin", "name": "Austin", "full_name": "Austin", "circuit": {"name": "Miami Autodrome", "search": ["miami", "miami autodrome", "usa"], "city": "Miami", "country": null, "series": ["f1", "f1-academy", "fe"]}, "sessions": {"p": [{"name": "Free Practice 1", "start": "2023-10-20T13:15:00+00:00", "end": "2023-10-20T13:55:00+00:00"}, {"name": "Free Practice 2", "start": "2023-10-20T18:55:00+00:00", "end": "2023-10-20T19:35:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2023-10-20T22:30:00+00:00", "end": "2023-10-20T22:45:00+00:00"}, {"name": "Qualifying 2", "start": "2023-10-20T22:55:00+00:00", "end": "2023-10-20T23:10:00+00:00"}], "r": [{"name": "Race 1", "start": "2023-10-21T13:45:00+00:00", "end": "2023-10-21T14:15:00+00:00"}, {"name": "Race 2", "start": "2023-10-21T20:30:00+00:00", "end": "2023-10-21T20:50:00+00:00"}, {"name": "Race 3", "start": "2023-10-22T14:40:00+00:00", "end": "2023-10-22T15:10:00+00:00"}]}}, {"id": "jeddah", "name": "Jeddah", "full_name": "Jeddah", "circuit": {"name": "Jeddah Corniche Street Circuit", "search": ["jeddah", "jeddah street circuit", "jeddah corniche street circuit", "jeddah corniche"], "city": "Jeddah", "country": null, "series": ["f1", "f2", "f3", "f1-academy", "gt4_europe", "fe", "gtwce"]}, "sessions": {"p": [{"name": "Free Practice 1", "start": "2024-03-07T11:05:00+00:00", "end": "2024-03-07T11:45:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2024-03-07T18:30:00+00:00", "end": "2024-03-07T18:45:00+00:00"}, {"name": "Qualifying 2", "start": "2024-03-07T18:30:00+00:00", "end": "2024-03-07T18:45:00+00:00"}], "r": [{"name": "Race 1", "start": "2024-03-08T12:10:00+00:00", "end": "2024-03-08T12:40:00+00:00"}, {"name": "Race 2", "start": "2024-03-09T12:05:00+00:00", "end": "2024-03-09T12:25:00+00:00"}]}}, {"id": "miami", "name": "Miami", "full_name": "Miami", "circuit": {"name": "Miami Autodrome", "search": ["miami", "miami autodrome", "usa"], "city": "Miami", "country": null, "series": ["f1", "f1-academy", "fe"]}, "sessions": {"p": [{"name": "Free Practice 1", "start": "2024-05-03T14:00:00+00:00", "end": "2024-05-03T14:40:00+00:00"}, {"name": "Free Practice 2", "start": "2024-05-03T19:20:00+00:00", "end": "2024-05-03T20:00:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2024-05-04T14:25:00+00:00", "end": "2024-05-04T14:40:00+00:00"}, {"name": "Qualifying 2", "start": "2024-05-04T14:25:00+00:00", "end": "2024-05-04T14:40:00+00:00"}], "r": [{"name": "Race 1", "start": "2024-05-04T18:05:00+00:00", "end": "2024-05-04T18:35:00+00:00"}, {"name": "Race 2", "start": "2024-05-05T17:05:00+00:00", "end": "2024-05-05T17:25:00+00:00"}]}}, {"id": "barcelona", "name": "Barcelona", "full_name": "Barcelona", "circuit": {"name": "Circuit de Spa-Francorchamps", "search": ["spa-francorchamps", "spa", "francorchamps", "circuit de spa-francorchamps", "spa francorchamps", "spa-francorchamps circuit", "spa francorchamps circuit"], "city": "Spa", "country": null, "series": ["f1", "f2", "f3", "f1-academy", "gt2_europe", "britishgt", "elms", "igtc", "gtwce", "wec", "gt4_europe"]}, "sessions": {"p": [{"name": "Free Practice 1", "start": "2024-06-21T06:50:00+00:00", "end": "2024-06-21T07:30:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2024-06-21T16:30:00+00:00", "end": "2024-06-21T16:45:00+00:00"}, {"name": "Qualifying 2", "start": "2024-06-21T16:30:00+00:00", "end": "2024-06-21T16:45:00+00:00"}], "r": [{"name": "Race 1", "start": "2024-06-22T16:00:00+00:00", "end": "2024-06-22T16:30:00+00:00"}, {"name": "Race 2", "start": "2024-06-23T06:50:00+00:00", "end": "2024-06-23T07:10:00+00:00"}]}}, {"id": "zandvoort", "name": "Zandvoort", "full_name": "Zandvoort", "circuit": {"name": "Zandvoort Circuit", "search": ["zandvoort", "zandvoort circuit", "netherlands"], "city": "Zandvoort", "country": null, "series": ["f1", "f2", "f3", "f1-academy", "gt2_europe", "gt4_europe", "gtwce"]}, "sessions": {"p": [{"name": "Free Practice 1", "start": "2024-08-23T08:10:00+00:00", "end": "2024-08-23T08:50:00+00:00"}, {"name": "Free Practice 2", "start": "2024-08-23T15:30:00+00:00", "end": "2024-08-23T16:10:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2024-08-24T08:15:00+00:00", "end": "2024-08-24T08:30:00+00:00"}, {"name": "Qualifying 2", "start": "2024-08-24T08:15:00+00:00", "end": "2024-08-24T08:30:00+00:00"}], "r": [{"name": "Race 1", "start": "2024-08-25T06:30:00+00:00", "end": "2024-08-25T07:00:00+00:00"}, {"name": "Race 2", "start": "2024-08-25T08:40:00+00:00", "end": "2024-08-25T09:00:00+00:00"}]}}, {"id": "singapore", "name": "Singapore", "full_name": "Singapore", "circuit": {"name": "Marina Bay Street Circuit", "search": ["marina bay street circuit", "marina bay", "singapore street circuit", "singapore"], "city": null, "country": null, "series": ["f1", "f1-academy"], "lat": 0, "lon": 0}, "sessions": {"p": [{"name": "Free Practice 1", "start": "2024-09-20T07:20:00+00:00", "end": "2024-09-20T08:00:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2024-09-20T11:00:00+00:00", "end": "2024-09-20T11:15:00+00:00"}, {"name": "Qualifying 2", "start": "2024-09-20T11:00:00+00:00", "end": "2024-09-20T11:15:00+00:00"}], "r": [{"name": "Race 1", "start": "2024-09-21T07:05:00+00:00", "end": "2024-09-21T07:35:00+00:00"}, {"name": "Race 2", "start": "2024-09-22T07:35:00+00:00", "end": "2024-09-22T07:55:00+00:00"}]}}, {"id": "qatar", "name": "Qatar", "full_name": "Qatar", "circuit": {"name": "Lusail International Circuit", "search": ["doha", "doha circuit", "doha international circuit", "lusail", "lusail circuit", "lusail international circuit", "qatar"], "city": "Lusail", "country": null, "series": ["f1", "f2", "f3", "f1-academy", "wec"]}, "sessions": {"p": [{"name": "Free Practice 1", "start": "2024-11-29T10:00:00+00:00", "end": "2024-11-29T10:40:00+00:00"}, {"name": "Free Practice 2", "start": "2024-11-29T15:00:00+00:00", "end": "2024-11-29T15:40:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2024-11-30T12:20:00+00:00", "end": "2024-11-30T12:35:00+00:00"}], "r": [{"name": "Race 1", "start": "2024-11-30T20:05:00+00:00", "end": "2024-11-30T20:35:00+00:00"}]}}, {"id": "abu-dhabi", "name": "Abu Dhabi", "full_name": "Abu Dhabi", "circuit": {"name": "Yas Marina Circuit", "search": ["yas marina", "yas marina circuit", "yas marina race track", "gulf"], "city": "Abu Dhabi", "country": null, "series": ["f1", "f2", "f3", "f1-academy", "alms", "igtc"]}, "sessions": {"p": [{"name": "Free Practice 1", "start": "2024-12-06T05:50:00+00:00", "end": "2024-12-06T06:30:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2024-12-06T14:35:00+00:00", "end": "2024-12-06T14:50:00+00:00"}], "r": [{"name": "Race 1", "start": "2024-12-07T08:15:00+00:00", "end": "2024-12-07T08:45:00+00:00"}, {"name": "Race 2", "start": "2024-12-07T16:15:00+00:00", "end": "2024-12-07T16:35:00+00:00"}, {"name": "Race 3", "start": "2024-12-08T07:15:00+00:00", "end": "2024-12-08T07:45:00+00:00"}]}}, {"id": "chinese", "name": "Chinese", "full_name": "Chinese", "circuit": {"name": "Shanghai International Circuit", "search": ["shanghai", "shanghai international circuit", "shanghai circuit"], "city": "Shanghai", "country": null, "series": ["f1", "f2", "f3", "f1-academy", "fe", "gtwcas"]}, "sessions": {"p": [{"name": "Free Practice 1", "start": "2025-03-21T01:10:00+00:00", "end": "2025-03-21T01:50:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2025-03-21T06:05:00+00:00", "end": "2025-03-21T06:20:00+00:00"}], "r": [{"name": "Race 1", "start": "2025-03-22T05:50:00+00:00", "end": "2025-03-22T06:20:00+00:00"}, {"name": "Race 2", "start": "2025-03-23T02:45:00+00:00", "end": "2025-03-23T03:05:00+00:00"}]}}, {"id": "jeddah", "name": "Jeddah", "full_name": "Jeddah", "circuit": {"name": "Jeddah Corniche Street Circuit", "search": ["jeddah", "jeddah street circuit", "jeddah corniche street circuit", "jeddah corniche"], "city": "Jeddah", "country": null, "series": ["f1", "f2", "f3", "f1-academy", "gt4_europe", "fe", "gtwce"]}, "sessions": {"p": [{"name": "Free Practice 1", "start": "2025-04-18T11:05:00+00:00", "end": "2025-04-18T11:45:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2025-04-18T18:30:00+00:00", "end": "2025-04-18T18:45:00+00:00"}], "r": [{"name": "Race 1", "start": "2025-04-19T12:20:00+00:00", "end": "2025-04-19T12:50:00+00:00"}, {"name": "Race 2", "start": "2025-04-20T12:05:00+00:00", "end": "2025-04-20T12:25:00+00:00"}]}}, {"id": "miami", "name": "Miami", "full_name": "Miami", "circuit": {"name": "Miami Autodrome", "search": ["miami", "miami autodrome", "usa"], "city": "Miami", "country": null, "series": ["f1", "f1-academy", "fe"]}, "sessions": {"p": [{"name": "Free Practice 1", "start": "2025-05-02T14:05:00+00:00", "end": "2025-05-02T14:45:00+00:00"}, {"name": "Free Practice 2", "start": "2025-05-02T19:20:00+00:00", "end": "2025-05-02T20:00:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2025-05-03T14:25:00+00:00", "end": "2025-05-03T14:40:00+00:00"}], "r": [{"name": "Race 1", "start": "2025-05-03T19:10:00+00:00", "end": "2025-05-03T19:40:00+00:00"}, {"name": "Race 2", "start": "2025-05-04T17:05:00+00:00", "end": "2025-05-04T17:25:00+00:00"}]}}, {"id": "canadian", "name": "Canadian", "full_name": "Canadian", "circuit": {"name": "Circuit Gilles Villeneuve", "search": ["montreal", "gilles villeneuve", "circuit gilles villeneuve", "villeneuve", "gilles villeneuve circuit", "villeneuve circuit", "montreal circuit", "circuit de montreal"], "city": "Montreal", "country": null, "series": ["f1", "f2", "f3", "f1-academy"]}, "sessions": {"p": [{"name": "Free Practice 1", "start": "2025-06-13T15:05:00+00:00", "end": "2025-06-13T15:45:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2025-06-13T22:30:00+00:00", "end": "2025-06-13T22:45:00+00:00"}], "r": [{"name": "Race 1", "start": "2025-06-14T13:15:00+00:00", "end": "2025-06-14T13:45:00+00:00"}, {"name": "Race 2", "start": "2025-06-14T18:50:00+00:00", "end": "2025-06-14T19:10:00+00:00"}, {"name": "Race 3", "start": "2025-06-15T14:55:00+00:00", "end": "2025-06-15T15:25:00+00:00"}]}}, {"id": "zandvoort", "name": "Zandvoort", "full_name": "Zandvoort", "circuit": {"name": "Zandvoort Circuit", "search": ["zandvoort", "zandvoort circuit", "netherlands"], "city": "Zandvoort", "country": null, "series": ["f1", "f2", "f3", "f1-academy", "gt2_europe", "gt4_europe", "gtwce"]}, "sessions": {"p": [{"name": "Free Practice 1", "start": "2025-08-29T09:10:00+00:00", "end": "2025-08-29T09:50:00+00:00"}, {"name": "Free Practice 2", "start": "2025-08-29T16:30:00+00:00", "end": "2025-08-29T17:10:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2025-08-30T09:25:00+00:00", "end": "2025-08-30T09:40:00+00:00"}], "r": [{"name": "Race 1", "start": "2025-08-30T16:05:00+00:00", "end": "2025-08-30T16:35:00+00:00"}, {"name": "Race 2", "start": "2025-08-31T09:40:00+00:00", "end": "2025-08-31T10:00:00+00:00"}]}}, {"id": "singapore", "name": "Singapore", "full_name": "Singapore", "circuit": {"name": "Marina Bay Street Circuit", "search": ["marina bay street circuit", "marina bay", "singapore street circuit", "singapore"], "city": null, "country": null, "series": ["f1", "f1-academy"], "lat": 0, "lon": 0}, "sessions": {"p": [{"name": "Free Practice 1", "start": "2025-10-03T13:56:00+00:00", "end": "2025-10-03T14:36:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2025-10-03T14:00:00+00:00", "end": "2025-10-03T14:15:00+00:00"}], "r": [{"name": "Race 1", "start": "2025-10-04T13:56:00+00:00", "end": "2025-10-04T14:26:00+00:00"}, {"name": "Race 2", "start": "2025-10-05T13:57:00+00:00", "end": "2025-10-05T14:17:00+00:00"}]}}, {"id": "las-vegas", "name": "Las Vegas", "full_name": "Las Vegas", "circuit": {"name": "Las Vegas Street Circuit", "search": ["las vegas", "las vegas street circuit"], "city": "Las Vegas", "country": null, "series": ["f1", "f2", "f3", "f1-academy"]}, "sessions": {"p": [{"name": "Free Practice 1", "start": "2025-11-20T13:57:00+00:00", "end": "2025-11-20T14:37:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2025-11-20T13:59:00+00:00", "end": "2025-11-20T14:14:00+00:00"}], "r": [{"name": "Race 1", "start": "2025-11-21T13:58:00+00:00", "end": "2025-11-21T14:28:00+00:00"}, {"name": "Race 2", "start": "2025-11-22T13:58:00+00:00", "end": "2025-11-22T14:18:00+00:00"}]}}], "color": "pink", "last_scraped": "2025-07-25T18:45:36.712256+00:00", "full_name": "F1 Academy", "name": "F1A", "category": "Open-Wheel", "gov_body": "FIA", "source": "https://github.com/sportstimes/f1", "version": "0.6.4", "generated_by": "Two Seconds Ted: The Motorsport Calendar", "classes": ["F4"]}
+{
+    "category": "Open-Wheel",
+    "classes": [
+        "F4"
+    ],
+    "color": "pink",
+    "events": [
+        {
+            "circuit": {
+                "city": "Spielberg",
+                "country": null,
+                "name": "Red Bull Ring",
+                "search": [
+                    "spielberg",
+                    "red bull ring",
+                    "red bull",
+                    "austria"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt2_europe",
+                    "gt4_europe",
+                    "elms"
+                ]
+            },
+            "full_name": "Spielberg",
+            "id": "spielberg",
+            "name": "Spielberg",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2023-04-28T06:55:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2023-04-28T06:15:00+00:00"
+                    },
+                    {
+                        "end": "2023-04-28T09:20:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "2023-04-28T08:40:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2023-04-28T13:25:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2023-04-28T13:10:00+00:00"
+                    },
+                    {
+                        "end": "2023-04-28T13:45:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2023-04-28T13:30:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2023-04-29T09:15:00+00:00",
+                        "name": "Race 1",
+                        "start": "2023-04-29T08:45:00+00:00"
+                    },
+                    {
+                        "end": "2023-04-29T12:25:00+00:00",
+                        "name": "Race 2",
+                        "start": "2023-04-29T12:05:00+00:00"
+                    },
+                    {
+                        "end": "2023-04-29T15:50:00+00:00",
+                        "name": "Race 3",
+                        "start": "2023-04-29T15:20:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Spa",
+                "country": null,
+                "name": "Circuit de Spa-Francorchamps",
+                "search": [
+                    "spa-francorchamps",
+                    "spa",
+                    "francorchamps",
+                    "circuit de spa-francorchamps",
+                    "spa francorchamps",
+                    "spa-francorchamps circuit",
+                    "spa francorchamps circuit"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt2_europe",
+                    "britishgt",
+                    "elms",
+                    "igtc",
+                    "gtwce",
+                    "wec",
+                    "gt4_europe"
+                ]
+            },
+            "full_name": "Valenvia",
+            "id": "valenvia",
+            "name": "Valenvia",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2023-05-05T08:20:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2023-05-05T07:40:00+00:00"
+                    },
+                    {
+                        "end": "2023-05-05T11:10:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "2023-05-05T10:30:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2023-05-05T14:40:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2023-05-05T14:25:00+00:00"
+                    },
+                    {
+                        "end": "2023-05-05T15:00:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2023-05-05T14:45:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2023-05-06T10:40:00+00:00",
+                        "name": "Race 1",
+                        "start": "2023-05-06T10:10:00+00:00"
+                    },
+                    {
+                        "end": "2023-05-06T14:30:00+00:00",
+                        "name": "Race 2",
+                        "start": "2023-05-06T14:10:00+00:00"
+                    },
+                    {
+                        "end": "2023-05-07T11:05:00+00:00",
+                        "name": "Race 3",
+                        "start": "2023-05-07T10:35:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Spa",
+                "country": null,
+                "name": "Circuit de Spa-Francorchamps",
+                "search": [
+                    "spa-francorchamps",
+                    "spa",
+                    "francorchamps",
+                    "circuit de spa-francorchamps",
+                    "spa francorchamps",
+                    "spa-francorchamps circuit",
+                    "spa francorchamps circuit"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt2_europe",
+                    "britishgt",
+                    "elms",
+                    "igtc",
+                    "gtwce",
+                    "wec",
+                    "gt4_europe"
+                ]
+            },
+            "full_name": "Barcelona",
+            "id": "barcelona",
+            "name": "Barcelona",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2023-05-19T13:35:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2023-05-19T12:55:00+00:00"
+                    },
+                    {
+                        "end": "2023-05-19T15:40:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "2023-05-19T15:00:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2023-05-20T09:35:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2023-05-20T09:20:00+00:00"
+                    },
+                    {
+                        "end": "2023-05-20T09:55:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2023-05-20T09:40:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2023-05-20T13:35:00+00:00",
+                        "name": "Race 1",
+                        "start": "2023-05-20T13:05:00+00:00"
+                    },
+                    {
+                        "end": "2023-05-20T17:19:00+00:00",
+                        "name": "Race 2",
+                        "start": "2023-05-20T16:59:00+00:00"
+                    },
+                    {
+                        "end": "2023-05-21T09:36:00+00:00",
+                        "name": "Race 3",
+                        "start": "2023-05-21T09:06:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Zandvoort",
+                "country": null,
+                "name": "Zandvoort Circuit",
+                "search": [
+                    "zandvoort",
+                    "zandvoort circuit",
+                    "netherlands"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt2_europe",
+                    "gt4_europe",
+                    "gtwce"
+                ]
+            },
+            "full_name": "Zandvoort",
+            "id": "zandvoort",
+            "name": "Zandvoort",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2023-06-23T08:20:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2023-06-23T07:40:00+00:00"
+                    },
+                    {
+                        "end": "2023-06-23T15:35:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "2023-06-23T14:55:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2023-06-24T06:15:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2023-06-24T06:00:00+00:00"
+                    },
+                    {
+                        "end": "2023-06-24T06:35:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2023-06-24T06:20:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2023-06-24T15:00:00+00:00",
+                        "name": "Race 1",
+                        "start": "2023-06-24T14:30:00+00:00"
+                    },
+                    {
+                        "end": "2023-06-25T07:00:00+00:00",
+                        "name": "Race 2",
+                        "start": "2023-06-25T06:40:00+00:00"
+                    },
+                    {
+                        "end": "2023-06-25T15:55:00+00:00",
+                        "name": "Race 3",
+                        "start": "2023-06-25T15:25:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Monza",
+                "country": null,
+                "name": "Autodromo Nazionale di Monza",
+                "search": [
+                    "monza",
+                    "autodromo nazionale di monza",
+                    "monza circuit",
+                    "monza autodromo",
+                    "monza autodromo nazionale",
+                    "italy",
+                    "autodromo nazionale"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt2_europe",
+                    "elms",
+                    "gt4_europe",
+                    "gtwce"
+                ],
+                "short_name": "monza"
+            },
+            "full_name": "Monza",
+            "id": "monza",
+            "name": "Monza",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2023-07-07T08:40:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2023-07-07T08:00:00+00:00"
+                    },
+                    {
+                        "end": "2023-07-07T14:20:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "2023-07-07T13:40:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2023-07-08T07:15:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2023-07-08T07:00:00+00:00"
+                    },
+                    {
+                        "end": "2023-07-08T07:35:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2023-07-08T07:20:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2023-07-08T11:25:00+00:00",
+                        "name": "Race 1",
+                        "start": "2023-07-08T10:55:00+00:00"
+                    },
+                    {
+                        "end": "2023-07-08T17:00:00+00:00",
+                        "name": "Race 2",
+                        "start": "2023-07-08T16:40:00+00:00"
+                    },
+                    {
+                        "end": "2023-07-09T07:30:00+00:00",
+                        "name": "Race 3",
+                        "start": "2023-07-09T07:00:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Le Castellet",
+                "country": null,
+                "name": "Circuit Paul Ricard",
+                "search": [
+                    "paul ricard",
+                    "circuit paul ricard",
+                    "ricard",
+                    "paul ricard circuit",
+                    "ricard circuit",
+                    "le castellet",
+                    "le castellet circuit",
+                    "france"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt2_europe",
+                    "gt4_europe",
+                    "elms",
+                    "gtwce"
+                ]
+            },
+            "full_name": "La Castellet",
+            "id": "la-castellet",
+            "name": "La Castellet",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2023-07-29T07:40:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2023-07-29T07:00:00+00:00"
+                    },
+                    {
+                        "end": "2023-07-29T10:55:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "2023-07-29T10:15:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2023-07-29T14:15:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2023-07-29T14:00:00+00:00"
+                    },
+                    {
+                        "end": "2023-07-29T14:40:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2023-07-29T14:25:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2023-07-30T07:45:00+00:00",
+                        "name": "Race 1",
+                        "start": "2023-07-30T07:15:00+00:00"
+                    },
+                    {
+                        "end": "2023-07-30T10:55:00+00:00",
+                        "name": "Race 2",
+                        "start": "2023-07-30T10:35:00+00:00"
+                    },
+                    {
+                        "end": "2023-07-30T14:45:00+00:00",
+                        "name": "Race 3",
+                        "start": "2023-07-30T14:15:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Miami",
+                "country": null,
+                "name": "Miami Autodrome",
+                "search": [
+                    "miami",
+                    "miami autodrome",
+                    "usa"
+                ],
+                "series": [
+                    "f1",
+                    "f1-academy",
+                    "fe"
+                ]
+            },
+            "full_name": "Austin",
+            "id": "austin",
+            "name": "Austin",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2023-10-20T13:55:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2023-10-20T13:15:00+00:00"
+                    },
+                    {
+                        "end": "2023-10-20T19:35:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "2023-10-20T18:55:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2023-10-20T22:45:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2023-10-20T22:30:00+00:00"
+                    },
+                    {
+                        "end": "2023-10-20T23:10:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2023-10-20T22:55:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2023-10-21T14:15:00+00:00",
+                        "name": "Race 1",
+                        "start": "2023-10-21T13:45:00+00:00"
+                    },
+                    {
+                        "end": "2023-10-21T20:50:00+00:00",
+                        "name": "Race 2",
+                        "start": "2023-10-21T20:30:00+00:00"
+                    },
+                    {
+                        "end": "2023-10-22T15:10:00+00:00",
+                        "name": "Race 3",
+                        "start": "2023-10-22T14:40:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Jeddah",
+                "country": null,
+                "name": "Jeddah Corniche Street Circuit",
+                "search": [
+                    "jeddah",
+                    "jeddah street circuit",
+                    "jeddah corniche street circuit",
+                    "jeddah corniche"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt4_europe",
+                    "fe",
+                    "gtwce"
+                ]
+            },
+            "full_name": "Jeddah",
+            "id": "jeddah",
+            "name": "Jeddah",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-03-07T11:45:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2024-03-07T11:05:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-03-07T18:45:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2024-03-07T18:30:00+00:00"
+                    },
+                    {
+                        "end": "2024-03-07T18:45:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2024-03-07T18:30:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-03-08T12:40:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-03-08T12:10:00+00:00"
+                    },
+                    {
+                        "end": "2024-03-09T12:25:00+00:00",
+                        "name": "Race 2",
+                        "start": "2024-03-09T12:05:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Miami",
+                "country": null,
+                "name": "Miami Autodrome",
+                "search": [
+                    "miami",
+                    "miami autodrome",
+                    "usa"
+                ],
+                "series": [
+                    "f1",
+                    "f1-academy",
+                    "fe"
+                ]
+            },
+            "full_name": "Miami",
+            "id": "miami",
+            "name": "Miami",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-05-03T14:40:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2024-05-03T14:00:00+00:00"
+                    },
+                    {
+                        "end": "2024-05-03T20:00:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "2024-05-03T19:20:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-05-04T14:40:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2024-05-04T14:25:00+00:00"
+                    },
+                    {
+                        "end": "2024-05-04T14:40:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2024-05-04T14:25:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-05-04T18:35:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-05-04T18:05:00+00:00"
+                    },
+                    {
+                        "end": "2024-05-05T17:25:00+00:00",
+                        "name": "Race 2",
+                        "start": "2024-05-05T17:05:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Spa",
+                "country": null,
+                "name": "Circuit de Spa-Francorchamps",
+                "search": [
+                    "spa-francorchamps",
+                    "spa",
+                    "francorchamps",
+                    "circuit de spa-francorchamps",
+                    "spa francorchamps",
+                    "spa-francorchamps circuit",
+                    "spa francorchamps circuit"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt2_europe",
+                    "britishgt",
+                    "elms",
+                    "igtc",
+                    "gtwce",
+                    "wec",
+                    "gt4_europe"
+                ]
+            },
+            "full_name": "Barcelona",
+            "id": "barcelona",
+            "name": "Barcelona",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-06-21T07:30:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2024-06-21T06:50:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-06-21T16:45:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2024-06-21T16:30:00+00:00"
+                    },
+                    {
+                        "end": "2024-06-21T16:45:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2024-06-21T16:30:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-06-22T16:30:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-06-22T16:00:00+00:00"
+                    },
+                    {
+                        "end": "2024-06-23T07:10:00+00:00",
+                        "name": "Race 2",
+                        "start": "2024-06-23T06:50:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Zandvoort",
+                "country": null,
+                "name": "Zandvoort Circuit",
+                "search": [
+                    "zandvoort",
+                    "zandvoort circuit",
+                    "netherlands"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt2_europe",
+                    "gt4_europe",
+                    "gtwce"
+                ]
+            },
+            "full_name": "Zandvoort",
+            "id": "zandvoort",
+            "name": "Zandvoort",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-08-23T08:50:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2024-08-23T08:10:00+00:00"
+                    },
+                    {
+                        "end": "2024-08-23T16:10:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "2024-08-23T15:30:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-08-24T08:30:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2024-08-24T08:15:00+00:00"
+                    },
+                    {
+                        "end": "2024-08-24T08:30:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2024-08-24T08:15:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-08-25T07:00:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-08-25T06:30:00+00:00"
+                    },
+                    {
+                        "end": "2024-08-25T09:00:00+00:00",
+                        "name": "Race 2",
+                        "start": "2024-08-25T08:40:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": "Marina Bay Street Circuit",
+                "search": [
+                    "marina bay street circuit",
+                    "marina bay",
+                    "singapore street circuit",
+                    "singapore"
+                ],
+                "series": [
+                    "f1",
+                    "f1-academy"
+                ]
+            },
+            "full_name": "Singapore",
+            "id": "singapore",
+            "name": "Singapore",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-09-20T08:00:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2024-09-20T07:20:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-09-20T11:15:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2024-09-20T11:00:00+00:00"
+                    },
+                    {
+                        "end": "2024-09-20T11:15:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2024-09-20T11:00:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-09-21T07:35:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-09-21T07:05:00+00:00"
+                    },
+                    {
+                        "end": "2024-09-22T07:55:00+00:00",
+                        "name": "Race 2",
+                        "start": "2024-09-22T07:35:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Lusail",
+                "country": null,
+                "name": "Lusail International Circuit",
+                "search": [
+                    "doha",
+                    "doha circuit",
+                    "doha international circuit",
+                    "lusail",
+                    "lusail circuit",
+                    "lusail international circuit",
+                    "qatar"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "wec"
+                ]
+            },
+            "full_name": "Qatar",
+            "id": "qatar",
+            "name": "Qatar",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-11-29T10:40:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2024-11-29T10:00:00+00:00"
+                    },
+                    {
+                        "end": "2024-11-29T15:40:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "2024-11-29T15:00:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-11-30T12:35:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2024-11-30T12:20:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-11-30T20:35:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-11-30T20:05:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Abu Dhabi",
+                "country": null,
+                "name": "Yas Marina Circuit",
+                "search": [
+                    "yas marina",
+                    "yas marina circuit",
+                    "yas marina race track",
+                    "gulf"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "alms",
+                    "igtc"
+                ]
+            },
+            "full_name": "Abu Dhabi",
+            "id": "abu-dhabi",
+            "name": "Abu Dhabi",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-12-06T06:30:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2024-12-06T05:50:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-12-06T14:50:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2024-12-06T14:35:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-12-07T08:45:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-12-07T08:15:00+00:00"
+                    },
+                    {
+                        "end": "2024-12-07T16:35:00+00:00",
+                        "name": "Race 2",
+                        "start": "2024-12-07T16:15:00+00:00"
+                    },
+                    {
+                        "end": "2024-12-08T07:45:00+00:00",
+                        "name": "Race 3",
+                        "start": "2024-12-08T07:15:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Shanghai",
+                "country": null,
+                "name": "Shanghai International Circuit",
+                "search": [
+                    "shanghai",
+                    "shanghai international circuit",
+                    "shanghai circuit"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "fe",
+                    "gtwcas"
+                ]
+            },
+            "full_name": "Chinese",
+            "id": "chinese",
+            "name": "Chinese",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2025-03-21T01:50:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2025-03-21T01:10:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2025-03-21T06:20:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2025-03-21T06:05:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2025-03-22T06:20:00+00:00",
+                        "name": "Race 1",
+                        "start": "2025-03-22T05:50:00+00:00"
+                    },
+                    {
+                        "end": "2025-03-23T03:05:00+00:00",
+                        "name": "Race 2",
+                        "start": "2025-03-23T02:45:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Jeddah",
+                "country": null,
+                "name": "Jeddah Corniche Street Circuit",
+                "search": [
+                    "jeddah",
+                    "jeddah street circuit",
+                    "jeddah corniche street circuit",
+                    "jeddah corniche"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt4_europe",
+                    "fe",
+                    "gtwce"
+                ]
+            },
+            "full_name": "Jeddah",
+            "id": "jeddah",
+            "name": "Jeddah",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2025-04-18T11:45:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2025-04-18T11:05:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2025-04-18T18:45:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2025-04-18T18:30:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2025-04-19T12:50:00+00:00",
+                        "name": "Race 1",
+                        "start": "2025-04-19T12:20:00+00:00"
+                    },
+                    {
+                        "end": "2025-04-20T12:25:00+00:00",
+                        "name": "Race 2",
+                        "start": "2025-04-20T12:05:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Miami",
+                "country": null,
+                "name": "Miami Autodrome",
+                "search": [
+                    "miami",
+                    "miami autodrome",
+                    "usa"
+                ],
+                "series": [
+                    "f1",
+                    "f1-academy",
+                    "fe"
+                ]
+            },
+            "full_name": "Miami",
+            "id": "miami",
+            "name": "Miami",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2025-05-02T14:45:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2025-05-02T14:05:00+00:00"
+                    },
+                    {
+                        "end": "2025-05-02T20:00:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "2025-05-02T19:20:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2025-05-03T14:40:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2025-05-03T14:25:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2025-05-03T19:40:00+00:00",
+                        "name": "Race 1",
+                        "start": "2025-05-03T19:10:00+00:00"
+                    },
+                    {
+                        "end": "2025-05-04T17:25:00+00:00",
+                        "name": "Race 2",
+                        "start": "2025-05-04T17:05:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Montreal",
+                "country": null,
+                "name": "Circuit Gilles Villeneuve",
+                "search": [
+                    "montreal",
+                    "gilles villeneuve",
+                    "circuit gilles villeneuve",
+                    "villeneuve",
+                    "gilles villeneuve circuit",
+                    "villeneuve circuit",
+                    "montreal circuit",
+                    "circuit de montreal"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy"
+                ]
+            },
+            "full_name": "Canadian",
+            "id": "canadian",
+            "name": "Canadian",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2025-06-13T15:45:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2025-06-13T15:05:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2025-06-13T22:45:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2025-06-13T22:30:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2025-06-14T13:45:00+00:00",
+                        "name": "Race 1",
+                        "start": "2025-06-14T13:15:00+00:00"
+                    },
+                    {
+                        "end": "2025-06-14T19:10:00+00:00",
+                        "name": "Race 2",
+                        "start": "2025-06-14T18:50:00+00:00"
+                    },
+                    {
+                        "end": "2025-06-15T15:25:00+00:00",
+                        "name": "Race 3",
+                        "start": "2025-06-15T14:55:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Zandvoort",
+                "country": null,
+                "name": "Zandvoort Circuit",
+                "search": [
+                    "zandvoort",
+                    "zandvoort circuit",
+                    "netherlands"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "gt2_europe",
+                    "gt4_europe",
+                    "gtwce"
+                ]
+            },
+            "full_name": "Zandvoort",
+            "id": "zandvoort",
+            "name": "Zandvoort",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2025-08-29T09:50:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2025-08-29T09:10:00+00:00"
+                    },
+                    {
+                        "end": "2025-08-29T17:10:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "2025-08-29T16:30:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2025-08-30T09:40:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2025-08-30T09:25:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2025-08-30T16:35:00+00:00",
+                        "name": "Race 1",
+                        "start": "2025-08-30T16:05:00+00:00"
+                    },
+                    {
+                        "end": "2025-08-31T10:00:00+00:00",
+                        "name": "Race 2",
+                        "start": "2025-08-31T09:40:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": "Marina Bay Street Circuit",
+                "search": [
+                    "marina bay street circuit",
+                    "marina bay",
+                    "singapore street circuit",
+                    "singapore"
+                ],
+                "series": [
+                    "f1",
+                    "f1-academy"
+                ]
+            },
+            "full_name": "Singapore",
+            "id": "singapore",
+            "name": "Singapore",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2025-10-03T14:36:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2025-10-03T13:56:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2025-10-03T14:15:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2025-10-03T14:00:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2025-10-04T14:26:00+00:00",
+                        "name": "Race 1",
+                        "start": "2025-10-04T13:56:00+00:00"
+                    },
+                    {
+                        "end": "2025-10-05T14:17:00+00:00",
+                        "name": "Race 2",
+                        "start": "2025-10-05T13:57:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Las Vegas",
+                "country": null,
+                "name": "Las Vegas Street Circuit",
+                "search": [
+                    "las vegas",
+                    "las vegas street circuit"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy"
+                ]
+            },
+            "full_name": "Las Vegas",
+            "id": "las-vegas",
+            "name": "Las Vegas",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2025-11-20T14:37:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "2025-11-20T13:57:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2025-11-20T14:14:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2025-11-20T13:59:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2025-11-21T14:28:00+00:00",
+                        "name": "Race 1",
+                        "start": "2025-11-21T13:58:00+00:00"
+                    },
+                    {
+                        "end": "2025-11-22T14:18:00+00:00",
+                        "name": "Race 2",
+                        "start": "2025-11-22T13:58:00+00:00"
+                    }
+                ]
+            }
+        }
+    ],
+    "full_name": "F1 Academy",
+    "generated_by": "Two Seconds Ted: The Motorsport Calendar",
+    "gov_body": "FIA",
+    "last_scraped": "2025-07-26T09:36:07.623096+00:00",
+    "name": "F1A",
+    "source": "https://github.com/sportstimes/f1",
+    "version": "0.6.5"
+}

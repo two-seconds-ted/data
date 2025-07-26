@@ -1,1 +1,372 @@
-{"events": [{"id": "", "name": "Roar Before The Rolex 24", "full_name": "Roar Before The Rolex 24", "circuit": {"name": "Daytona International Speedway", "search": ["daytona international speedway", "daytona", "daytona road course"], "city": "Daytona Beach", "country": "USA", "series": ["iwsc", "isc", "impc", "mx5_cup"]}, "sessions": {"p": [{"name": "Practice 1", "start": "2025-01-17T13:35:00+00:00", "end": "2025-01-17T14:15:00+00:00"}, {"name": "Practice 2", "start": "2025-01-17T22:20:00+00:00", "end": "2025-01-17T23:00:00+00:00"}], "q": [{"name": "Qualifying", "start": "2025-01-18T13:40:00+00:00", "end": "2025-01-18T14:15:00+00:00"}], "r": [{"name": "Race 1 of 2", "start": "2025-01-18T19:00:00+00:00", "end": "2025-01-18T19:45:00+00:00"}, {"name": "Race 2 of 2", "start": "2025-01-19T18:20:00+00:00", "end": "2025-01-19T19:05:00+00:00"}]}}, {"id": "2025-circuit-of-the-americas-2", "name": "Circuit of The Americas", "full_name": "Circuit of The Americas", "circuit": {"name": "Circuit of the Americas", "search": ["circuit of the americas", "cota", "austin", "texas"], "city": "Austin", "country": null, "series": ["f1", "f2", "f3", "f1-academy", "iwsc", "isc", "impc", "mx5_cup", "tc_america", "gt4_america", "gr_cup", "gt2_europe", "gtwcam", "elms", "gt_america", "indycar"]}, "sessions": {"p": [{"name": "Practice 1", "start": "2025-02-28T18:00:00+00:00", "end": "2025-02-28T18:40:00+00:00"}, {"name": "Practice 2", "start": "2025-02-28T20:00:00+00:00", "end": "2025-02-28T20:40:00+00:00"}], "q": [{"name": "Qualifying", "start": "2025-03-01T00:30:00+00:00", "end": "2025-03-01T01:05:00+00:00"}], "r": [{"name": "Race 1 of 2", "start": "2025-03-01T14:40:00+00:00", "end": "2025-03-01T15:25:00+00:00"}, {"name": "Race 2 of 2", "start": "2025-03-01T23:00:00+00:00", "end": "2025-03-01T23:45:00+00:00"}]}}, {"id": "2025-mid-ohio-sports-car-course", "name": "Mid-Ohio Sports Car Course", "full_name": "Mid-Ohio Sports Car Course", "circuit": {"name": "Mid-Ohio Sports Car Course", "search": ["mid-ohio sports car course", "mid-ohio", "mid ohio", "mid ohio sports car course"], "city": "Lexington", "country": null, "series": ["iwsc", "isc", "impc", "mx5_cup", "indycar", "gt4_america", "gtwcam", "tc_america"]}, "sessions": {"p": [{"name": "Practice 1", "start": "2025-06-06T14:20:00+00:00", "end": "2025-06-06T15:00:00+00:00"}, {"name": "Practice 2", "start": "2025-06-06T17:00:00+00:00", "end": "2025-06-06T17:40:00+00:00"}], "q": [{"name": "Qualifying", "start": "2025-06-07T13:30:00+00:00", "end": "2025-06-07T14:05:00+00:00"}], "r": [{"name": "Race 1 of 2", "start": "2025-06-07T18:00:00+00:00", "end": "2025-06-07T18:45:00+00:00"}, {"name": "Race 2 of 2", "start": "2025-06-08T13:00:00+00:00", "end": "2025-06-08T13:45:00+00:00"}]}}, {"id": "2025-chevrolet-grand-prix", "name": "Canadian Tire Motorsport Park", "full_name": "Canadian Tire Motorsport Park", "circuit": {"name": "Canadian Tire Motorsport Park", "short_name": "ctmp", "search": ["canadian tire motorsport park", "canadian tire park", "canadian tire raceway", "canadian tire circuit", "ctmp", "mosport"], "city": "Bowmanville", "country": "Canada", "series": ["iwsc", "isc", "impc", "mx5_cup", "gt4_america", "gtwcam", "tc_america"]}, "sessions": {"p": [{"name": "Practice 1", "start": "2025-07-11T12:25:00+00:00", "end": "2025-07-11T13:05:00+00:00"}, {"name": "Practice 2", "start": "2025-07-11T16:15:00+00:00", "end": "2025-07-11T16:55:00+00:00"}], "q": [{"name": "Qualifying", "start": "2025-07-11T19:45:00+00:00", "end": "2025-07-11T20:20:00+00:00"}], "r": [{"name": "Race 1 of 2", "start": "2025-07-12T12:50:00+00:00", "end": "2025-07-12T13:35:00+00:00"}]}}, {"id": "2025-michelin-gt-challenge-at-vir", "name": "VIRginia International Raceway", "full_name": "VIRginia International Raceway", "circuit": {"name": "VIRginia International Raceway", "search": ["virginia international raceway", "vir", "virginia international", "virginia raceway", "virginia int’l raceway"], "city": "Alton", "country": "USA", "series": ["iwsc", "isc", "impc", "mx5_cup", "tc_america", "gt4_america", "gr_cup", "gt2_europe", "gtwcam", "gt_america"]}, "sessions": {"p": [{"name": "Practice 1", "start": "2025-08-22T12:00:00+00:00", "end": "2025-08-22T12:40:00+00:00"}, {"name": "Practice 2", "start": "2025-08-22T16:25:00+00:00", "end": "2025-08-22T17:05:00+00:00"}], "q": [{"name": "Qualifying", "start": "2025-08-22T22:00:00+00:00", "end": "2025-08-22T22:35:00+00:00"}], "r": [{"name": "Race 1 of 2", "start": "2025-08-23T16:25:00+00:00", "end": "2025-08-23T17:10:00+00:00"}, {"name": "Race 2 of 2", "start": "2025-08-24T13:35:00+00:00", "end": "2025-08-24T14:20:00+00:00"}]}}, {"id": "2025-motul-petit-le-mans", "name": "Michelin Raceway Road Atlanta", "full_name": "Michelin Raceway Road Atlanta", "circuit": {"name": "Michelin Raceway Road Atlanta", "search": ["michelin raceway road atlanta", "road atlanta", "atlanta", "michelin raceway", "petit le mans"], "city": "Braselton", "country": "USA", "series": ["iwsc", "isc", "impc", "mx5_cup", "elms"]}, "sessions": {"p": [{"name": "Practice 1", "start": "2025-10-08T13:15:00+00:00", "end": "2025-10-08T13:55:00+00:00"}, {"name": "Practice 2", "start": "2025-10-08T17:50:00+00:00", "end": "2025-10-08T18:30:00+00:00"}], "q": [{"name": "Qualifying", "start": "2025-10-08T20:25:00+00:00", "end": "2025-10-08T21:00:00+00:00"}], "r": [{"name": "Race 1 of 2", "start": "2025-10-09T17:05:00+00:00", "end": "2025-10-09T17:50:00+00:00"}, {"name": "Race 2 of 2", "start": "2025-10-10T12:30:00+00:00", "end": "2025-10-10T13:15:00+00:00"}]}}], "color": "turquoise", "last_scraped": "2025-07-25T18:59:22.395131+00:00", "full_name": "IMSA VP Racing SportsCar Challenge", "name": "ISC", "category": "Sports Car", "gov_body": "IMSA", "source": "https://www.imsa.com/vpracingsportscarchallenge/", "version": "0.6.4", "generated_by": "Two Seconds Ted: The Motorsport Calendar", "classes": ["LMP3", "GT3"]}
+{
+    "events": [
+        {
+            "id": "",
+            "name": "Roar Before The Rolex 24",
+            "full_name": "Roar Before The Rolex 24",
+            "circuit": {
+                "name": "Daytona International Speedway",
+                "search": [
+                    "daytona international speedway",
+                    "daytona",
+                    "daytona road course"
+                ],
+                "city": "Daytona Beach",
+                "country": "USA",
+                "series": [
+                    "iwsc",
+                    "isc",
+                    "impc",
+                    "mx5_cup"
+                ]
+            },
+            "sessions": {
+                "p": [
+                    {
+                        "name": "Practice 1",
+                        "start": "2025-01-17T13:35:00+00:00",
+                        "end": "2025-01-17T14:15:00+00:00"
+                    },
+                    {
+                        "name": "Practice 2",
+                        "start": "2025-01-17T22:20:00+00:00",
+                        "end": "2025-01-17T23:00:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "name": "Qualifying",
+                        "start": "2025-01-18T13:40:00+00:00",
+                        "end": "2025-01-18T14:15:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "name": "Race 1 of 2",
+                        "start": "2025-01-18T19:00:00+00:00",
+                        "end": "2025-01-18T19:45:00+00:00"
+                    },
+                    {
+                        "name": "Race 2 of 2",
+                        "start": "2025-01-19T18:20:00+00:00",
+                        "end": "2025-01-19T19:05:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "2025-circuit-of-the-americas-2",
+            "name": "Circuit of The Americas",
+            "full_name": "Circuit of The Americas",
+            "circuit": {
+                "name": "Circuit of the Americas",
+                "search": [
+                    "circuit of the americas",
+                    "cota",
+                    "austin",
+                    "texas"
+                ],
+                "city": "Austin",
+                "country": null,
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "iwsc",
+                    "isc",
+                    "impc",
+                    "mx5_cup",
+                    "tc_america",
+                    "gt4_america",
+                    "gr_cup",
+                    "gt2_europe",
+                    "gtwcam",
+                    "elms",
+                    "gt_america",
+                    "indycar"
+                ]
+            },
+            "sessions": {
+                "p": [
+                    {
+                        "name": "Practice 1",
+                        "start": "2025-02-28T18:00:00+00:00",
+                        "end": "2025-02-28T18:40:00+00:00"
+                    },
+                    {
+                        "name": "Practice 2",
+                        "start": "2025-02-28T20:00:00+00:00",
+                        "end": "2025-02-28T20:40:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "name": "Qualifying",
+                        "start": "2025-03-01T00:30:00+00:00",
+                        "end": "2025-03-01T01:05:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "name": "Race 1 of 2",
+                        "start": "2025-03-01T14:40:00+00:00",
+                        "end": "2025-03-01T15:25:00+00:00"
+                    },
+                    {
+                        "name": "Race 2 of 2",
+                        "start": "2025-03-01T23:00:00+00:00",
+                        "end": "2025-03-01T23:45:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "2025-mid-ohio-sports-car-course",
+            "name": "Mid-Ohio Sports Car Course",
+            "full_name": "Mid-Ohio Sports Car Course",
+            "circuit": {
+                "name": "Mid-Ohio Sports Car Course",
+                "search": [
+                    "mid-ohio sports car course",
+                    "mid-ohio",
+                    "mid ohio",
+                    "mid ohio sports car course"
+                ],
+                "city": "Lexington",
+                "country": null,
+                "series": [
+                    "iwsc",
+                    "isc",
+                    "impc",
+                    "mx5_cup",
+                    "indycar",
+                    "gt4_america",
+                    "gtwcam",
+                    "tc_america"
+                ]
+            },
+            "sessions": {
+                "p": [
+                    {
+                        "name": "Practice 1",
+                        "start": "2025-06-06T14:20:00+00:00",
+                        "end": "2025-06-06T15:00:00+00:00"
+                    },
+                    {
+                        "name": "Practice 2",
+                        "start": "2025-06-06T17:00:00+00:00",
+                        "end": "2025-06-06T17:40:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "name": "Qualifying",
+                        "start": "2025-06-07T13:30:00+00:00",
+                        "end": "2025-06-07T14:05:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "name": "Race 1 of 2",
+                        "start": "2025-06-07T18:00:00+00:00",
+                        "end": "2025-06-07T18:45:00+00:00"
+                    },
+                    {
+                        "name": "Race 2 of 2",
+                        "start": "2025-06-08T13:00:00+00:00",
+                        "end": "2025-06-08T13:45:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "2025-chevrolet-grand-prix",
+            "name": "Canadian Tire Motorsport Park",
+            "full_name": "Canadian Tire Motorsport Park",
+            "circuit": {
+                "name": "Canadian Tire Motorsport Park",
+                "short_name": "ctmp",
+                "search": [
+                    "canadian tire motorsport park",
+                    "canadian tire park",
+                    "canadian tire raceway",
+                    "canadian tire circuit",
+                    "ctmp",
+                    "mosport"
+                ],
+                "city": "Bowmanville",
+                "country": "Canada",
+                "series": [
+                    "iwsc",
+                    "isc",
+                    "impc",
+                    "mx5_cup",
+                    "gt4_america",
+                    "gtwcam",
+                    "tc_america"
+                ]
+            },
+            "sessions": {
+                "p": [
+                    {
+                        "name": "Practice 1",
+                        "start": "2025-07-11T12:25:00+00:00",
+                        "end": "2025-07-11T13:05:00+00:00"
+                    },
+                    {
+                        "name": "Practice 2",
+                        "start": "2025-07-11T16:15:00+00:00",
+                        "end": "2025-07-11T16:55:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "name": "Qualifying",
+                        "start": "2025-07-11T19:45:00+00:00",
+                        "end": "2025-07-11T20:20:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "name": "Race 1 of 2",
+                        "start": "2025-07-12T12:50:00+00:00",
+                        "end": "2025-07-12T13:35:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "2025-michelin-gt-challenge-at-vir",
+            "name": "VIRginia International Raceway",
+            "full_name": "VIRginia International Raceway",
+            "circuit": {
+                "name": "VIRginia International Raceway",
+                "search": [
+                    "virginia international raceway",
+                    "vir",
+                    "virginia international",
+                    "virginia raceway",
+                    "virginia int’l raceway"
+                ],
+                "city": "Alton",
+                "country": "USA",
+                "series": [
+                    "iwsc",
+                    "isc",
+                    "impc",
+                    "mx5_cup",
+                    "tc_america",
+                    "gt4_america",
+                    "gr_cup",
+                    "gt2_europe",
+                    "gtwcam",
+                    "gt_america"
+                ]
+            },
+            "sessions": {
+                "p": [
+                    {
+                        "name": "Practice 1",
+                        "start": "2025-08-22T12:00:00+00:00",
+                        "end": "2025-08-22T12:40:00+00:00"
+                    },
+                    {
+                        "name": "Practice 2",
+                        "start": "2025-08-22T16:25:00+00:00",
+                        "end": "2025-08-22T17:05:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "name": "Qualifying",
+                        "start": "2025-08-22T22:00:00+00:00",
+                        "end": "2025-08-22T22:35:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "name": "Race 1 of 2",
+                        "start": "2025-08-23T16:25:00+00:00",
+                        "end": "2025-08-23T17:10:00+00:00"
+                    },
+                    {
+                        "name": "Race 2 of 2",
+                        "start": "2025-08-24T13:35:00+00:00",
+                        "end": "2025-08-24T14:20:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "2025-motul-petit-le-mans",
+            "name": "Michelin Raceway Road Atlanta",
+            "full_name": "Michelin Raceway Road Atlanta",
+            "circuit": {
+                "name": "Michelin Raceway Road Atlanta",
+                "search": [
+                    "michelin raceway road atlanta",
+                    "road atlanta",
+                    "atlanta",
+                    "michelin raceway",
+                    "petit le mans"
+                ],
+                "city": "Braselton",
+                "country": "USA",
+                "series": [
+                    "iwsc",
+                    "isc",
+                    "impc",
+                    "mx5_cup",
+                    "elms"
+                ]
+            },
+            "sessions": {
+                "p": [
+                    {
+                        "name": "Practice 1",
+                        "start": "2025-10-08T13:15:00+00:00",
+                        "end": "2025-10-08T13:55:00+00:00"
+                    },
+                    {
+                        "name": "Practice 2",
+                        "start": "2025-10-08T17:50:00+00:00",
+                        "end": "2025-10-08T18:30:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "name": "Qualifying",
+                        "start": "2025-10-08T20:25:00+00:00",
+                        "end": "2025-10-08T21:00:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "name": "Race 1 of 2",
+                        "start": "2025-10-09T17:05:00+00:00",
+                        "end": "2025-10-09T17:50:00+00:00"
+                    },
+                    {
+                        "name": "Race 2 of 2",
+                        "start": "2025-10-10T12:30:00+00:00",
+                        "end": "2025-10-10T13:15:00+00:00"
+                    }
+                ]
+            }
+        }
+    ],
+    "color": "turquoise",
+    "last_scraped": "2025-07-25T18:59:22.395131+00:00",
+    "full_name": "IMSA VP Racing SportsCar Challenge",
+    "name": "ISC",
+    "category": "Sports Car",
+    "gov_body": "IMSA",
+    "source": "https://www.imsa.com/vpracingsportscarchallenge/",
+    "version": "0.6.4",
+    "generated_by": "Two Seconds Ted: The Motorsport Calendar",
+    "classes": [
+        "LMP3",
+        "GT3"
+    ]
+}

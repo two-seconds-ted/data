@@ -1,1 +1,426 @@
-{"events": [{"id": 1, "name": "スポーツランドSUGO", "full_name": "スポーツランドSUGO", "circuit": {"name": "Sportsland SUGO", "search": ["sportsland sugo", "スポーツランドsugo"], "city": "Murata", "country": "Japan", "series": ["japan_cup", "gtwcas"]}, "sessions": {"p": [{"name": "公式有料テスト／Official Paid Test", "start": "2025-06-13T01:30:00+00:00", "end": "2025-06-13T02:30:00+00:00"}, {"name": "公式プラクティス／Official Practice", "start": "2025-06-13T06:15:00+00:00", "end": "2025-06-13T07:15:00+00:00"}, {"name": "ブロンズセッション／Bronze session", "start": "2025-06-13T07:20:00+00:00", "end": "2025-06-13T08:20:00+00:00"}], "q": [{"name": "予備予選／Pre-Qualifying", "start": "2025-06-14T01:30:00+00:00", "end": "2025-06-14T02:00:00+00:00"}, {"name": "予選 1／Qualifying 1", "start": "2025-06-14T06:00:00+00:00", "end": "2025-06-14T06:30:00+00:00"}, {"name": "予選 2／Qualifying 2", "start": "2025-06-14T06:22:00+00:00", "end": "2025-06-14T06:52:00+00:00"}], "r": [{"name": "レース 1／Race 1", "start": "2025-06-15T01:30:00+00:00", "end": "2025-06-15T03:30:00+00:00"}, {"name": "レース 2／Race 2", "start": "2025-06-15T06:15:00+00:00", "end": "2025-06-15T08:15:00+00:00"}]}}, {"id": 2, "name": "Sportsland SUGO", "full_name": "Sportsland SUGO", "circuit": {"name": "Sportsland SUGO", "search": ["sportsland sugo", "スポーツランドsugo"], "city": "Murata", "country": "Japan", "series": ["japan_cup", "gtwcas"]}, "sessions": {"p": [{"name": "公式有料テスト／Official Paid Test", "start": "2024-06-07T01:45:00+00:00", "end": "2024-06-07T02:45:00+00:00"}, {"name": "Official Practice 1", "start": "2024-06-07T06:45:00+00:00", "end": "2024-06-07T07:45:00+00:00"}, {"name": "Official Practice 2", "start": "2024-06-08T01:30:00+00:00", "end": "2024-06-08T02:30:00+00:00"}, {"name": "ブロンズセッション／Bronze session", "start": "2024-06-08T02:40:00+00:00", "end": "2024-06-08T03:40:00+00:00"}], "q": [{"name": "予選 1／Qualifying 1", "start": "2024-06-08T06:00:00+00:00", "end": "2024-06-08T06:30:00+00:00"}, {"name": "予選 2／Qualifying 2", "start": "2024-06-08T06:22:00+00:00", "end": "2024-06-08T06:52:00+00:00"}], "r": [{"name": "レース 1／Race 1", "start": "2024-06-09T01:30:00+00:00", "end": "2024-06-09T03:30:00+00:00"}, {"name": "レース 2／Race 2", "start": "2024-06-09T06:15:00+00:00", "end": "2024-06-09T08:15:00+00:00"}]}}, {"id": 4, "name": "富士スピードウェイ", "full_name": "富士スピードウェイ", "circuit": {"name": "富士スピードウェイ", "search": ["富士スピードウェイ"], "city": null, "country": null, "series": ["japan_cup"], "lat": 0, "lon": 0}, "sessions": {"p": [{"name": "公式有料テスト／Official Paid Test", "start": "2025-07-10T00:00:00+00:00", "end": "2025-07-10T01:00:00+00:00"}, {"name": "公式プラクティス／Official Practice", "start": "2025-07-11T00:25:00+00:00", "end": "2025-07-11T01:25:00+00:00"}, {"name": "ブロンズセッション／Bronze session", "start": "2025-07-11T01:30:00+00:00", "end": "2025-07-11T02:30:00+00:00"}], "q": [{"name": "予備予選／Pre-Qualifying", "start": "2025-07-11T05:40:00+00:00", "end": "2025-07-11T06:10:00+00:00"}, {"name": "予選 1／Qualifying 1", "start": "2025-07-12T00:27:00+00:00", "end": "2025-07-12T00:57:00+00:00"}, {"name": "予選 2／Qualifying 2", "start": "2025-07-12T00:49:00+00:00", "end": "2025-07-12T01:19:00+00:00"}], "r": [{"name": "レース 1／Race 1", "start": "2025-07-12T07:05:00+00:00", "end": "2025-07-12T09:05:00+00:00"}, {"name": "レース 2／Race 2", "start": "2025-07-13T05:50:00+00:00", "end": "2025-07-13T07:50:00+00:00"}]}}, {"id": 7, "name": "Fuji International Speedway", "full_name": "Fuji International Speedway", "circuit": {"name": "Fuji International Speedway", "search": ["fuji international speedway", "fuji speedway", "fuji"], "city": "Fuji", "country": "Japan", "series": ["japan_cup", "gtwcas", "wec"]}, "sessions": {"p": [{"name": "公式有料テスト／Official Paid Test", "start": "2024-06-20T00:00:00+00:00", "end": "2024-06-20T01:00:00+00:00"}, {"name": "Official Practice 1", "start": "2024-06-21T00:50:00+00:00", "end": "2024-06-21T01:50:00+00:00"}, {"name": "Official Practice 2", "start": "2024-06-21T04:50:00+00:00", "end": "2024-06-21T05:50:00+00:00"}, {"name": "ブロンズセッション／Bronze session", "start": "2024-06-21T05:55:00+00:00", "end": "2024-06-21T06:55:00+00:00"}], "q": [{"name": "予選 1／Qualifying 1", "start": "2024-06-22T00:52:00+00:00", "end": "2024-06-22T01:22:00+00:00"}, {"name": "予選 2／Qualifying 2", "start": "2024-06-22T01:14:00+00:00", "end": "2024-06-22T01:44:00+00:00"}], "r": [{"name": "レース 1／Race 1", "start": "2024-06-22T06:30:00+00:00", "end": "2024-06-22T08:30:00+00:00"}, {"name": "レース 2／Race 2", "start": "2024-06-23T05:15:00+00:00", "end": "2024-06-23T07:15:00+00:00"}]}}, {"id": 8, "name": "Suzuka International Circuit", "full_name": "Suzuka International Circuit", "circuit": {"name": "Suzuka International Racing Course", "search": ["suzuka", "suzuka circuit", "suzuka international racing course", "suzuka race track", "suzuka international circuit"], "city": "Suzuka", "country": null, "series": ["f1", "f2", "f3", "f1-academy", "japan_cup", "igtc", "gtwcas"]}, "sessions": {"p": [{"name": "公式有料テスト／Official Paid Test", "start": "2024-07-04T01:00:00+00:00", "end": "2024-07-04T02:00:00+00:00"}, {"name": "Official Practice 1", "start": "2024-07-05T00:45:00+00:00", "end": "2024-07-05T01:45:00+00:00"}, {"name": "Official Practice 2", "start": "2024-07-05T05:00:00+00:00", "end": "2024-07-05T06:00:00+00:00"}, {"name": "ブロンズセッション／Bronze session", "start": "2024-07-05T06:35:00+00:00", "end": "2024-07-05T07:35:00+00:00"}], "q": [{"name": "予選 1／Qualifying 1", "start": "2024-07-06T01:20:00+00:00", "end": "2024-07-06T01:50:00+00:00"}, {"name": "予選 2／Qualifying 2", "start": "2024-07-06T01:42:00+00:00", "end": "2024-07-06T02:12:00+00:00"}], "r": [{"name": "レース 1／Race 1", "start": "2024-07-06T05:55:00+00:00", "end": "2024-07-06T07:55:00+00:00"}, {"name": "レース 2／Race 2", "start": "2024-07-07T05:10:00+00:00", "end": "2024-07-07T07:10:00+00:00"}]}}, {"id": 9, "name": "Okayama International Circuit", "full_name": "Okayama International Circuit", "circuit": {"name": "Okayama International Circuit", "search": ["okayama international circuit"], "city": "Okayama", "country": "Japan", "series": ["japan_cup", "gtwcas"]}, "sessions": {"p": [{"name": "Official Paid Test 1", "start": "2024-08-22T01:00:00+00:00", "end": "2024-08-22T02:00:00+00:00"}, {"name": "Official Paid Test 2", "start": "2024-08-22T03:00:00+00:00", "end": "2024-08-22T04:00:00+00:00"}, {"name": "Official Practice 1", "start": "2024-08-23T00:15:00+00:00", "end": "2024-08-23T01:15:00+00:00"}, {"name": "Official Practice 2", "start": "2024-08-23T04:15:00+00:00", "end": "2024-08-23T05:15:00+00:00"}, {"name": "ブロンズセッション／Bronze session", "start": "2024-08-23T05:23:00+00:00", "end": "2024-08-23T06:23:00+00:00"}], "q": [{"name": "予選 1／Qualifying 1", "start": "2024-08-24T00:55:00+00:00", "end": "2024-08-24T01:25:00+00:00"}, {"name": "予選 2／Qualifying 2", "start": "2024-08-24T01:17:00+00:00", "end": "2024-08-24T01:47:00+00:00"}], "r": [{"name": "レース 1／Race 1", "start": "2024-08-24T06:55:00+00:00", "end": "2024-08-24T08:55:00+00:00"}, {"name": "レース 2／Race 2", "start": "2024-08-25T04:20:00+00:00", "end": "2024-08-25T06:20:00+00:00"}]}}], "color": "crimson", "last_scraped": "2025-07-25T18:59:35.270907+00:00", "full_name": "Japan Cup", "name": "Japan Cup", "category": "Sports Car", "gov_body": "SRO", "source": "https://japancup.co/event", "version": "0.6.4", "generated_by": "Two Seconds Ted: The Motorsport Calendar", "classes": ["GT3"]}
+{
+    "events": [
+        {
+            "id": 1,
+            "name": "スポーツランドSUGO",
+            "full_name": "スポーツランドSUGO",
+            "circuit": {
+                "name": "Sportsland SUGO",
+                "search": [
+                    "sportsland sugo",
+                    "スポーツランドsugo"
+                ],
+                "city": "Murata",
+                "country": "Japan",
+                "series": [
+                    "japan_cup",
+                    "gtwcas"
+                ]
+            },
+            "sessions": {
+                "p": [
+                    {
+                        "name": "公式有料テスト／Official Paid Test",
+                        "start": "2025-06-13T01:30:00+00:00",
+                        "end": "2025-06-13T02:30:00+00:00"
+                    },
+                    {
+                        "name": "公式プラクティス／Official Practice",
+                        "start": "2025-06-13T06:15:00+00:00",
+                        "end": "2025-06-13T07:15:00+00:00"
+                    },
+                    {
+                        "name": "ブロンズセッション／Bronze session",
+                        "start": "2025-06-13T07:20:00+00:00",
+                        "end": "2025-06-13T08:20:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "name": "予備予選／Pre-Qualifying",
+                        "start": "2025-06-14T01:30:00+00:00",
+                        "end": "2025-06-14T02:00:00+00:00"
+                    },
+                    {
+                        "name": "予選 1／Qualifying 1",
+                        "start": "2025-06-14T06:00:00+00:00",
+                        "end": "2025-06-14T06:30:00+00:00"
+                    },
+                    {
+                        "name": "予選 2／Qualifying 2",
+                        "start": "2025-06-14T06:22:00+00:00",
+                        "end": "2025-06-14T06:52:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "name": "レース 1／Race 1",
+                        "start": "2025-06-15T01:30:00+00:00",
+                        "end": "2025-06-15T03:30:00+00:00"
+                    },
+                    {
+                        "name": "レース 2／Race 2",
+                        "start": "2025-06-15T06:15:00+00:00",
+                        "end": "2025-06-15T08:15:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "name": "Sportsland SUGO",
+            "full_name": "Sportsland SUGO",
+            "circuit": {
+                "name": "Sportsland SUGO",
+                "search": [
+                    "sportsland sugo",
+                    "スポーツランドsugo"
+                ],
+                "city": "Murata",
+                "country": "Japan",
+                "series": [
+                    "japan_cup",
+                    "gtwcas"
+                ]
+            },
+            "sessions": {
+                "p": [
+                    {
+                        "name": "公式有料テスト／Official Paid Test",
+                        "start": "2024-06-07T01:45:00+00:00",
+                        "end": "2024-06-07T02:45:00+00:00"
+                    },
+                    {
+                        "name": "Official Practice 1",
+                        "start": "2024-06-07T06:45:00+00:00",
+                        "end": "2024-06-07T07:45:00+00:00"
+                    },
+                    {
+                        "name": "Official Practice 2",
+                        "start": "2024-06-08T01:30:00+00:00",
+                        "end": "2024-06-08T02:30:00+00:00"
+                    },
+                    {
+                        "name": "ブロンズセッション／Bronze session",
+                        "start": "2024-06-08T02:40:00+00:00",
+                        "end": "2024-06-08T03:40:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "name": "予選 1／Qualifying 1",
+                        "start": "2024-06-08T06:00:00+00:00",
+                        "end": "2024-06-08T06:30:00+00:00"
+                    },
+                    {
+                        "name": "予選 2／Qualifying 2",
+                        "start": "2024-06-08T06:22:00+00:00",
+                        "end": "2024-06-08T06:52:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "name": "レース 1／Race 1",
+                        "start": "2024-06-09T01:30:00+00:00",
+                        "end": "2024-06-09T03:30:00+00:00"
+                    },
+                    {
+                        "name": "レース 2／Race 2",
+                        "start": "2024-06-09T06:15:00+00:00",
+                        "end": "2024-06-09T08:15:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "name": "富士スピードウェイ",
+            "full_name": "富士スピードウェイ",
+            "circuit": {
+                "name": "富士スピードウェイ",
+                "search": [
+                    "富士スピードウェイ"
+                ],
+                "city": null,
+                "country": null,
+                "series": [
+                    "japan_cup"
+                ],
+                "lat": 0,
+                "lon": 0
+            },
+            "sessions": {
+                "p": [
+                    {
+                        "name": "公式有料テスト／Official Paid Test",
+                        "start": "2025-07-10T00:00:00+00:00",
+                        "end": "2025-07-10T01:00:00+00:00"
+                    },
+                    {
+                        "name": "公式プラクティス／Official Practice",
+                        "start": "2025-07-11T00:25:00+00:00",
+                        "end": "2025-07-11T01:25:00+00:00"
+                    },
+                    {
+                        "name": "ブロンズセッション／Bronze session",
+                        "start": "2025-07-11T01:30:00+00:00",
+                        "end": "2025-07-11T02:30:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "name": "予備予選／Pre-Qualifying",
+                        "start": "2025-07-11T05:40:00+00:00",
+                        "end": "2025-07-11T06:10:00+00:00"
+                    },
+                    {
+                        "name": "予選 1／Qualifying 1",
+                        "start": "2025-07-12T00:27:00+00:00",
+                        "end": "2025-07-12T00:57:00+00:00"
+                    },
+                    {
+                        "name": "予選 2／Qualifying 2",
+                        "start": "2025-07-12T00:49:00+00:00",
+                        "end": "2025-07-12T01:19:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "name": "レース 1／Race 1",
+                        "start": "2025-07-12T07:05:00+00:00",
+                        "end": "2025-07-12T09:05:00+00:00"
+                    },
+                    {
+                        "name": "レース 2／Race 2",
+                        "start": "2025-07-13T05:50:00+00:00",
+                        "end": "2025-07-13T07:50:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "name": "Fuji International Speedway",
+            "full_name": "Fuji International Speedway",
+            "circuit": {
+                "name": "Fuji International Speedway",
+                "search": [
+                    "fuji international speedway",
+                    "fuji speedway",
+                    "fuji"
+                ],
+                "city": "Fuji",
+                "country": "Japan",
+                "series": [
+                    "japan_cup",
+                    "gtwcas",
+                    "wec"
+                ]
+            },
+            "sessions": {
+                "p": [
+                    {
+                        "name": "公式有料テスト／Official Paid Test",
+                        "start": "2024-06-20T00:00:00+00:00",
+                        "end": "2024-06-20T01:00:00+00:00"
+                    },
+                    {
+                        "name": "Official Practice 1",
+                        "start": "2024-06-21T00:50:00+00:00",
+                        "end": "2024-06-21T01:50:00+00:00"
+                    },
+                    {
+                        "name": "Official Practice 2",
+                        "start": "2024-06-21T04:50:00+00:00",
+                        "end": "2024-06-21T05:50:00+00:00"
+                    },
+                    {
+                        "name": "ブロンズセッション／Bronze session",
+                        "start": "2024-06-21T05:55:00+00:00",
+                        "end": "2024-06-21T06:55:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "name": "予選 1／Qualifying 1",
+                        "start": "2024-06-22T00:52:00+00:00",
+                        "end": "2024-06-22T01:22:00+00:00"
+                    },
+                    {
+                        "name": "予選 2／Qualifying 2",
+                        "start": "2024-06-22T01:14:00+00:00",
+                        "end": "2024-06-22T01:44:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "name": "レース 1／Race 1",
+                        "start": "2024-06-22T06:30:00+00:00",
+                        "end": "2024-06-22T08:30:00+00:00"
+                    },
+                    {
+                        "name": "レース 2／Race 2",
+                        "start": "2024-06-23T05:15:00+00:00",
+                        "end": "2024-06-23T07:15:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "name": "Suzuka International Circuit",
+            "full_name": "Suzuka International Circuit",
+            "circuit": {
+                "name": "Suzuka International Racing Course",
+                "search": [
+                    "suzuka",
+                    "suzuka circuit",
+                    "suzuka international racing course",
+                    "suzuka race track",
+                    "suzuka international circuit"
+                ],
+                "city": "Suzuka",
+                "country": null,
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "japan_cup",
+                    "igtc",
+                    "gtwcas"
+                ]
+            },
+            "sessions": {
+                "p": [
+                    {
+                        "name": "公式有料テスト／Official Paid Test",
+                        "start": "2024-07-04T01:00:00+00:00",
+                        "end": "2024-07-04T02:00:00+00:00"
+                    },
+                    {
+                        "name": "Official Practice 1",
+                        "start": "2024-07-05T00:45:00+00:00",
+                        "end": "2024-07-05T01:45:00+00:00"
+                    },
+                    {
+                        "name": "Official Practice 2",
+                        "start": "2024-07-05T05:00:00+00:00",
+                        "end": "2024-07-05T06:00:00+00:00"
+                    },
+                    {
+                        "name": "ブロンズセッション／Bronze session",
+                        "start": "2024-07-05T06:35:00+00:00",
+                        "end": "2024-07-05T07:35:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "name": "予選 1／Qualifying 1",
+                        "start": "2024-07-06T01:20:00+00:00",
+                        "end": "2024-07-06T01:50:00+00:00"
+                    },
+                    {
+                        "name": "予選 2／Qualifying 2",
+                        "start": "2024-07-06T01:42:00+00:00",
+                        "end": "2024-07-06T02:12:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "name": "レース 1／Race 1",
+                        "start": "2024-07-06T05:55:00+00:00",
+                        "end": "2024-07-06T07:55:00+00:00"
+                    },
+                    {
+                        "name": "レース 2／Race 2",
+                        "start": "2024-07-07T05:10:00+00:00",
+                        "end": "2024-07-07T07:10:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "name": "Okayama International Circuit",
+            "full_name": "Okayama International Circuit",
+            "circuit": {
+                "name": "Okayama International Circuit",
+                "search": [
+                    "okayama international circuit"
+                ],
+                "city": "Okayama",
+                "country": "Japan",
+                "series": [
+                    "japan_cup",
+                    "gtwcas"
+                ]
+            },
+            "sessions": {
+                "p": [
+                    {
+                        "name": "Official Paid Test 1",
+                        "start": "2024-08-22T01:00:00+00:00",
+                        "end": "2024-08-22T02:00:00+00:00"
+                    },
+                    {
+                        "name": "Official Paid Test 2",
+                        "start": "2024-08-22T03:00:00+00:00",
+                        "end": "2024-08-22T04:00:00+00:00"
+                    },
+                    {
+                        "name": "Official Practice 1",
+                        "start": "2024-08-23T00:15:00+00:00",
+                        "end": "2024-08-23T01:15:00+00:00"
+                    },
+                    {
+                        "name": "Official Practice 2",
+                        "start": "2024-08-23T04:15:00+00:00",
+                        "end": "2024-08-23T05:15:00+00:00"
+                    },
+                    {
+                        "name": "ブロンズセッション／Bronze session",
+                        "start": "2024-08-23T05:23:00+00:00",
+                        "end": "2024-08-23T06:23:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "name": "予選 1／Qualifying 1",
+                        "start": "2024-08-24T00:55:00+00:00",
+                        "end": "2024-08-24T01:25:00+00:00"
+                    },
+                    {
+                        "name": "予選 2／Qualifying 2",
+                        "start": "2024-08-24T01:17:00+00:00",
+                        "end": "2024-08-24T01:47:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "name": "レース 1／Race 1",
+                        "start": "2024-08-24T06:55:00+00:00",
+                        "end": "2024-08-24T08:55:00+00:00"
+                    },
+                    {
+                        "name": "レース 2／Race 2",
+                        "start": "2024-08-25T04:20:00+00:00",
+                        "end": "2024-08-25T06:20:00+00:00"
+                    }
+                ]
+            }
+        }
+    ],
+    "color": "crimson",
+    "last_scraped": "2025-07-25T18:59:35.270907+00:00",
+    "full_name": "Japan Cup",
+    "name": "Japan Cup",
+    "category": "Sports Car",
+    "gov_body": "SRO",
+    "source": "https://japancup.co/event",
+    "version": "0.6.4",
+    "generated_by": "Two Seconds Ted: The Motorsport Calendar",
+    "classes": [
+        "GT3"
+    ]
+}

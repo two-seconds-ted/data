@@ -1,1 +1,259 @@
-{"events": [{"id": "Race 1: 4H of Sepang", "name": "Race 1: 4H of Sepang", "full_name": "Race 1: 4H of Sepang", "circuit": {"name": "Sepang International Circuit", "search": ["sepang international circuit", "sepang"], "city": "Sepang", "country": "Malaysia", "series": ["alms", "gtwcas", "igtc", "gtwce"]}, "sessions": {"p": [], "q": [], "r": [{"name": "Race 1: 4H of Sepang", "start": "2025-12-13T00:00:00+00:00", "end": "2025-12-13T00:00:00+00:00"}]}}, {"id": "Race 2: 4H of Sepang", "name": "Race 2: 4H of Sepang", "full_name": "Race 2: 4H of Sepang", "circuit": {"name": "Sepang International Circuit", "search": ["sepang international circuit", "sepang"], "city": "Sepang", "country": "Malaysia", "series": ["alms", "gtwcas", "igtc", "gtwce"]}, "sessions": {"p": [], "q": [], "r": [{"name": "Race 2: 4H of Sepang", "start": "2025-12-14T00:00:00+00:00", "end": "2025-12-14T00:00:00+00:00"}]}}, {"id": "Race 3: 4H of Dubai", "name": "Race 3: 4H of Dubai", "full_name": "Race 3: 4H of Dubai", "circuit": {"name": "Dubai Autodrome", "search": ["dubai autodrome", "dubai", "dubai motorsport city"], "city": "Dubai", "country": "United Arab Emirates", "series": ["alms"]}, "sessions": {"p": [], "q": [], "r": [{"name": "Race 3: 4H of Dubai", "start": "2026-01-31T00:00:00+00:00", "end": "2026-01-31T00:00:00+00:00"}]}}, {"id": "Race 4: 4H of Dubai", "name": "Race 4: 4H of Dubai", "full_name": "Race 4: 4H of Dubai", "circuit": {"name": "Dubai Autodrome", "search": ["dubai autodrome", "dubai", "dubai motorsport city"], "city": "Dubai", "country": "United Arab Emirates", "series": ["alms"]}, "sessions": {"p": [{"name": "Free Practice 1", "start": "1969-12-31T23:00:00+00:00", "end": "1969-12-31T23:00:00+00:00"}, {"name": "Free Practice 2", "start": "1969-12-31T23:00:00+00:00", "end": "1969-12-31T23:00:00+00:00"}], "q": [{"name": "Qualifying", "start": "1969-12-31T23:00:00+00:00", "end": "1969-12-31T23:00:00+00:00"}], "r": [{"name": "Race 4: 4H of Dubai", "start": "2026-02-01T00:00:00+00:00", "end": "2026-02-01T00:00:00+00:00"}]}}, {"id": "Race 5: 4H of Abu Dhabi", "name": "Race 5: 4H of Abu Dhabi", "full_name": "Race 5: 4H of Abu Dhabi", "circuit": {"name": "Yas Marina Circuit", "search": ["yas marina", "yas marina circuit", "yas marina race track", "gulf"], "city": "Abu Dhabi", "country": null, "series": ["f1", "f2", "f3", "f1-academy", "alms", "igtc"]}, "sessions": {"p": [{"name": "Free Practice 1", "start": "1969-12-31T23:00:00+00:00", "end": "1969-12-31T23:00:00+00:00"}, {"name": "Free Practice 2", "start": "1969-12-31T23:00:00+00:00", "end": "1969-12-31T23:00:00+00:00"}], "q": [{"name": "Qualifying", "start": "1969-12-31T23:00:00+00:00", "end": "1969-12-31T23:00:00+00:00"}], "r": [{"name": "Race 5: 4H of Abu Dhabi", "start": "2026-02-07T00:00:00+00:00", "end": "2026-02-07T00:00:00+00:00"}]}}, {"id": "Race 6: 4H of Abu Dhabi", "name": "Race 6: 4H of Abu Dhabi", "full_name": "Race 6: 4H of Abu Dhabi", "circuit": {"name": "Yas Marina Circuit", "search": ["yas marina", "yas marina circuit", "yas marina race track", "gulf"], "city": "Abu Dhabi", "country": null, "series": ["f1", "f2", "f3", "f1-academy", "alms", "igtc"]}, "sessions": {"p": [{"name": "Free Practice 1", "start": "1969-12-31T23:00:00+00:00", "end": "1969-12-31T23:00:00+00:00"}, {"name": "Free Practice 2", "start": "1969-12-31T23:00:00+00:00", "end": "1969-12-31T23:00:00+00:00"}], "q": [{"name": "Qualifying", "start": "1969-12-31T23:00:00+00:00", "end": "1969-12-31T23:00:00+00:00"}], "r": [{"name": "Race 6: 4H of Abu Dhabi", "start": "2026-02-08T00:00:00+00:00", "end": "2026-02-08T00:00:00+00:00"}]}}], "color": "green", "last_scraped": "2025-07-25T18:43:48.855089+00:00", "full_name": "Asian Le Mans Series", "name": "ALMS", "category": "Endurance", "gov_body": "ACO", "source": "https://www.asianlemansseries.com", "version": "0.6.4", "generated_by": "Two Seconds Ted: The Motorsport Calendar", "classes": ["LMP2", "LMP3", "GT3"]}
+{
+    "category": "Endurance",
+    "classes": [
+        "LMP2",
+        "LMP3",
+        "GT3"
+    ],
+    "color": "green",
+    "events": [
+        {
+            "circuit": {
+                "city": "Sepang",
+                "country": "Malaysia",
+                "name": "Sepang International Circuit",
+                "search": [
+                    "sepang international circuit",
+                    "sepang"
+                ],
+                "series": [
+                    "alms",
+                    "gtwcas",
+                    "igtc",
+                    "gtwce"
+                ]
+            },
+            "full_name": "Race 1: 4H of Sepang",
+            "id": "Race 1: 4H of Sepang",
+            "name": "Race 1: 4H of Sepang",
+            "sessions": {
+                "p": [],
+                "q": [],
+                "r": [
+                    {
+                        "end": "2025-12-13T00:00:00+00:00",
+                        "name": "Race 1: 4H of Sepang",
+                        "start": "2025-12-13T00:00:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Sepang",
+                "country": "Malaysia",
+                "name": "Sepang International Circuit",
+                "search": [
+                    "sepang international circuit",
+                    "sepang"
+                ],
+                "series": [
+                    "alms",
+                    "gtwcas",
+                    "igtc",
+                    "gtwce"
+                ]
+            },
+            "full_name": "Race 2: 4H of Sepang",
+            "id": "Race 2: 4H of Sepang",
+            "name": "Race 2: 4H of Sepang",
+            "sessions": {
+                "p": [],
+                "q": [],
+                "r": [
+                    {
+                        "end": "2025-12-14T00:00:00+00:00",
+                        "name": "Race 2: 4H of Sepang",
+                        "start": "2025-12-14T00:00:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Dubai",
+                "country": "United Arab Emirates",
+                "name": "Dubai Autodrome",
+                "search": [
+                    "dubai autodrome",
+                    "dubai",
+                    "dubai motorsport city"
+                ],
+                "series": [
+                    "alms"
+                ]
+            },
+            "full_name": "Race 3: 4H of Dubai",
+            "id": "Race 3: 4H of Dubai",
+            "name": "Race 3: 4H of Dubai",
+            "sessions": {
+                "p": [],
+                "q": [],
+                "r": [
+                    {
+                        "end": "2026-01-31T00:00:00+00:00",
+                        "name": "Race 3: 4H of Dubai",
+                        "start": "2026-01-31T00:00:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Dubai",
+                "country": "United Arab Emirates",
+                "name": "Dubai Autodrome",
+                "search": [
+                    "dubai autodrome",
+                    "dubai",
+                    "dubai motorsport city"
+                ],
+                "series": [
+                    "alms"
+                ]
+            },
+            "full_name": "Race 4: 4H of Dubai",
+            "id": "Race 4: 4H of Dubai",
+            "name": "Race 4: 4H of Dubai",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "1969-12-31T23:00:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "1969-12-31T23:00:00+00:00"
+                    },
+                    {
+                        "end": "1969-12-31T23:00:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "1969-12-31T23:00:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "1969-12-31T23:00:00+00:00",
+                        "name": "Qualifying",
+                        "start": "1969-12-31T23:00:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2026-02-01T00:00:00+00:00",
+                        "name": "Race 4: 4H of Dubai",
+                        "start": "2026-02-01T00:00:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Abu Dhabi",
+                "country": null,
+                "name": "Yas Marina Circuit",
+                "search": [
+                    "yas marina",
+                    "yas marina circuit",
+                    "yas marina race track",
+                    "gulf"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "alms",
+                    "igtc"
+                ]
+            },
+            "full_name": "Race 5: 4H of Abu Dhabi",
+            "id": "Race 5: 4H of Abu Dhabi",
+            "name": "Race 5: 4H of Abu Dhabi",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "1969-12-31T23:00:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "1969-12-31T23:00:00+00:00"
+                    },
+                    {
+                        "end": "1969-12-31T23:00:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "1969-12-31T23:00:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "1969-12-31T23:00:00+00:00",
+                        "name": "Qualifying",
+                        "start": "1969-12-31T23:00:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2026-02-07T00:00:00+00:00",
+                        "name": "Race 5: 4H of Abu Dhabi",
+                        "start": "2026-02-07T00:00:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Abu Dhabi",
+                "country": null,
+                "name": "Yas Marina Circuit",
+                "search": [
+                    "yas marina",
+                    "yas marina circuit",
+                    "yas marina race track",
+                    "gulf"
+                ],
+                "series": [
+                    "f1",
+                    "f2",
+                    "f3",
+                    "f1-academy",
+                    "alms",
+                    "igtc"
+                ]
+            },
+            "full_name": "Race 6: 4H of Abu Dhabi",
+            "id": "Race 6: 4H of Abu Dhabi",
+            "name": "Race 6: 4H of Abu Dhabi",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "1969-12-31T23:00:00+00:00",
+                        "name": "Free Practice 1",
+                        "start": "1969-12-31T23:00:00+00:00"
+                    },
+                    {
+                        "end": "1969-12-31T23:00:00+00:00",
+                        "name": "Free Practice 2",
+                        "start": "1969-12-31T23:00:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "1969-12-31T23:00:00+00:00",
+                        "name": "Qualifying",
+                        "start": "1969-12-31T23:00:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2026-02-08T00:00:00+00:00",
+                        "name": "Race 6: 4H of Abu Dhabi",
+                        "start": "2026-02-08T00:00:00+00:00"
+                    }
+                ]
+            }
+        }
+    ],
+    "full_name": "Asian Le Mans Series",
+    "generated_by": "Two Seconds Ted: The Motorsport Calendar",
+    "gov_body": "ACO",
+    "last_scraped": "2025-07-26T09:34:12.695848+00:00",
+    "name": "ALMS",
+    "source": "https://www.asianlemansseries.com",
+    "version": "0.6.5"
+}

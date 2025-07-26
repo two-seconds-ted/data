@@ -1,1 +1,539 @@
-{"events": [{"id": 1, "name": "Phillip Island", "full_name": "Phillip Island", "circuit": {"name": "Phillip Island Circuit", "search": ["phillip island", "phillip island circuit", "phillip island grand prix circuit", "phillip island grand prix", "phillip island grand prix circuit"], "city": null, "country": "Australia", "series": ["gt4_australia", "gtwcau"]}, "sessions": {"p": [{"name": "Practice 1", "start": "2024-04-12T09:50:00+00:00", "end": "2024-04-12T10:50:00+00:00"}, {"name": "Practice 2", "start": "2024-04-12T13:35:00+00:00", "end": "2024-04-12T14:35:00+00:00"}], "q": [{"name": "Qualifying 2", "start": "2024-04-12T09:15:00+00:00", "end": "2024-04-12T09:45:00+00:00"}, {"name": "Qualifying 1", "start": "2024-04-13T08:55:00+00:00", "end": "2024-04-13T09:25:00+00:00"}, {"name": "Qualifying 2", "start": "2024-04-13T09:15:00+00:00", "end": "2024-04-13T09:45:00+00:00"}], "r": [{"name": "Race 1", "start": "2024-04-13T14:55:00+00:00", "end": "2024-04-13T16:55:00+00:00"}, {"name": "Race 2", "start": "2024-04-14T09:15:00+00:00", "end": "2024-04-14T11:15:00+00:00"}]}}, {"id": 2, "name": "The Bend", "full_name": "The Bend", "circuit": {"name": "The Bend Motorsport Park", "search": ["the bend", "the bend motorsport park"], "city": "Tailem Bend", "country": "Australia", "series": ["gt4_australia", "gtwcau"]}, "sessions": {"p": [{"name": "Practice 1", "start": "2024-05-31T09:05:00+00:00", "end": "2024-05-31T10:05:00+00:00"}, {"name": "Practice 2", "start": "2024-05-31T13:55:00+00:00", "end": "2024-05-31T14:55:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2024-06-01T07:50:00+00:00", "end": "2024-06-01T08:20:00+00:00"}, {"name": "Qualifying 2", "start": "2024-06-01T08:10:00+00:00", "end": "2024-06-01T08:40:00+00:00"}], "r": [{"name": "Race 1", "start": "2024-06-01T14:25:00+00:00", "end": "2024-06-01T16:25:00+00:00"}, {"name": "Race 2", "start": "2024-06-02T11:05:00+00:00", "end": "2024-06-02T13:05:00+00:00"}]}}, {"id": 3, "name": "Queensland Raceway", "full_name": "Queensland Raceway", "circuit": {"name": "Queensland Raceway", "search": ["queensland raceway", "qld raceway", "qldr"], "city": null, "country": "Australia", "series": ["gt4_australia", "gtwcau"]}, "sessions": {"p": [{"name": "Practice 1", "start": "2024-08-02T06:50:00+00:00", "end": "2024-08-02T07:50:00+00:00"}, {"name": "Practice 2", "start": "2024-08-02T13:25:00+00:00", "end": "2024-08-02T14:25:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2024-08-03T06:40:00+00:00", "end": "2024-08-03T07:10:00+00:00"}, {"name": "Qualifying 2", "start": "2024-08-03T07:00:00+00:00", "end": "2024-08-03T07:30:00+00:00"}], "r": [{"name": "Race 1", "start": "2024-08-03T11:20:00+00:00", "end": "2024-08-03T13:20:00+00:00"}, {"name": "Race 2", "start": "2024-08-04T06:35:00+00:00", "end": "2024-08-04T08:35:00+00:00"}]}}, {"id": 4, "name": "GT Festival", "full_name": "GT Festival", "circuit": {"name": "GT Festival", "search": ["gt festival"], "city": null, "country": null, "series": ["gt4_australia", "gtwcau"], "lat": 0, "lon": 0}, "sessions": {"p": [{"name": "Practice 1", "start": "2024-08-23T13:25:00+00:00", "end": "2024-08-23T14:25:00+00:00"}], "q": [{"name": "Pre-Qualifying", "start": "2024-08-23T15:15:00+00:00", "end": "2024-08-23T15:45:00+00:00"}, {"name": "Qualifying 1", "start": "2024-08-24T10:30:00+00:00", "end": "2024-08-24T11:00:00+00:00"}, {"name": "Qualifying 2", "start": "2024-08-24T10:45:00+00:00", "end": "2024-08-24T11:15:00+00:00"}], "r": [{"name": "Race 1", "start": "2024-08-24T13:25:00+00:00", "end": "2024-08-24T15:25:00+00:00"}, {"name": "Race 2", "start": "2024-08-25T10:10:00+00:00", "end": "2024-08-25T12:10:00+00:00"}]}}, {"id": 5, "name": "Sydney Motorsport Park", "full_name": "Sydney Motorsport Park", "circuit": {"name": "Sydney Motorsport Park", "search": ["sydney motorsport park", "smp", "sydney"], "city": "Eastern Creek", "country": "Australia", "series": ["gt4_australia", "gtwcau"]}, "sessions": {"p": [{"name": "Practice 1", "start": "2024-10-18T09:45:00+00:00", "end": "2024-10-18T10:45:00+00:00"}, {"name": "Practice 2", "start": "2024-10-18T14:10:00+00:00", "end": "2024-10-18T15:10:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2024-10-18T18:25:00+00:00", "end": "2024-10-18T18:55:00+00:00"}, {"name": "Qualifying 2", "start": "2024-10-18T18:40:00+00:00", "end": "2024-10-18T19:10:00+00:00"}], "r": [{"name": "Race 1", "start": "2024-10-19T15:40:00+00:00", "end": "2024-10-19T17:40:00+00:00"}, {"name": "Race 2", "start": "2024-10-20T11:40:00+00:00", "end": "2024-10-20T13:40:00+00:00"}]}}, {"id": 6, "name": "Bathurst", "full_name": "Bathurst", "circuit": {"name": "Mount Panorama Circuit", "search": ["bathurst", "mount panorama", "mount panorama circuit", "mount panorama circuit bathurst", "mount panorama bathurst"], "city": "Bathurst", "country": "Australia", "series": ["gt4_australia", "igtc", "gtwcau"]}, "sessions": {"p": [{"name": "Practice 1", "start": "2024-11-08T07:55:00+00:00", "end": "2024-11-08T08:55:00+00:00"}, {"name": "Practice 2", "start": "2024-11-08T13:00:00+00:00", "end": "2024-11-08T14:00:00+00:00"}], "q": [{"name": "Qualifying 1", "start": "2024-11-09T07:40:00+00:00", "end": "2024-11-09T08:10:00+00:00"}, {"name": "Qualifying 2", "start": "2024-11-09T08:00:00+00:00", "end": "2024-11-09T08:30:00+00:00"}], "r": [{"name": "Race 1", "start": "2024-11-09T16:50:00+00:00", "end": "2024-11-09T18:50:00+00:00"}, {"name": "Race 2", "start": "2024-11-10T10:45:00+00:00", "end": "2024-11-10T12:45:00+00:00"}]}}, {"id": 8, "name": "Phillip Island", "full_name": "Phillip Island", "circuit": {"name": "Phillip Island Circuit", "search": ["phillip island", "phillip island circuit", "phillip island grand prix circuit", "phillip island grand prix", "phillip island grand prix circuit"], "city": null, "country": "Australia", "series": ["gt4_australia", "gtwcau"]}, "sessions": {"p": [{"name": "Practice 1", "start": "2025-04-04T09:50:00+00:00", "end": "2025-04-04T10:50:00+00:00"}], "q": [{"name": "Pre-Qualifying", "start": "2025-04-04T13:30:00+00:00", "end": "2025-04-04T14:00:00+00:00"}, {"name": "Qualifying 1", "start": "2025-04-05T10:10:00+00:00", "end": "2025-04-05T10:40:00+00:00"}, {"name": "Qualifying 2", "start": "2025-04-05T10:28:00+00:00", "end": "2025-04-05T10:58:00+00:00"}], "r": [{"name": "Race 1", "start": "2025-04-05T14:30:00+00:00", "end": "2025-04-05T16:30:00+00:00"}, {"name": "Race 2", "start": "2025-04-06T10:30:00+00:00", "end": "2025-04-06T12:30:00+00:00"}]}}, {"id": 9, "name": "Sydney", "full_name": "Sydney", "circuit": {"name": "Sydney Motorsport Park", "search": ["sydney motorsport park", "smp", "sydney"], "city": "Eastern Creek", "country": "Australia", "series": ["gt4_australia", "gtwcau"]}, "sessions": {"p": [{"name": "Practice 1", "start": "2025-05-02T11:15:00+00:00", "end": "2025-05-02T12:15:00+00:00"}], "q": [{"name": "Pre-Qualifying", "start": "2025-05-02T15:20:00+00:00", "end": "2025-05-02T15:50:00+00:00"}, {"name": "Qualifying 1", "start": "2025-05-03T09:20:00+00:00", "end": "2025-05-03T09:50:00+00:00"}, {"name": "Qualifying 2", "start": "2025-05-03T09:45:00+00:00", "end": "2025-05-03T10:15:00+00:00"}], "r": [{"name": "Race 1", "start": "2025-05-03T15:40:00+00:00", "end": "2025-05-03T17:40:00+00:00"}, {"name": "Race 2", "start": "2025-05-04T09:50:00+00:00", "end": "2025-05-04T11:50:00+00:00"}]}}, {"id": 11, "name": "Sandown", "full_name": "Sandown", "circuit": {"name": "Sandown Raceway", "search": ["sandown", "sandown raceway"], "city": "Melbourne", "country": "Australia", "series": ["gt4_australia", "gtwcau"]}, "sessions": {"p": [{"name": "Practice 1", "start": "2025-07-25T01:30:00+00:00", "end": "2025-07-25T02:30:00+00:00"}], "q": [{"name": "Pre-Qualifying", "start": "2025-07-25T04:45:00+00:00", "end": "2025-07-25T05:15:00+00:00"}, {"name": "Qualifying 1", "start": "2025-07-26T23:50:00+00:00", "end": "2025-07-27T00:20:00+00:00"}, {"name": "Qualifying 2", "start": "2025-07-26T00:15:00+00:00", "end": "2025-07-26T00:45:00+00:00"}], "r": [{"name": "Race 1", "start": "2025-07-26T03:20:00+00:00", "end": "2025-07-26T05:20:00+00:00"}, {"name": "Race 2", "start": "2025-07-27T01:30:00+00:00", "end": "2025-07-27T03:30:00+00:00"}]}}], "color": "crimson", "last_scraped": "2025-07-25T18:47:38.197763+00:00", "full_name": "GT4 Australia Series", "name": "GT4 Australia", "category": "Sports Car", "gov_body": "SRO", "source": "https://gt4australia.com.au/event", "version": "0.6.4", "generated_by": "Two Seconds Ted: The Motorsport Calendar", "classes": ["GT4"]}
+{
+    "category": "Sports Car",
+    "classes": [
+        "GT4"
+    ],
+    "color": "crimson",
+    "events": [
+        {
+            "circuit": {
+                "city": null,
+                "country": "Australia",
+                "name": "Phillip Island Circuit",
+                "search": [
+                    "phillip island",
+                    "phillip island circuit",
+                    "phillip island grand prix circuit",
+                    "phillip island grand prix",
+                    "phillip island grand prix circuit"
+                ],
+                "series": [
+                    "gt4_australia",
+                    "gtwcau"
+                ]
+            },
+            "full_name": "Phillip Island",
+            "id": 1,
+            "name": "Phillip Island",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-04-12T10:50:00+00:00",
+                        "name": "Practice 1",
+                        "start": "2024-04-12T09:50:00+00:00"
+                    },
+                    {
+                        "end": "2024-04-12T14:35:00+00:00",
+                        "name": "Practice 2",
+                        "start": "2024-04-12T13:35:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-04-12T09:45:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2024-04-12T09:15:00+00:00"
+                    },
+                    {
+                        "end": "2024-04-13T09:25:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2024-04-13T08:55:00+00:00"
+                    },
+                    {
+                        "end": "2024-04-13T09:45:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2024-04-13T09:15:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-04-13T16:55:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-04-13T14:55:00+00:00"
+                    },
+                    {
+                        "end": "2024-04-14T11:15:00+00:00",
+                        "name": "Race 2",
+                        "start": "2024-04-14T09:15:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Tailem Bend",
+                "country": "Australia",
+                "name": "The Bend Motorsport Park",
+                "search": [
+                    "the bend",
+                    "the bend motorsport park"
+                ],
+                "series": [
+                    "gt4_australia",
+                    "gtwcau"
+                ]
+            },
+            "full_name": "The Bend",
+            "id": 2,
+            "name": "The Bend",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-05-31T10:05:00+00:00",
+                        "name": "Practice 1",
+                        "start": "2024-05-31T09:05:00+00:00"
+                    },
+                    {
+                        "end": "2024-05-31T14:55:00+00:00",
+                        "name": "Practice 2",
+                        "start": "2024-05-31T13:55:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-06-01T08:20:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2024-06-01T07:50:00+00:00"
+                    },
+                    {
+                        "end": "2024-06-01T08:40:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2024-06-01T08:10:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-06-01T16:25:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-06-01T14:25:00+00:00"
+                    },
+                    {
+                        "end": "2024-06-02T13:05:00+00:00",
+                        "name": "Race 2",
+                        "start": "2024-06-02T11:05:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": null,
+                "country": "Australia",
+                "name": "Queensland Raceway",
+                "search": [
+                    "queensland raceway",
+                    "qld raceway",
+                    "qldr"
+                ],
+                "series": [
+                    "gt4_australia",
+                    "gtwcau"
+                ]
+            },
+            "full_name": "Queensland Raceway",
+            "id": 3,
+            "name": "Queensland Raceway",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-08-02T07:50:00+00:00",
+                        "name": "Practice 1",
+                        "start": "2024-08-02T06:50:00+00:00"
+                    },
+                    {
+                        "end": "2024-08-02T14:25:00+00:00",
+                        "name": "Practice 2",
+                        "start": "2024-08-02T13:25:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-08-03T07:10:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2024-08-03T06:40:00+00:00"
+                    },
+                    {
+                        "end": "2024-08-03T07:30:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2024-08-03T07:00:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-08-03T13:20:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-08-03T11:20:00+00:00"
+                    },
+                    {
+                        "end": "2024-08-04T08:35:00+00:00",
+                        "name": "Race 2",
+                        "start": "2024-08-04T06:35:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": null,
+                "country": null,
+                "lat": 0,
+                "lon": 0,
+                "name": "GT Festival",
+                "search": [
+                    "gt festival"
+                ],
+                "series": [
+                    "gt4_australia",
+                    "gtwcau"
+                ]
+            },
+            "full_name": "GT Festival",
+            "id": 4,
+            "name": "GT Festival",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-08-23T14:25:00+00:00",
+                        "name": "Practice 1",
+                        "start": "2024-08-23T13:25:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-08-23T15:45:00+00:00",
+                        "name": "Pre-Qualifying",
+                        "start": "2024-08-23T15:15:00+00:00"
+                    },
+                    {
+                        "end": "2024-08-24T11:00:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2024-08-24T10:30:00+00:00"
+                    },
+                    {
+                        "end": "2024-08-24T11:15:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2024-08-24T10:45:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-08-24T15:25:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-08-24T13:25:00+00:00"
+                    },
+                    {
+                        "end": "2024-08-25T12:10:00+00:00",
+                        "name": "Race 2",
+                        "start": "2024-08-25T10:10:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Eastern Creek",
+                "country": "Australia",
+                "name": "Sydney Motorsport Park",
+                "search": [
+                    "sydney motorsport park",
+                    "smp",
+                    "sydney"
+                ],
+                "series": [
+                    "gt4_australia",
+                    "gtwcau"
+                ]
+            },
+            "full_name": "Sydney Motorsport Park",
+            "id": 5,
+            "name": "Sydney Motorsport Park",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-10-18T10:45:00+00:00",
+                        "name": "Practice 1",
+                        "start": "2024-10-18T09:45:00+00:00"
+                    },
+                    {
+                        "end": "2024-10-18T15:10:00+00:00",
+                        "name": "Practice 2",
+                        "start": "2024-10-18T14:10:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-10-18T18:55:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2024-10-18T18:25:00+00:00"
+                    },
+                    {
+                        "end": "2024-10-18T19:10:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2024-10-18T18:40:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-10-19T17:40:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-10-19T15:40:00+00:00"
+                    },
+                    {
+                        "end": "2024-10-20T13:40:00+00:00",
+                        "name": "Race 2",
+                        "start": "2024-10-20T11:40:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Bathurst",
+                "country": "Australia",
+                "name": "Mount Panorama Circuit",
+                "search": [
+                    "bathurst",
+                    "mount panorama",
+                    "mount panorama circuit",
+                    "mount panorama circuit bathurst",
+                    "mount panorama bathurst"
+                ],
+                "series": [
+                    "gt4_australia",
+                    "igtc",
+                    "gtwcau"
+                ]
+            },
+            "full_name": "Bathurst",
+            "id": 6,
+            "name": "Bathurst",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2024-11-08T08:55:00+00:00",
+                        "name": "Practice 1",
+                        "start": "2024-11-08T07:55:00+00:00"
+                    },
+                    {
+                        "end": "2024-11-08T14:00:00+00:00",
+                        "name": "Practice 2",
+                        "start": "2024-11-08T13:00:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2024-11-09T08:10:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2024-11-09T07:40:00+00:00"
+                    },
+                    {
+                        "end": "2024-11-09T08:30:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2024-11-09T08:00:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2024-11-09T18:50:00+00:00",
+                        "name": "Race 1",
+                        "start": "2024-11-09T16:50:00+00:00"
+                    },
+                    {
+                        "end": "2024-11-10T12:45:00+00:00",
+                        "name": "Race 2",
+                        "start": "2024-11-10T10:45:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": null,
+                "country": "Australia",
+                "name": "Phillip Island Circuit",
+                "search": [
+                    "phillip island",
+                    "phillip island circuit",
+                    "phillip island grand prix circuit",
+                    "phillip island grand prix",
+                    "phillip island grand prix circuit"
+                ],
+                "series": [
+                    "gt4_australia",
+                    "gtwcau"
+                ]
+            },
+            "full_name": "Phillip Island",
+            "id": 8,
+            "name": "Phillip Island",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2025-04-04T10:50:00+00:00",
+                        "name": "Practice 1",
+                        "start": "2025-04-04T09:50:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2025-04-04T14:00:00+00:00",
+                        "name": "Pre-Qualifying",
+                        "start": "2025-04-04T13:30:00+00:00"
+                    },
+                    {
+                        "end": "2025-04-05T10:40:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2025-04-05T10:10:00+00:00"
+                    },
+                    {
+                        "end": "2025-04-05T10:58:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2025-04-05T10:28:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2025-04-05T16:30:00+00:00",
+                        "name": "Race 1",
+                        "start": "2025-04-05T14:30:00+00:00"
+                    },
+                    {
+                        "end": "2025-04-06T12:30:00+00:00",
+                        "name": "Race 2",
+                        "start": "2025-04-06T10:30:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Eastern Creek",
+                "country": "Australia",
+                "name": "Sydney Motorsport Park",
+                "search": [
+                    "sydney motorsport park",
+                    "smp",
+                    "sydney"
+                ],
+                "series": [
+                    "gt4_australia",
+                    "gtwcau"
+                ]
+            },
+            "full_name": "Sydney",
+            "id": 9,
+            "name": "Sydney",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2025-05-02T12:15:00+00:00",
+                        "name": "Practice 1",
+                        "start": "2025-05-02T11:15:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2025-05-02T15:50:00+00:00",
+                        "name": "Pre-Qualifying",
+                        "start": "2025-05-02T15:20:00+00:00"
+                    },
+                    {
+                        "end": "2025-05-03T09:50:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2025-05-03T09:20:00+00:00"
+                    },
+                    {
+                        "end": "2025-05-03T10:15:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2025-05-03T09:45:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2025-05-03T17:40:00+00:00",
+                        "name": "Race 1",
+                        "start": "2025-05-03T15:40:00+00:00"
+                    },
+                    {
+                        "end": "2025-05-04T11:50:00+00:00",
+                        "name": "Race 2",
+                        "start": "2025-05-04T09:50:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "circuit": {
+                "city": "Melbourne",
+                "country": "Australia",
+                "name": "Sandown Raceway",
+                "search": [
+                    "sandown",
+                    "sandown raceway"
+                ],
+                "series": [
+                    "gt4_australia",
+                    "gtwcau"
+                ]
+            },
+            "full_name": "Sandown",
+            "id": 11,
+            "name": "Sandown",
+            "sessions": {
+                "p": [
+                    {
+                        "end": "2025-07-25T02:30:00+00:00",
+                        "name": "Practice 1",
+                        "start": "2025-07-25T01:30:00+00:00"
+                    }
+                ],
+                "q": [
+                    {
+                        "end": "2025-07-25T05:15:00+00:00",
+                        "name": "Pre-Qualifying",
+                        "start": "2025-07-25T04:45:00+00:00"
+                    },
+                    {
+                        "end": "2025-07-27T00:20:00+00:00",
+                        "name": "Qualifying 1",
+                        "start": "2025-07-26T23:50:00+00:00"
+                    },
+                    {
+                        "end": "2025-07-26T00:45:00+00:00",
+                        "name": "Qualifying 2",
+                        "start": "2025-07-26T00:15:00+00:00"
+                    }
+                ],
+                "r": [
+                    {
+                        "end": "2025-07-26T05:20:00+00:00",
+                        "name": "Race 1",
+                        "start": "2025-07-26T03:20:00+00:00"
+                    },
+                    {
+                        "end": "2025-07-27T03:30:00+00:00",
+                        "name": "Race 2",
+                        "start": "2025-07-27T01:30:00+00:00"
+                    }
+                ]
+            }
+        }
+    ],
+    "full_name": "GT4 Australia Series",
+    "generated_by": "Two Seconds Ted: The Motorsport Calendar",
+    "gov_body": "SRO",
+    "last_scraped": "2025-07-26T09:38:43.661254+00:00",
+    "name": "GT4 Australia",
+    "source": "https://gt4australia.com.au/event",
+    "version": "0.6.5"
+}
